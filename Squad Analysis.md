@@ -69,7 +69,7 @@ In Amorim’s 3-4-2-1, the two attacking midfielders must:
 - **Kobbie Mainoo** – Promising young talent. Technically gifted but lacks pace; best suited slightly higher up the pitch.  
 - **Alejandro Garnacho** – Direct and aggressive, but extremely inefficient.  
   - Just **30% successful dribble rate** despite a high volume of attempts  
-  - **SCA/90: 3.24**, but wasteful with finishing and decision-making  via[Fbref](https://fbref.com/en/comps/9/possession/Premier-League-Stats)
+  - **SCA/90: 3.24**, but wasteful with finishing and decision-making  (via [Fbref](https://fbref.com/en/comps/9/possession/Premier-League-Stats))
 - **Joshua Zirkzee** – Can play as a striker or CAM. Technically excellent and creative; finished the season strong after a poor start.  
 
 ### ➡️ Verdict:
