@@ -34,7 +34,7 @@ After a high-profile move two seasons ago, **Rasmus Højlund** has not delivered
 
 - Just **4 goals in 30 Premier League appearances**  
 - **0 league assists**, and only **9 successful take-ons** from 29 attempts  
-- **201 touches in the attacking third** across the season — ranks **254th among all forwards** in Europe’s top 10 leagues (fewer than 7 per game)  
+- **201 touches in the attacking third** across the season — ranks **254th among all forwards** in the top 10 leagues (fewer than 7 per game)  
 - **No headed goals** despite being 6'3", raising concerns over his aerial threat  
 - Struggles to make effective runs, create space, or link up with midfielders  
 
