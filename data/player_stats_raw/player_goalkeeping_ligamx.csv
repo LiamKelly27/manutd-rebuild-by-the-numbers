@@ -1,0 +1,45 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Unnamed: 26_level_0
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Carlos Acevedo,mx MEX,GK,Santos,29-016,1996,33,33,2970,33.0,65,1.97,187,125,66.3,4,5,24,3,9.1,3,2,1,0,33.3,Matches
+2,Gil Alcalá,mx MEX,GK,UNAM,32-280,1992,4,4,360,4.0,2,0.50,7,5,71.4,2,1,1,3,75.0,0,0,0,0,,Matches
+3,Guillermo Allison,mx MEX,GK,Querétaro,34-222,1990,25,25,2250,25.0,42,1.68,131,87,71.8,6,4,15,5,20.0,7,5,2,0,28.6,Matches
+4,Esteban Andrada,ar ARG,GK,Monterrey,34-099,1991,24,24,2160,24.0,29,1.21,98,69,74.5,11,7,6,8,33.3,4,4,0,0,0.0,Matches
+5,Luis Ángel Malagón,mx MEX,GK,América,28-064,1997,29,29,2565,28.5,27,0.95,97,70,74.2,17,5,7,10,34.5,2,2,0,0,0.0,Matches
+6,José Antonio Rodríguez,mx MEX,GK,Tijuana,32-305,1992,21,21,1880,20.9,36,1.72,113,79,70.8,10,4,7,3,14.3,3,3,0,0,0.0,Matches
+7,Alfonso Blanco Antúnez,mx MEX,GK,León,37-278,1987,26,26,2340,26.0,33,1.27,129,98,76.7,9,9,8,7,26.9,4,3,0,1,0.0,Matches
+8,Luis Cárdenas,mx MEX,GK,Monterrey,31-232,1993,10,10,900,10.0,13,1.30,41,28,70.7,6,1,3,1,10.0,1,1,0,0,0.0,Matches
+9,José Corona,mx MEX,GK,Tijuana,44-099,1981,11,10,910,10.1,18,1.78,53,34,69.8,3,2,5,1,10.0,3,2,1,0,33.3,Matches
+10,Rodolfo Cota,mx MEX,GK,América,37-306,1987,6,5,495,5.5,4,0.73,17,13,76.5,1,2,2,3,60.0,0,0,0,0,,Matches
+11,Arturo Delgado,mx MEX,GK,FC Juárez,23-076,2002,2,2,180,2.0,1,0.50,11,10,90.9,1,1,0,1,50.0,0,0,0,0,,Matches
+12,Benny Díaz,mx MEX,GK,FC Juárez,26-141,1998,11,11,990,11.0,26,2.36,63,37,66.7,4,0,7,2,18.2,5,5,0,0,0.0,Matches
+13,José Eulogio,mx MEX,GK,Pachuca,21-083,2004,2,2,180,2.0,4,2.00,8,4,50.0,0,0,2,0,0.0,0,0,0,0,,Matches
+14,Carlos Felipe Rodríguez,mx MEX,GK,UANL,36-032,1989,3,3,270,3.0,1,0.33,10,9,90.0,2,1,0,2,66.7,0,0,0,0,,Matches
+15,Eduardo García,mx MEX,GK,Guadalajara,22-298,2002,2,2,180,2.0,3,1.50,9,6,66.7,1,0,1,1,50.0,0,0,0,0,,Matches
+16,Hugo González Durán,mx MEX,GK,Mazatlán,34-277,1990,34,34,3015,33.5,45,1.34,148,104,73.6,6,13,15,9,26.5,8,6,0,2,0.0,Matches
+17,Andrés Gudiño,mx MEX,GK,Cruz Azul,28-098,1997,1,1,90,1.0,1,1.00,3,2,66.7,1,0,0,0,0.0,0,0,0,0,,Matches
+18,Ricardo Gutiérrez,mx MEX,GK,Mazatlán,27-322,1997,1,0,45,0.5,0,0.00,5,5,100.0,0,0,0,0,,0,0,0,0,,Matches
+19,Nahuel Guzmán,ar ARG,GK,UANL,39-084,1986,28,28,2519,28.0,26,0.93,104,78,78.8,16,5,7,9,32.1,5,4,0,1,0.0,Matches
+20,Jorge Hernández,mx MEX,GK,Querétaro,26-149,1998,9,9,810,9.0,13,1.44,41,28,70.7,3,1,5,2,22.2,2,1,0,1,0.0,Matches
+21,Héctor Holguín,mx MEX,GK,Santos,24-011,2001,1,1,90,1.0,1,1.00,5,4,100.0,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+22,Oscar Jiménez,mx MEX,GK,León,36-205,1988,8,8,720,8.0,11,1.37,41,30,73.2,3,3,2,1,12.5,0,0,0,0,,Matches
+23,Miguel Jiménez Ponce,mx MEX,GK,Puebla,35-052,1990,24,24,2160,24.0,40,1.67,117,75,68.4,5,3,16,4,16.7,6,3,3,0,50.0,Matches
+24,Julio José González,mx MEX,GK,UNAM,34-012,1991,13,13,1170,13.0,11,0.85,44,34,79.5,7,3,3,6,46.2,2,2,0,0,0.0,Matches
+25,Julio José González,mx MEX,GK,Puebla,34-012,1991,6,6,540,6.0,8,1.33,30,22,76.7,0,1,5,1,16.7,1,1,0,0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Sebastián Jurado,mx MEX,GK,FC Juárez,27-219,1997,21,21,1890,21.0,30,1.43,87,58,67.8,6,7,8,5,23.8,2,2,0,0,0.0,Matches
+27,Pablo Lara,mx MEX,GK,UNAM,19-310,2005,7,7,630,7.0,9,1.29,32,24,71.9,3,2,2,2,28.6,0,0,0,0,,Matches
+28,Cesar López,mx MEX,GK,Atlético,24-329,2000,5,4,436,4.8,7,1.44,22,15,68.2,3,0,1,2,50.0,0,0,0,0,,Matches
+29,Pau López,es ESP,GK,Toluca,30-143,1994,10,10,900,10.0,13,1.30,37,25,64.9,7,2,1,4,40.0,0,0,0,0,,Matches
+30,Luis Manuel García,mx MEX,GK,Toluca,32-125,1992,5,5,450,5.0,6,1.20,15,9,60.0,3,1,1,1,20.0,0,0,0,0,,Matches
+31,Kevin Mier,co COL,GK,Cruz Azul,24-352,2000,33,33,2970,33.0,27,0.82,88,61,72.7,21,9,3,14,42.4,4,3,1,0,25.0,Matches
+32,Carlos Moreno,mx MEX,GK,Pachuca,27-096,1998,32,32,2880,32.0,48,1.50,142,93,69.0,11,8,13,6,18.8,5,4,1,0,20.0,Matches
+33,Miguel Ortega,mx MEX,GK,Tijuana,30-022,1995,3,3,270,3.0,6,2.00,13,7,61.5,1,0,2,0,0.0,1,1,0,0,0.0,Matches
+34,Alex Padilla,es ESP,GK,UNAM,21-246,2003,10,10,900,10.0,17,1.70,39,22,59.0,3,1,6,2,20.0,1,1,0,0,0.0,Matches
+35,José Rangel Aguilar,mx MEX,GK,Guadalajara,25-069,2000,32,32,2879,32.0,32,1.00,121,87,74.4,11,10,11,11,34.4,3,1,2,0,66.7,Matches
+36,Jesús Rodríguez,mx MEX,GK,Puebla,31-349,1993,4,4,360,4.0,8,2.00,20,12,60.0,1,1,2,1,25.0,0,0,0,0,,Matches
+37,Andrés Sánchez,mx MEX,GK,Atlético,27-214,1997,30,30,2624,29.2,45,1.54,132,86,66.7,12,3,15,3,10.0,2,1,1,0,50.0,Matches
+38,José Santiago Hernández,mx MEX,GK,Atlas,28-004,1997,3,3,270,3.0,3,1.00,6,3,66.7,1,2,0,1,33.3,1,1,0,0,0.0,Matches
+39,Fernando Tapia,mx MEX,GK,UANL,23-322,2001,3,3,270,3.0,2,0.67,17,15,88.2,2,1,0,1,33.3,0,0,0,0,,Matches
+40,Ezequiel Unsain,ar ARG,GK,Necaxa,30-057,1995,34,34,3060,34.0,55,1.62,165,110,69.7,13,7,14,9,26.5,5,5,0,0,0.0,Matches
+41,Camilo Vargas,co COL,GK,Atlas,36-057,1989,31,31,2790,31.0,52,1.68,151,99,67.5,8,11,12,7,22.6,4,3,1,0,25.0,Matches
+42,Tiago Volpi,br BRA,GK,Toluca,34-137,1990,19,19,1710,19.0,19,1.00,87,68,79.3,11,6,2,6,31.6,1,1,0,0,0.0,Matches

@@ -1,0 +1,46 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Unnamed: 26_level_0
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Lucas Acosta,ar ARG,GK,Sarmiento,30-054,1995,16,16,1440,16.0,19,1.19,83,66,78.3,2,9,5,4,25.0,2,1,0,1,0.0,Matches
+2,Alan Aguerre,ar ARG,GK,Cen. Córdoba–SdE,34-255,1990,14,14,1260,14.0,19,1.36,47,29,63.8,5,3,6,5,35.7,2,2,0,0,0.0,Matches
+3,Ignacio Arce,ar ARG,GK,Deportivo Riestra,33-027,1992,16,16,1440,16.0,7,0.44,53,48,90.6,5,9,2,12,75.0,2,2,0,0,0.0,Matches
+4,Gabriel Arias,cl CHI,GK,Racing Club,37-234,1987,12,12,1016,11.3,9,0.80,40,30,77.5,8,1,3,5,41.7,1,0,1,0,100.0,Matches
+5,Franco Armani,ar ARG,GK,River Plate,38-201,1986,16,16,1440,16.0,9,0.56,51,42,82.4,8,7,1,9,56.3,0,0,0,0,,Matches
+6,Williams Barlasina,ar ARG,GK,Aldosivi,26-310,1998,4,4,360,4.0,8,2.00,16,8,50.0,0,2,2,0,0.0,0,0,0,0,,Matches
+7,Enrique Bologna,ar ARG,GK,Defensa y Just,43-081,1982,16,16,1440,16.0,22,1.37,76,54,72.4,5,4,7,5,31.3,1,1,0,0,0.0,Matches
+8,Matías Borgogno,ar ARG,GK,San Martín de San Juan,26-257,1998,16,16,1440,16.0,18,1.13,61,43,72.1,2,3,11,3,18.8,1,1,0,0,0.0,Matches
+9,Leandro Brey,ar ARG,GK,Boca Juniors,22-226,2002,2,2,180,2.0,1,0.50,4,3,75.0,0,2,0,1,50.0,0,0,0,0,,Matches
+10,Jorge Broun,ar ARG,GK,Rosario Central,38-344,1986,14,14,1260,14.0,8,0.57,45,38,82.2,9,4,1,7,50.0,0,0,0,0,,Matches
+11,Javier Burrai,ec ECU,GK,Talleres,34-208,1990,2,1,135,1.5,1,0.67,4,3,75.0,1,0,0,1,100.0,0,0,0,0,,Matches
+12,Facundo Cambeses,ar ARG,GK,Racing Club,28-026,1997,5,4,421,4.7,7,1.50,28,21,75.0,1,0,3,1,25.0,0,0,0,0,,Matches
+13,Thiago Cardozo,uy URU,GK,Unión,28-278,1996,14,14,1256,14.0,16,1.15,51,35,72.5,2,5,7,3,21.4,2,2,0,0,0.0,Matches
+14,Jorge Carranza,ar ARG,GK,Aldosivi,43-363,1981,12,12,1080,12.0,20,1.67,55,35,69.1,4,1,7,2,16.7,3,3,0,0,0.0,Matches
+15,Ezequiel Centurión,ar ARG,GK,Ind. Rivadavia,27-350,1997,16,16,1440,16.0,17,1.06,65,48,78.5,7,6,3,6,37.5,4,3,1,0,25.0,Matches
+16,Juan Cozzani,ar ARG,GK,Platense,26-208,1998,16,16,1440,16.0,11,0.69,57,48,84.2,6,5,5,6,37.5,2,2,0,0,0.0,Matches
+17,Tomás Durso,ar ARG,GK,Atlé Tucumán,26-068,1999,11,11,990,11.0,17,1.55,46,29,65.2,2,1,8,2,18.2,3,1,1,1,50.0,Matches
+18,Juan Espínola,py PAR,GK,Belgrano,30-184,1994,11,11,990,11.0,18,1.64,41,23,58.5,2,5,4,3,27.3,1,1,0,0,0.0,Matches
+19,Hernán Galíndez,ec ECU,GK,Huracán,38-036,1987,16,16,1440,16.0,12,0.75,44,32,77.3,7,6,3,8,50.0,3,2,1,0,33.3,Matches
+20,Orlando Gil,py PAR,GK,San Lorenzo,24-328,2000,16,16,1440,16.0,10,0.62,50,41,80.0,7,6,3,9,56.3,0,0,0,0,,Matches
+21,Juan González,uy URU,GK,Atlé Tucumán,31-299,1993,5,5,450,5.0,4,0.80,18,14,83.3,3,0,2,2,40.0,1,1,0,0,0.0,Matches
+22,Guido Herrera,ar ARG,GK,Talleres,33-065,1992,15,15,1305,14.5,14,0.97,44,31,70.5,1,7,7,5,33.3,1,1,0,0,0.0,Matches
+23,Marcos Ignacio Ledesma,ar ARG,GK,Barracas Central,28-232,1996,16,16,1440,16.0,18,1.13,65,49,72.3,7,5,4,5,31.3,0,0,0,0,,Matches
+24,Luis Ingolotti,ar ARG,GK,Gimnasia–LP,25-111,2000,3,3,270,3.0,7,2.33,14,7,64.3,0,0,3,0,0.0,2,2,0,0,0.0,Matches
+25,Nelson Insfrán,ar ARG,GK,Gimnasia–LP,29-346,1995,13,13,1170,13.0,11,0.85,48,35,79.2,4,4,5,6,46.2,3,1,2,0,66.7,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Nahuel Losada,ar ARG,GK,Lanús,32-018,1993,15,15,1350,15.0,10,0.67,53,42,83.0,4,7,4,7,46.7,3,1,1,1,50.0,Matches
+27,Matías Mansilla,ar ARG,GK,Estudiantes–LP,29-079,1996,16,16,1440,16.0,19,1.19,52,32,65.4,5,6,5,5,31.3,2,1,1,0,50.0,Matches
+28,Agustín Marchesín,ar ARG,GK,Boca Juniors,37-050,1988,14,14,1260,14.0,10,0.71,44,34,77.3,10,1,3,7,50.0,0,0,0,0,,Matches
+29,Tomás Marchiori,ar ARG,GK,Vélez Sarsfield,29-319,1995,15,15,1350,15.0,18,1.20,49,32,63.3,4,2,9,5,33.3,1,0,0,1,,Matches
+30,Diego Matías Rodríguez,ar ARG,GK,Arg Juniors,35-314,1989,16,16,1440,16.0,9,0.56,44,36,79.5,9,6,1,9,56.3,0,0,0,0,,Matches
+31,Lautaro Morales,ar ARG,GK,Lanús,25-140,1999,1,1,90,1.0,1,1.00,2,1,50.0,0,1,0,0,0.0,0,0,0,0,,Matches
+32,Keylor Navas,cr CRC,GK,Newell's OB,38-141,1986,14,14,1260,14.0,11,0.79,64,54,82.8,5,4,5,6,42.9,1,0,0,1,,Matches
+33,Franco Petroli,ar ARG,GK,Godoy Cruz,26-328,1998,16,16,1440,16.0,18,1.13,63,45,71.4,3,8,5,7,43.8,1,0,1,0,100.0,Matches
+34,Josue Reinatti,ar ARG,GK,Newell's OB,21-337,2003,2,2,180,2.0,4,2.00,14,10,78.6,0,0,2,0,0.0,1,1,0,0,0.0,Matches
+35,Rodrigo Rey,ar ARG,GK,Independiente,34-058,1991,16,16,1440,16.0,12,0.75,45,36,80.0,8,5,3,7,43.8,3,3,0,0,0.0,Matches
+36,Randall Rodríguez,uy URU,GK,Vélez Sarsfield,21-157,2003,1,1,90,1.0,4,4.00,8,4,62.5,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+37,Manuel Roffo,ar ARG,GK,Instituto,25-031,2000,16,16,1440,16.0,20,1.25,59,39,69.5,5,3,8,5,31.3,2,2,0,0,0.0,Matches
+38,Facundo Sanguinetti,ar ARG,GK,Banfield,24-065,2001,16,16,1440,16.0,19,1.19,68,47,76.5,3,5,8,4,25.0,5,3,2,0,40.0,Matches
+39,Matías Tagliamonte,ar ARG,GK,Unión,27-075,1998,2,2,180,2.0,1,0.50,8,6,87.5,1,0,1,1,50.0,1,0,1,0,100.0,Matches
+40,Manuel Vicentini,ar ARG,GK,Belgrano,35-016,1990,5,5,450,5.0,5,1.00,18,12,72.2,1,3,1,2,40.0,1,0,1,0,100.0,Matches
+41,Axel Werner,ar ARG,GK,Rosario Central,29-066,1996,2,2,180,2.0,0,0.00,3,3,100.0,1,1,0,2,100.0,0,0,0,0,,Matches
+42,Felipe Zenobio,ar ARG,GK,Tigre,24-348,2000,16,16,1440,16.0,12,0.75,51,39,80.4,8,3,5,7,43.8,3,2,0,1,0.0,Matches
+43,Juan Zozaya,ar ARG,GK,Cen. Córdoba–SdE,23-328,2001,2,2,180,2.0,3,1.50,8,5,62.5,0,0,2,0,0.0,0,0,0,0,,Matches

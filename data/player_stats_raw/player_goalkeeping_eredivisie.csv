@@ -1,0 +1,38 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Unnamed: 26_level_0
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Nordin Bakker,nl NED,GK,Almere City,27-186,1997,31,31,2790,31.0,59,1.90,161,106,63.4,4,8,19,7,22.6,0,0,0,0,,Matches
+2,Vasilios Barkas,gr GRE,GK,Utrecht,30-340,1994,29,29,2610,29.0,41,1.41,131,91,71.0,16,8,5,7,24.1,3,3,0,0,0.0,Matches
+3,Walter Benítez,ar ARG,GK,PSV Eindhoven,32-106,1993,31,31,2745,30.5,35,1.15,94,59,64.9,22,4,5,9,29.0,2,2,0,0,0.0,Matches
+4,Daniel Bielica,pl POL,GK,NAC Breda,26-005,1999,30,30,2700,30.0,50,1.67,153,104,71.2,8,8,14,5,16.7,6,6,0,0,0.0,Matches
+5,Justin Bijlow,nl NED,GK,Feyenoord,27-103,1998,4,4,360,4.0,8,2.00,16,8,50.0,1,1,2,0,0.0,0,0,0,0,,Matches
+6,Mattijs Branderhorst,nl NED,GK,Fortuna Sittard,31-125,1993,25,25,2250,25.0,38,1.52,117,79,69.2,9,5,11,8,32.0,2,2,0,0,0.0,Matches
+7,Michael Brouwer,nl NED,GK,Utrecht,32-104,1993,2,2,180,2.0,1,0.50,8,7,100.0,2,0,0,1,50.0,1,1,0,0,0.0,Matches
+8,Jari De Busser,be BEL,GK,Go Ahead Eag,25-196,1999,14,14,1260,14.0,22,1.57,76,55,72.4,6,4,4,4,28.6,1,1,0,0,0.0,Matches
+9,Mickey van der Hart,nl NED,GK,Heerenveen,30-326,1994,18,18,1620,18.0,33,1.83,100,68,70.0,5,6,7,2,11.1,3,3,0,0,0.0,Matches
+10,Thomas Didillon,fr FRA,GK,Willem II,29-158,1995,31,31,2790,31.0,51,1.65,163,115,71.8,6,7,18,5,16.1,5,5,0,0,0.0,Matches
+11,Joel Drommel,nl NED,GK,PSV Eindhoven,28-170,1996,1,0,45,0.5,0,0.00,0,0,,0,0,0,0,,0,0,0,0,,Matches
+12,Stijn van Gassel,nl NED,GK,NEC Nijmegen,28-199,1996,2,2,180,2.0,4,2.00,15,11,80.0,0,0,2,0,0.0,1,1,0,0,0.0,Matches
+13,Mike Hauptmeijer,nl NED,GK,Zwolle,28-048,1997,4,4,360,4.0,6,1.50,16,10,62.5,2,1,1,0,0.0,1,0,0,1,,Matches
+14,Jeroen Houwen,nl NED,GK,RKC Waalwijk,29-076,1996,24,24,2160,24.0,48,2.00,133,87,65.4,4,4,16,4,16.7,2,2,0,0,0.0,Matches
+15,Hidde Jurjus,nl NED,GK,Groningen,31-085,1994,1,1,90,1.0,1,1.00,3,2,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+16,Fabian de Keijzer,nl NED,GK,Heracles Almelo,24-360,2000,31,31,2790,31.0,56,1.81,163,111,69.3,8,11,12,6,19.4,6,6,0,0,0.0,Matches
+17,Joey Kesting,nl NED,GK,RKC Waalwijk,24-059,2001,3,3,270,3.0,5,1.67,13,8,84.6,0,2,1,0,0.0,3,3,0,0,0.0,Matches
+18,Luuk Koopmans,nl NED,GK,Fortuna Sittard,31-168,1993,6,6,540,6.0,15,2.50,35,19,60.0,1,1,4,0,0.0,2,1,1,0,50.0,Matches
+19,Roy Kortsmit,nl NED,GK,NAC Breda,32-252,1992,1,1,90,1.0,3,3.00,4,1,50.0,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+20,Matheus,br BRA,GK,Ajax,32-290,1992,9,9,810,9.0,9,1.00,23,14,60.9,6,2,1,4,44.4,0,0,0,0,,Matches
+21,Andries Noppert,nl NED,GK,Heerenveen,31-028,1994,13,13,1170,13.0,20,1.54,56,37,66.1,6,1,6,3,23.1,1,1,0,0,0.0,Matches
+22,Nick Olij,nl NED,GK,Sparta R'dam,29-277,1995,31,31,2790,31.0,39,1.26,129,91,72.9,8,11,12,5,16.1,5,4,1,0,20.0,Matches
+23,Yanick van Osch,nl NED,GK,RKC Waalwijk,28-042,1997,3,3,270,3.0,9,3.00,26,17,69.2,0,1,2,0,0.0,1,1,0,0,0.0,Matches
+24,Rome-Jayden Owusu-Oduro,nl NED,GK,AZ Alkmaar,20-307,2004,25,25,2250,25.0,31,1.24,74,43,59.5,9,8,8,8,32.0,3,1,1,1,50.0,Matches
+25,Remko Pasveer,nl NED,GK,Ajax,41-178,1983,21,21,1890,21.0,18,0.86,75,58,76.0,16,3,2,10,47.6,0,0,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Luca Plogmann,de GER,GK,Go Ahead Eag,25-056,2000,17,17,1530,17.0,27,1.59,72,45,65.3,7,4,6,4,23.5,2,2,0,0,0.0,Matches
+27,Diant Ramaj,de GER,GK,Ajax,23-228,2001,1,1,90,1.0,0,0.00,2,2,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+28,Robin Roefs,nl NED,GK,NEC Nijmegen,22-108,2003,29,29,2610,29.0,41,1.41,140,103,71.4,9,7,13,8,27.6,1,1,0,0,0.0,Matches
+29,Jasper Schendelaar,nl NED,GK,Zwolle,24-245,2000,27,27,2430,27.0,43,1.59,135,93,70.4,6,9,12,5,18.5,5,3,0,2,0.0,Matches
+30,Mark Spenkelink,nl NED,GK,RKC Waalwijk,28-098,1997,1,1,90,1.0,6,6.00,12,6,58.3,0,0,1,0,0.0,1,1,0,0,0.0,Matches
+31,Przemysław Tytoń,pl POL,GK,Twente,38-121,1987,2,2,180,2.0,8,4.00,16,8,50.0,1,0,1,0,0.0,0,0,0,0,,Matches
+32,Lars Unnerstall,de GER,GK,Twente,34-289,1990,29,29,2610,29.0,36,1.24,94,58,63.8,13,9,7,10,34.5,2,2,0,0,0.0,Matches
+33,Etienne Vaessen,sr SUR,GK,Groningen,29-283,1995,30,30,2700,30.0,45,1.50,125,81,68.0,10,8,12,7,23.3,6,5,1,0,16.7,Matches
+34,Timon Wellenreuther,de GER,GK,Feyenoord,29-153,1995,27,27,2430,27.0,25,0.93,89,63,73.0,18,7,2,9,33.3,2,1,1,0,50.0,Matches
+35,Jeroen Zoet,nl NED,GK,AZ Alkmaar,34-119,1991,6,6,540,6.0,3,0.50,12,10,75.0,5,0,1,3,50.0,0,0,0,0,,Matches

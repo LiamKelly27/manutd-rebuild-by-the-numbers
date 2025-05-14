@@ -1,0 +1,666 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Playing Time,Playing Time,Playing Time,Playing Time,Playing Time,Starts,Starts,Starts,Subs,Subs,Subs,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success,Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),Team Success (xG),Unnamed: 29_level_0
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+1,Uriel van Aalst,,MF,Willem II,,,0,,,,,0,,0,0,,7,,,,,,,,,,,,Matches
+2,Patrick van Aanholt,nl NED,DF,Sparta R'dam,34-249,1990,19,1565,82,56.1,17.4,19,82,13,0,,0,1.26,21,19,+2,+0.12,+0.63,22.9,22.8,+0.1,+0.01,-0.01,Matches
+3,Paxten Aaronson,us USA,"MF,FW",Utrecht,21-252,2003,30,2490,83,89.2,27.7,28,87,22,2,24,0,2.07,52,34,+18,+0.65,+0.35,40.2,36.4,+3.8,+0.14,+0.02,Matches
+4,Tay Abed,il ISR,MF,PSV Eindhoven,21-058,2004,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+5,Jayden Addai,nl NED,"FW,DF",AZ Alkmaar,19-252,2005,16,308,19,11.0,3.4,3,45,0,13,13,7,1.19,11,5,+6,+1.75,+1.35,8.0,2.9,+5.1,+1.50,+1.10,Matches
+6,Bobby Adekanye,nl NED,"FW,MF",Go Ahead Eag,26-080,1999,13,778,60,27.9,8.6,10,72,1,3,19,3,1.15,10,14,-4,-0.46,-0.78,15.0,8.6,+6.4,+0.74,+0.67,Matches
+7,Aske Adelgaard,dk DEN,DF,Go Ahead Eag,21-176,2003,21,1134,54,40.6,12.6,13,76,4,8,18,7,1.43,17,19,-2,-0.16,-0.43,17.2,14.2,+3.1,+0.25,-0.01,Matches
+8,Shawn Adewoye,be BEL,DF,Fortuna Sittard,24-310,2000,24,1748,73,62.7,19.4,20,83,17,4,21,1,1.08,21,30,-9,-0.46,+0.31,24.0,28.8,-4.8,-0.25,+0.11,Matches
+9,Olivier Aertssen,nl NED,DF,Zwolle,20-271,2004,20,1116,56,40.0,12.4,14,73,7,6,16,2,1.25,21,20,+1,+0.08,+0.73,15.0,23.6,-8.6,-0.69,-0.09,Matches
+10,Amar Ahmed,se SWE,"FW,MF",Willem II,21-075,2004,21,685,33,24.6,7.6,5,67,0,16,22,1,0.62,5,14,-9,-1.18,-0.71,5.5,13.0,-7.5,-0.99,-0.14,Matches
+11,Isaiah Ahmed,cw CUW,MF,Heerenveen,19-128,2005,1,9,9,0.3,0.1,0,,0,1,9,10,3.00,1,0,+1,+10.00,+10.49,0.4,0.3,0.0,+0.47,+0.62,Matches
+12,Makan Aiko,fr FRA,FW,Fortuna Sittard,24-118,2001,22,1179,54,42.3,13.1,13,69,2,9,31,0,1.14,12,21,-9,-0.69,-0.18,17.6,19.0,-1.4,-0.10,+0.32,Matches
+13,Chuba Akpom,eng ENG,FW,Ajax,29-208,1995,16,832,52,29.8,9.2,9,72,3,7,26,3,2.38,22,10,+12,+1.30,+0.19,15.7,8.9,+6.9,+0.74,-0.38,Matches
+14,Hamdi Akujobi,nl NED,DF,Almere City,25-105,2000,28,2344,84,84.0,26.0,27,86,23,1,32,0,0.64,18,53,-35,-1.34,-0.74,23.1,42.8,-19.7,-0.76,-1.44,Matches
+15,Gerald Alders,nl NED,DF,Ajax,19-363,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+16,Gerald Alders,nl NED,DF,Twente,19-363,2005,1,12,12,0.4,0.1,0,,0,1,12,3,3.00,0,0,0,0.00,-0.45,0.1,0.3,-0.2,-1.52,-1.93,Matches
+17,Hussein Ali,iq IRQ,DF,Heerenveen,23-065,2002,6,212,35,7.6,2.4,1,79,0,5,27,17,2.00,5,4,+1,+0.42,+0.95,4.6,4.2,+0.3,+0.14,+0.32,Matches
+18,Jaydon Amauri Banel,nl NED,FW,Ajax,20-198,2004,1,64,64,2.3,0.7,1,64,0,0,,4,3.00,0,0,0,0.00,-1.19,0.7,0.0,+0.6,+0.88,-0.13,Matches
+19,Jamal Amofa,nl NED,DF,Go Ahead Eag,26-161,1998,2,158,79,5.7,1.8,2,79,0,0,,9,0.00,0,4,-4,-2.28,-2.52,2.0,2.1,-0.1,-0.03,-0.30,Matches
+20,Silas Andersen,dk DEN,MF,Utrecht,20-326,2004,1,1,1,0.0,0.0,0,,0,1,1,7,1.00,0,0,0,0.00,-0.61,0.0,0.0,0.0,-3.30,-3.44,Matches
+21,Plamen Andreev,bg BUL,GK,Feyenoord,20-141,2004,0,,,,,0,,0,0,,25,,,,,,,,,,,,Matches
+22,Oliver Antman,fi FIN,"FW,MF",Go Ahead Eag,23-263,2001,30,2230,74,79.9,24.8,26,81,10,4,30,0,1.57,41,36,+5,+0.20,+0.52,34.1,31.7,+2.4,+0.10,-0.78,Matches
+23,D'Leanu Arts,nl NED,DF,NEC Nijmegen,21-343,2003,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+24,Anouar El Azzouzi,nl NED,"MF,DF",Zwolle,23-341,2001,31,2696,87,96.6,30.0,31,87,21,0,,0,1.10,33,47,-14,-0.47,-3.34,31.6,51.4,-19.9,-0.66,-0.69,Matches
+25,Julian Baas,nl NED,MF,Sparta R'dam,23-019,2002,13,850,65,30.5,9.4,9,83,5,4,26,7,1.00,10,13,-3,-0.32,-0.22,10.3,11.9,-1.6,-0.17,-0.26,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+26,Youri Baas,nl NED,DF,Ajax,22-049,2003,23,2040,89,73.1,22.7,23,89,22,0,,2,2.61,48,16,+32,+1.41,+0.93,45.2,18.8,+26.3,+1.16,+0.58,Matches
+27,Isaac Babadi,nl NED,MF,PSV Eindhoven,20-029,2005,8,175,22,6.3,1.9,1,90,1,7,12,13,2.75,6,1,+5,+2.57,+0.75,5.0,1.3,+3.7,+1.88,+0.51,Matches
+28,Leandro Bacuna,cw CUW,"DF,MF",Groningen,33-257,1991,28,2086,75,74.8,23.2,22,88,18,6,26,1,1.18,27,34,-7,-0.30,-0.17,24.4,31.9,-7.5,-0.32,-0.45,Matches
+29,Thibo Baeten,be BEL,"MF,FW",Go Ahead Eag,22-335,2002,1,12,12,0.4,0.1,0,,0,1,12,2,0.00,0,0,0,0.00,-0.10,0.1,0.0,+0.1,+0.90,+0.64,Matches
+30,Aymane Bais,nl NED,FW,Sparta R'dam,19-130,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+31,Esmir Bajraktarevic,ba BIH,"FW,DF",PSV Eindhoven,20-056,2005,3,17,6,0.6,0.2,0,,0,3,6,7,1.33,1,4,-3,-15.88,-17.86,0.8,2.7,-1.9,-9.89,-11.37,Matches
+32,Saïd Bakari,km COM,DF,Sparta R'dam,30-225,1994,23,1874,81,67.2,20.8,21,86,16,2,30,8,1.22,25,25,0,0.00,+0.49,25.2,25.3,-0.2,-0.01,-0.06,Matches
+33,Johan Bakayoko,be BEL,FW,PSV Eindhoven,22-015,2003,28,1530,55,54.8,17.0,17,76,4,11,22,2,2.29,51,17,+34,+2.00,+0.29,44.5,14.8,+29.6,+1.74,+0.75,Matches
+34,Nordin Bakker,nl NED,GK,Almere City,27-186,1997,31,2790,90,100.0,31.0,31,90,31,0,,0,0.65,21,59,-38,-1.23,,31.2,47.5,-16.3,-0.53,,Matches
+35,Max Balard,au AUS,MF,NAC Breda,24-166,2000,30,2667,89,95.6,29.6,30,89,28,0,,0,1.07,31,51,-20,-0.67,-0.67,32.2,49.0,-16.8,-0.57,-0.12,Matches
+36,Alex Balboa,gq EQG,MF,Almere City,24-060,2001,10,405,41,14.5,4.5,4,80,0,6,14,14,0.80,4,11,-7,-1.56,-0.39,2.7,9.4,-6.6,-1.47,-1.11,Matches
+37,Théo Barbet,fr FRA,DF,Almere City,24-060,2001,11,795,72,28.5,8.8,9,83,5,2,23,11,1.00,7,12,-5,-0.57,+0.92,7.4,13.2,-5.8,-0.65,-0.18,Matches
+38,Vasilios Barkas,gr GRE,GK,Utrecht,30-340,1994,29,2610,90,93.5,29.0,29,90,29,0,,0,1.93,58,41,+17,+0.59,-0.41,42.9,37.9,+4.9,+0.17,+0.53,Matches
+39,Dirk Baron,nl NED,GK,Groningen,24-262,2000,0,,,,,0,,0,0,,24,,,,,,,,,,,,Matches
+40,Samuel Bastien,cd COD,"MF,FW",Fortuna Sittard,28-221,1996,23,1294,56,46.4,14.4,13,84,7,10,20,0,1.22,17,28,-11,-0.77,-0.34,20.1,20.7,-0.6,-0.04,+0.47,Matches
+41,Ramazan Bayram,nl NED,GK,Fortuna Sittard,20-205,2004,0,,,,,0,,0,0,,20,,,,,,,,,,,,Matches
+42,Riechedly Bazoer,nl NED,MF,AZ Alkmaar,28-205,1996,1,3,3,0.1,0.0,0,,0,1,3,3,3.00,0,0,0,0.00,-0.55,0.2,0.0,+0.2,+6.47,+5.96,Matches
+43,Guus Beaumont,nl NED,MF,Almere City,22-360,2002,2,12,6,0.4,0.1,0,,0,2,6,2,0.50,0,0,0,0.00,+1.23,0.0,0.3,-0.3,-2.48,-1.96,Matches
+44,Thomas Beelen,nl NED,DF,Feyenoord,23-328,2001,25,1698,68,60.9,18.9,18,84,14,7,27,4,2.32,50,17,+33,+1.75,+1.25,36.1,16.5,+19.6,+1.04,+0.66,Matches
+45,Raffael Behounek,at AUT,DF,Willem II,28-019,1997,30,2687,90,96.3,29.9,30,90,27,0,,0,0.83,30,48,-18,-0.60,+1.14,22.5,47.7,-25.1,-0.84,+1.14,Matches
+46,Jan Bekkema,nl NED,GK,Heerenveen,29-026,1996,0,,,,,0,,0,0,,23,,,,,,,,,,,,Matches
+47,Kristijan Belic,rs SRB,MF,AZ Alkmaar,24-041,2001,15,585,39,21.0,6.5,6,72,0,9,17,5,1.47,14,12,+2,+0.31,-0.30,9.7,8.4,+1.3,+0.20,-0.40,Matches
+48,Mimeirhel Benita,nl NED,DF,Heracles Almelo,21-169,2003,26,1770,68,63.4,19.7,19,87,15,7,17,5,0.92,21,37,-16,-0.81,-0.64,23.5,34.6,-11.1,-0.56,-0.11,Matches
+49,Walter Benítez,ar ARG,GK,PSV Eindhoven,32-106,1993,31,2745,89,98.4,30.5,31,89,30,0,,0,2.26,92,35,+57,+1.87,-0.13,72.2,29.5,+42.7,+1.40,-0.44,Matches
+50,Mitchell van Bergen,nl NED,FW,Sparta R'dam,25-251,1999,11,860,78,30.8,9.6,11,78,4,0,,0,1.64,12,7,+5,+0.52,+0.99,12.7,10.3,+2.4,+0.25,+0.35,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+51,Mitchell van Bergen,nl NED,FW,Twente,25-251,1999,15,798,53,28.6,8.9,9,70,1,6,28,2,1.80,15,14,+1,+0.11,-0.47,14.5,10.2,+4.3,+0.48,+0.12,Matches
+52,Thom van Bergen,nl NED,FW,Groningen,21-119,2004,31,2220,72,79.6,24.7,26,79,7,5,34,0,1.23,34,33,+1,+0.04,+1.46,28.7,30.4,-1.7,-0.07,+0.69,Matches
+53,Mannou Berger,nl NED,GK,Feyenoord,20-202,2004,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+54,Steven Berghuis,nl NED,"FW,MF",Ajax,33-137,1991,23,1237,54,44.3,13.7,14,74,4,9,22,2,2.26,24,12,+12,+0.87,-0.52,24.8,13.8,+11.0,+0.80,-0.37,Matches
+55,Steven Bergwijn,nl NED,FW,Ajax,27-209,1997,1,15,15,0.5,0.2,0,,0,1,15,0,0.00,0,1,-1,-6.00,-7.20,0.3,0.2,0.0,+0.16,-0.85,Matches
+56,Jorn Berkhout,nl NED,DF,AZ Alkmaar,23-048,2002,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+57,Gijs Besselink,nl NED,MF,Twente,20-323,2004,13,321,25,11.5,3.6,3,81,2,10,8,15,1.85,5,9,-4,-1.12,-1.78,4.6,8.3,-3.7,-1.05,-1.64,Matches
+58,Daniel Bielica,pl POL,GK,NAC Breda,26-005,1999,30,2700,90,96.8,30.0,30,90,30,0,,1,1.07,32,50,-18,-0.60,+1.40,33.8,49.9,-16.1,-0.54,+0.77,Matches
+59,Justin Bijlow,nl NED,GK,Feyenoord,27-103,1998,4,360,90,12.9,4.0,4,90,4,0,,13,1.00,5,8,-3,-0.75,-2.31,7.0,5.3,+1.7,+0.44,-0.39,Matches
+60,Emmanuel van de Blaak,nl NED,DF,PSV Eindhoven,20-079,2005,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+61,Adrian Blake,eng ENG,"FW,MF",Utrecht,19-294,2005,14,348,25,12.5,3.9,1,60,0,13,22,13,1.79,13,7,+6,+1.55,+1.07,10.7,5.8,+4.9,+1.26,+1.29,Matches
+62,Thijmen Blokzijl,nl NED,DF,Groningen,20-069,2005,25,1956,78,70.1,21.7,22,89,21,3,3,4,1.36,29,32,-3,-0.14,+0.40,25.3,29.5,-4.2,-0.19,+0.06,Matches
+63,Ofosu Boakye,,FW,Go Ahead Eag,,,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+64,Paweł Bochniewicz,pl POL,DF,Heerenveen,29-095,1996,13,1109,85,39.7,12.3,13,85,10,0,,1,1.15,13,23,-10,-0.81,-0.60,14.1,19.7,-5.6,-0.45,-0.50,Matches
+65,Jeremy Bokila,cd COD,FW,Willem II,36-172,1988,27,1275,47,45.7,14.2,12,83,5,15,19,2,0.85,16,23,-7,-0.49,+0.28,11.7,22.5,-10.8,-0.76,+0.23,Matches
+66,Ruben van Bommel,nl NED,FW,AZ Alkmaar,20-275,2004,21,1270,60,45.5,14.1,14,79,5,7,23,0,1.81,22,13,+9,+0.64,+0.16,22.7,14.7,+8.0,+0.57,+0.09,Matches
+67,Kasper Boogaard,nl NED,MF,AZ Alkmaar,19-096,2006,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+68,Taylor Booth,us USA,"FW,MF",Utrecht,23-339,2001,9,259,29,9.3,2.9,2,59,0,7,20,4,2.11,3,6,-3,-1.04,-1.82,1.8,5.6,-3.8,-1.34,-1.62,Matches
+69,Taylor Booth,us USA,FW,Twente,23-339,2001,6,271,45,9.7,3.0,4,61,0,2,13,0,1.83,5,7,-2,-0.66,-1.24,4.2,6.5,-2.2,-0.75,-1.27,Matches
+70,Olivier Boscagli,fr FRA,DF,PSV Eindhoven,27-168,1997,27,2321,86,83.2,25.8,27,86,18,0,,0,2.37,79,24,+55,+2.13,+1.56,59.6,22.5,+37.1,+1.44,+0.19,Matches
+71,Jesse Bosch,nl NED,MF,Willem II,25-093,2000,30,2515,84,90.1,27.9,30,84,20,0,,0,0.83,27,44,-17,-0.61,+0.37,21.1,43.0,-21.8,-0.78,+1.04,Matches
+72,Liam Bossin,ie IRL,GK,Feyenoord,28-294,1996,0,,,,,0,,0,0,,11,,,,,,,,,,,,Matches
+73,Sven Bouland,nl NED,DF,Groningen,,,2,49,25,1.8,0.5,0,,0,2,25,12,1.50,1,2,-1,-1.84,-1.61,0.8,1.1,-0.4,-0.72,-0.52,Matches
+74,Rayane Bounida,be BEL,FW,Ajax,19-063,2006,1,14,14,0.5,0.2,0,,0,1,14,2,3.00,0,0,0,0.00,-1.17,0.0,0.0,0.0,+0.03,-0.98,Matches
+75,Robin Bouw,nl NED,DF,Heerenveen,18-346,2006,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+76,Aaron Bouwman,nl NED,DF,Ajax,17-250,2007,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+77,Wassim Bouziane,nl NED,FW,AZ Alkmaar,18-134,2006,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+78,Can Bozdogan,de GER,MF,Utrecht,24-030,2001,9,402,45,14.4,4.5,4,67,2,5,27,2,2.44,9,6,+3,+0.67,+0.07,4.6,4.9,-0.3,-0.06,-0.23,Matches
+79,Mattijs Branderhorst,nl NED,GK,Fortuna Sittard,31-125,1993,25,2250,90,80.6,25.0,25,90,25,0,,0,1.28,26,38,-12,-0.48,+0.52,32.4,35.6,-3.2,-0.13,+0.83,Matches
+80,Oliver Braude,no NOR,DF,Heerenveen,21-073,2004,30,2343,78,84.0,26.0,28,81,15,2,33,0,1.33,34,38,-4,-0.15,+1.86,32.0,32.6,-0.6,-0.02,+0.79,Matches
+81,Myron van Brederode,nl NED,FW,AZ Alkmaar,21-303,2003,3,171,57,6.1,1.9,2,74,0,1,24,0,2.33,2,0,+2,+1.05,+0.54,1.2,0.7,+0.6,+0.31,-0.22,Matches
+82,Michael Bresser,nl NED,DF,PSV Eindhoven,18-011,2007,1,3,3,0.1,0.0,0,,0,1,3,3,3.00,1,0,+1,+30.00,+28.16,0.2,0.0,+0.2,+8.82,+7.42,Matches
+83,Jakob Breum,dk DEN,"MF,FW",Go Ahead Eag,21-169,2003,23,1963,85,70.4,21.8,23,85,13,0,,0,1.52,38,34,+4,+0.18,+0.29,34.8,26.5,+8.3,+0.38,+0.42,Matches
+84,Brian Brobbey,nl NED,FW,Ajax,23-093,2002,28,1446,52,51.8,16.1,20,65,3,8,19,0,2.32,26,14,+12,+0.75,-0.86,28.5,13.8,+14.7,+0.92,-0.19,Matches
+85,Michael Brouwer,nl NED,GK,Utrecht,32-104,1993,2,180,90,6.5,2.0,2,90,2,0,,28,3.00,3,1,+2,+1.00,+0.41,2.2,2.9,-0.7,-0.36,-0.53,Matches
+86,Luuk Brouwers,nl NED,"MF,FW",Heerenveen,27-002,1998,22,1747,79,62.6,19.4,21,82,16,1,15,0,1.36,20,32,-12,-0.62,-0.45,22.3,28.2,-5.9,-0.30,-0.42,Matches
+87,Jordy Bruijn,nl NED,MF,Heracles Almelo,28-286,1996,9,307,34,11.0,3.4,3,71,0,6,16,18,1.22,3,9,-6,-1.76,-1.32,3.5,6.7,-3.3,-0.96,-0.50,Matches
+88,Max Bruns,nl NED,DF,Twente,22-180,2002,22,1545,70,55.4,17.2,18,81,11,4,22,8,1.68,31,27,+4,+0.23,-0.49,28.4,21.6,+6.8,+0.40,0.00,Matches
+89,Thomas Bruns,nl NED,"MF,FW",Heracles Almelo,33-118,1992,19,915,48,32.8,10.2,11,70,0,8,18,10,1.32,19,18,+1,+0.10,+1.01,13.5,14.9,-1.5,-0.14,+0.57,Matches
+90,Charles-Andréas Brym,ca CAN,"FW,MF",Sparta R'dam,26-270,1998,12,308,26,11.0,3.4,2,89,1,10,13,4,0.58,4,7,-3,-0.88,-0.80,5.4,3.8,+1.6,+0.47,+0.52,Matches
+91,Charles-Andréas Brym,ca CAN,FW,Almere City,26-270,1998,14,1029,74,36.9,11.4,13,77,1,1,29,0,0.79,8,14,-6,-0.52,+1.11,14.3,15.1,-0.8,-0.07,+0.72,Matches
+92,Hugo Bueno,es ESP,DF,Feyenoord,22-229,2002,18,1182,66,42.4,13.1,14,74,3,4,37,4,2.00,37,14,+23,+1.75,+0.86,24.3,15.4,+8.8,+0.67,-0.19,Matches
+93,Thomas Buitink,nl NED,"FW,MF",Zwolle,24-325,2000,12,231,19,8.3,2.6,2,69,0,10,9,19,0.58,2,4,-2,-0.78,-0.46,3.0,3.7,-0.7,-0.27,+0.41,Matches
+94,Ezequiel Bullaude,ar ARG,"MF,FW",Fortuna Sittard,24-191,2000,25,1839,74,65.9,20.4,22,81,11,3,18,1,1.20,25,28,-3,-0.15,+1.27,25.9,28.0,-2.1,-0.10,+0.54,Matches
+95,Stijn Bultman,nl NED,DF,Heracles Almelo,20-096,2005,0,,,,,0,,0,0,,7,,,,,,,,,,,,Matches
+96,Abdurrahman Burak Sayın,,FW,Fortuna Sittard,,,1,4,4,0.1,0.0,0,,0,1,4,0,0.00,0,0,0,0.00,+0.58,0.0,0.3,-0.3,-5.82,-5.54,Matches
+97,Maxime Busi,be BEL,DF,NAC Breda,25-203,1999,12,772,64,27.7,8.6,8,86,6,4,20,0,0.75,9,16,-7,-0.82,-0.24,9.0,16.7,-7.7,-0.90,-0.47,Matches
+98,Zico Buurmeester,nl NED,"MF,FW",AZ Alkmaar,22-332,2002,24,1098,46,39.4,12.2,11,84,8,13,13,4,1.67,17,17,0,0.00,-0.90,15.3,15.5,-0.2,-0.02,-0.89,Matches
+99,Àlex Carbonell,es ESP,MF,Almere City,27-232,1997,11,238,22,8.5,2.6,0,,0,11,22,2,0.82,2,3,-1,-0.38,+0.93,4.0,4.0,0.0,+0.02,+0.59,Matches
+100,Julián Carranza,ar ARG,FW,Feyenoord,24-348,2000,18,788,44,28.2,8.8,9,69,0,9,18,6,2.06,16,9,+7,+0.80,-0.64,16.6,7.8,+8.8,+1.01,+0.31,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+101,Stephano Carrillo,mx MEX,FW,Feyenoord,19-059,2006,3,52,17,1.9,0.6,0,,0,3,17,3,2.33,1,0,+1,+1.73,+0.48,0.8,0.6,+0.1,+0.22,-0.57,Matches
+102,Yoann Cathline,fr FRA,FW,Utrecht,22-287,2002,23,1819,79,65.2,20.2,21,85,9,2,22,1,2.09,41,30,+11,+0.54,-0.20,27.5,25.6,+1.9,+0.10,-0.11,Matches
+103,Kayky Chagas,br BRA,"FW,DF",Sparta R'dam,21-328,2003,6,120,20,4.3,1.3,2,35,0,4,13,2,0.33,0,2,-2,-1.50,-1.40,1.3,1.0,+0.3,+0.26,+0.26,Matches
+104,Jordy Clasie,nl NED,MF,AZ Alkmaar,33-312,1991,23,1820,79,65.2,20.2,20,86,15,3,34,0,1.91,37,18,+19,+0.94,+1.13,34.6,20.2,+14.5,+0.71,+0.56,Matches
+105,Pelle Clement,nl NED,"MF,FW",Sparta R'dam,28-351,1996,29,1573,54,56.4,17.5,19,76,7,10,13,1,1.17,18,23,-5,-0.29,-0.29,19.8,20.3,-0.5,-0.03,-0.10,Matches
+106,Denilho Cleonise,nl NED,"FW,MF",RKC Waalwijk,23-148,2001,23,1088,47,39.0,12.1,10,69,4,13,30,2,0.35,16,30,-14,-1.16,-0.21,16.7,26.1,-9.4,-0.78,-0.02,Matches
+107,Tiago Codinha,ca CAN,MF,Heracles Almelo,20-057,2005,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+108,Amara Conde,de GER,MF,Heerenveen,28-119,1997,13,650,50,23.3,7.2,8,74,4,5,12,13,1.31,8,13,-5,-0.69,-0.31,5.9,10.8,-4.9,-0.68,-0.69,Matches
+109,Vito van Crooy,nl NED,"MF,FW",NEC Nijmegen,29-096,1996,23,1709,74,61.3,19.0,20,83,11,3,18,0,1.04,30,32,-2,-0.11,-0.11,23.9,23.8,+0.1,+0.01,-0.07,Matches
+110,Alessio da Cruz,cv CPV,FW,Fortuna Sittard,28-107,1997,18,1185,66,42.5,13.2,13,81,7,5,27,0,1.22,19,25,-6,-0.46,+0.22,17.3,21.9,-4.6,-0.35,-0.10,Matches
+111,Ro-Zangelo Daal,nl NED,FW,AZ Alkmaar,21-084,2004,1,45,45,1.6,0.5,1,45,0,0,,11,0.00,0,2,-2,-4.00,-4.62,0.1,0.5,-0.4,-0.75,-1.29,Matches
+112,Jasper Dahlhaus,nl NED,"DF,FW",Fortuna Sittard,23-159,2001,28,1563,56,56.0,17.4,17,79,11,11,20,3,1.07,18,31,-13,-0.75,-0.38,21.1,28.0,-6.9,-0.40,-0.25,Matches
+113,Matteo Dams,be BEL,DF,PSV Eindhoven,21-057,2004,15,916,61,32.8,10.2,11,78,8,4,15,4,2.80,39,6,+33,+3.24,+2.04,24.6,7.0,+17.6,+1.73,+0.48,Matches
+114,Damil Dankerlui,sr SUR,"DF,FW",Almere City,28-254,1996,7,158,23,5.7,1.8,0,,0,7,23,19,1.00,2,3,-1,-0.57,+0.70,2.7,2.1,+0.6,+0.32,+0.89,Matches
+115,Argyrios Darelas,gr GRE,"MF,FW",NEC Nijmegen,21-201,2003,5,41,8,1.5,0.5,0,,0,5,8,26,1.80,2,0,+2,+4.39,+4.52,1.7,0.1,+1.6,+3.41,+3.43,Matches
+116,Brynjolfur Darri Willumsson,is ISL,"FW,MF",Groningen,24-266,2000,26,887,34,31.8,9.9,6,80,3,20,20,1,1.27,9,16,-7,-0.71,-0.66,10.4,13.0,-2.6,-0.26,-0.08,Matches
+117,Jari De Busser,be BEL,GK,Go Ahead Eag,25-196,1999,14,1260,90,45.2,14.0,14,90,14,0,,15,1.57,22,22,0,0.00,-0.18,18.0,19.3,-1.3,-0.09,-0.63,Matches
+118,Brian De Keersmaecker,be BEL,MF,Heracles Almelo,24-364,2000,28,2486,89,89.1,27.6,28,89,24,0,,0,1.18,36,49,-13,-0.47,+1.01,34.0,47.9,-13.9,-0.50,+0.18,Matches
+119,Daniel Deen,nl NED,GK,AZ Alkmaar,22-081,2003,0,,,,,0,,0,0,,10,,,,,,,,,,,,Matches
+120,Mats Deijl,nl NED,DF,Go Ahead Eag,27-294,1997,31,2790,90,100.0,31.0,31,90,31,0,,0,1.52,52,49,+3,+0.10,,47.4,39.5,+7.9,+0.25,,Matches
+121,Maxim Dekker,nl NED,DF,AZ Alkmaar,21-014,2004,10,499,50,17.9,5.5,6,73,3,4,15,15,0.90,6,9,-3,-0.54,-1.33,7.0,6.9,+0.1,+0.02,-0.61,Matches
+122,Logan Delaurier Chaubet,fr FRA,FW,Almere City,23-013,2002,12,556,46,19.9,6.2,6,70,0,6,23,5,0.50,4,12,-8,-1.29,-0.09,6.1,10.8,-4.8,-0.77,-0.30,Matches
+123,Connor van den Berg,nl NED,GK,Willem II,24-048,2001,0,,,,,0,,0,0,,31,,,,,,,,,,,,Matches
+124,Branco van den Boomen,nl NED,MF,Ajax,29-288,1995,12,631,53,22.6,7.0,7,80,5,5,14,13,2.17,12,5,+7,+1.00,-0.21,11.4,8.1,+3.3,+0.47,-0.69,Matches
+125,Damian van der Haar,nl NED,DF,Zwolle,21-109,2004,26,1794,69,64.3,19.9,22,79,12,4,15,5,1.12,27,33,-6,-0.30,+0.15,22.5,37.2,-14.8,-0.74,-0.28,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+126,Mickey van der Hart,nl NED,GK,Heerenveen,30-326,1994,18,1620,90,58.1,18.0,18,90,18,0,,9,1.17,24,33,-9,-0.50,-0.12,26.4,26.3,+0.1,+0.01,+0.37,Matches
+127,Mike van der Hoorn,nl NED,DF,Utrecht,32-202,1992,29,2374,82,85.1,26.4,28,84,21,1,27,0,2.10,52,35,+17,+0.64,+0.21,36.0,35.7,+0.3,+0.01,-0.82,Matches
+128,Djevencio van der Kust,sr SUR,DF,Sparta R'dam,24-005,2001,13,923,71,33.1,10.3,10,84,7,3,26,6,0.92,10,13,-3,-0.29,-0.20,10.4,12.1,-1.7,-0.17,-0.27,Matches
+129,Richard van der Venne,nl NED,"MF,FW",RKC Waalwijk,32-354,1992,17,734,43,26.3,8.2,8,71,2,9,19,1,0.94,12,18,-6,-0.74,+0.40,9.9,15.6,-5.7,-0.69,+0.10,Matches
+130,Silvester van der Water,nl NED,"FW,MF",RKC Waalwijk,28-217,1996,16,619,39,22.2,6.9,9,59,0,7,12,7,0.50,9,15,-6,-0.87,+0.21,6.4,12.6,-6.2,-0.90,-0.17,Matches
+131,David van der Werff,nl NED,MF,Groningen,20-247,2004,2,20,10,0.7,0.2,0,,0,2,10,13,0.50,0,0,0,0.00,+0.26,0.5,0.1,+0.4,+1.78,+2.01,Matches
+132,Joël van der Wilt,nl NED,GK,Almere City,21-008,2004,0,,,,,0,,0,0,,29,,,,,,,,,,,,Matches
+133,Anthony Descotte,be BEL,"FW,MF",Utrecht,21-275,2003,9,398,44,14.3,4.4,5,68,0,4,15,17,1.44,8,10,-2,-0.45,-1.24,7.5,6.2,+1.3,+0.29,+0.18,Matches
+134,Sergiño Dest,us USA,DF,PSV Eindhoven,24-183,2000,4,176,44,6.3,2.0,2,69,0,2,20,0,2.25,3,3,0,0.00,-2.00,3.1,1.0,+2.1,+1.08,-0.35,Matches
+135,Matisse Didden,be BEL,DF,Utrecht,23-209,2001,14,416,30,14.9,4.6,3,75,1,11,17,12,2.43,8,7,+1,+0.22,-0.47,7.8,6.2,+1.6,+0.35,+0.25,Matches
+136,Thomas Didillon,fr FRA,GK,Willem II,29-158,1995,31,2790,90,100.0,31.0,31,90,31,0,,0,0.81,31,51,-20,-0.65,,23.2,50.6,-27.4,-0.88,,Matches
+137,Mitchell Dijks,nl NED,DF,Fortuna Sittard,32-085,1993,23,1546,67,55.4,17.2,18,80,7,5,23,2,1.17,19,29,-10,-0.58,0.00,18.9,26.3,-7.4,-0.43,-0.32,Matches
+138,Elijah Dijkstra,nl NED,DF,AZ Alkmaar,18-273,2006,2,92,46,3.3,1.0,1,69,0,1,23,7,1.00,2,2,0,0.00,-0.57,2.1,1.5,+0.6,+0.59,+0.07,Matches
+139,Julius Dirksen,nl NED,"DF,MF",Go Ahead Eag,22-092,2003,6,73,12,2.6,0.8,0,,0,6,12,19,2.00,1,4,-3,-3.70,-3.90,0.5,1.2,-0.7,-0.87,-1.16,Matches
+140,Andreas Dithmer,dk DEN,GK,Utrecht,19-277,2005,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+141,Nick Dobben,nl NED,GK,Zwolle,16-353,2008,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+142,Nick Doodeman,nl NED,"FW,MF",Willem II,28-195,1996,24,1301,54,46.6,14.5,18,68,2,6,14,7,1.00,16,23,-7,-0.48,+0.30,11.3,22.6,-11.3,-0.78,+0.20,Matches
+143,Marley Dors,sr SUR,MF,Almere City,19-328,2005,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+144,Couhaib Driouech,ma MAR,FW,PSV Eindhoven,23-018,2002,15,273,18,9.8,3.0,0,,0,15,18,8,2.47,10,2,+8,+2.64,+0.85,7.7,3.5,+4.2,+1.39,-0.02,Matches
+145,Joel Drommel,nl NED,GK,PSV Eindhoven,28-170,1996,1,45,45,1.6,0.5,0,,0,1,45,30,3.00,1,0,+1,+2.00,+0.13,1.1,0.2,+0.9,+1.84,+0.44,Matches
+146,Laros Duarte,cv CPV,MF,Groningen,28-066,1997,1,20,20,0.7,0.2,0,,0,1,20,0,3.00,0,0,0,0.00,+0.26,0.2,0.0,+0.2,+0.92,+1.14,Matches
+147,Sem van Duijn,nl NED,FW,AZ Alkmaar,21-048,2004,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+148,Oliver Edvardsen,no NOR,FW,Ajax,26-047,1999,11,290,26,10.4,3.2,1,62,0,10,23,0,2.36,9,2,+7,+2.17,+1.13,6.9,3.4,+3.5,+1.08,+0.08,Matches
+149,Oliver Edvardsen,no NOR,"FW,MF",Go Ahead Eag,26-047,1999,14,888,63,31.8,9.9,10,78,2,4,28,0,1.79,27,11,+16,+1.62,+2.24,19.6,11.6,+7.9,+0.80,+0.80,Matches
+150,Victor Edvardsen,se SWE,"FW,MF",Go Ahead Eag,29-111,1996,31,2470,80,88.5,27.4,29,83,15,2,28,0,1.52,47,42,+5,+0.18,+0.74,40.1,35.0,+5.1,+0.18,-0.62,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+151,Espen van Ee,nl NED,MF,Heerenveen,21-304,2003,29,2116,73,75.8,23.5,23,85,16,6,27,1,1.28,26,37,-11,-0.47,-0.07,29.4,31.8,-2.4,-0.10,+0.18,Matches
+152,Mike Eerdhuijzen,nl NED,DF,Sparta R'dam,24-296,2000,29,2539,88,91.0,28.2,29,88,25,0,,0,1.21,32,34,-2,-0.07,+1.00,36.3,35.1,+1.2,+0.04,+0.35,Matches
+153,Nils Eggens,nl NED,FW,Groningen,20-027,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+154,Roshon van Eijma,cw CUW,DF,RKC Waalwijk,26-330,1998,21,1612,77,57.8,17.9,19,84,14,2,11,5,0.43,19,46,-27,-1.51,-1.13,17.7,36.0,-18.3,-1.02,-0.61,Matches
+155,Carel Eiting,nl NED,MF,Sparta R'dam,27-083,1998,12,882,74,31.6,9.8,11,78,3,1,24,0,1.83,13,8,+5,+0.51,+0.98,12.0,13.5,-1.6,-0.16,-0.25,Matches
+156,Carel Eiting,nl NED,MF,Twente,27-083,1998,16,589,37,21.1,6.5,6,66,2,10,19,2,2.13,14,3,+11,+1.68,+1.56,14.9,7.3,+7.6,+1.16,+0.96,Matches
+157,Hjalmar Ekdal,se SWE,DF,Groningen,26-196,1998,11,990,90,35.5,11.0,11,90,11,0,,1,1.55,21,17,+4,+0.36,+0.96,16.4,11.7,+4.8,+0.43,+1.00,Matches
+158,Rafik el Arguioui,nl NED,MF,Utrecht,19-278,2005,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+159,Hamza el Dahri,nl NED,MF,Sparta R'dam,20-061,2005,0,,,,,0,,0,0,,11,,,,,,,,,,,,Matches
+160,Úmaro Embaló,pt POR,FW,Fortuna Sittard,23-364,2001,2,12,6,0.4,0.1,0,,0,2,6,9,1.50,0,0,0,0.00,+0.58,0.1,0.0,+0.1,+0.93,+1.22,Matches
+161,Noam Emeran,fr FRA,"DF,MF",Groningen,22-223,2002,3,66,22,2.4,0.7,0,,0,3,22,22,1.33,5,1,+4,+5.45,+5.85,2.0,0.9,+1.1,+1.51,+1.76,Matches
+162,Mario Engels,de GER,"FW,MF",Heracles Almelo,31-195,1993,28,2099,75,75.2,23.3,23,83,11,5,36,0,1.11,26,41,-15,-0.64,-0.25,23.3,40.7,-17.4,-0.75,-0.90,Matches
+163,Alonzo Engwanda,be BEL,"MF,DF",Utrecht,22-098,2003,18,1000,56,35.8,11.1,12,78,7,6,12,3,2.11,28,15,+13,+1.17,+0.87,16.9,12.7,+4.2,+0.38,+0.38,Matches
+164,Ante Erceg,hr CRO,"FW,MF",Fortuna Sittard,35-144,1989,14,287,21,10.3,3.2,2,69,0,12,13,1,1.50,1,4,-3,-0.94,-0.40,3.7,4.1,-0.4,-0.12,+0.19,Matches
+165,Sofiane Et-Taïbi,be BEL,DF,Fortuna Sittard,21-064,2004,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+166,Luca Everink,nl NED,DF,Go Ahead Eag,24-085,2001,3,54,18,1.9,0.6,0,,0,3,18,27,0.67,1,3,-2,-3.33,-3.50,0.9,2.0,-1.1,-1.88,-2.18,Matches
+167,Jan Faberski,pl POL,MF,Ajax,19-013,2006,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+168,Juan Familia-Castillo,nl NED,DF,RKC Waalwijk,25-112,2000,21,1300,62,46.6,14.4,15,77,8,6,25,2,0.71,18,29,-11,-0.76,+0.51,15.8,26.9,-11.1,-0.77,-0.01,Matches
+169,Kevin Felida,cw CUW,"MF,FW",RKC Waalwijk,25-175,1999,8,421,53,15.1,4.7,5,70,0,3,24,19,1.50,7,3,+4,+0.86,+2.22,8.0,6.6,+1.4,+0.31,+1.26,Matches
+170,Saná Fernandes,pt POR,"FW,MF",NAC Breda,19-056,2006,14,470,34,16.8,5.2,4,70,0,10,19,15,0.57,4,8,-4,-0.77,-0.15,5.0,9.1,-4.2,-0.79,-0.28,Matches
+171,Nick Fichtinger,nl NED,MF,Zwolle,21-029,2004,22,853,39,30.6,9.5,8,78,3,14,16,9,1.41,7,10,-3,-0.32,+0.06,11.4,15.6,-4.1,-0.44,+0.30,Matches
+172,Kolbeinn Finnsson,is ISL,DF,Utrecht,25-253,1999,3,87,29,3.1,1.0,0,,0,3,29,25,2.33,2,1,+1,+1.03,+0.44,1.5,1.5,+0.1,+0.06,-0.07,Matches
+173,Kian Fitz-Jim,nl NED,MF,Ajax,21-304,2003,25,1146,46,41.1,12.7,11,67,1,14,29,5,2.44,34,12,+22,+1.73,+0.96,24.4,12.0,+12.5,+0.98,-0.05,Matches
+174,Ryan Flamingo,nl NED,DF,PSV Eindhoven,22-125,2002,31,2669,86,95.7,29.7,30,88,26,1,30,0,2.26,90,35,+55,+1.85,-0.38,69.9,28.9,+40.9,+1.38,-0.62,Matches
+175,Sherel Floranus,cw CUW,DF,Almere City,26-255,1998,2,180,90,6.5,2.0,2,90,2,0,,0,0.00,0,4,-4,-2.00,-0.83,1.1,4.0,-2.9,-1.46,-0.99,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+176,Sherel Floranus,cw CUW,DF,Zwolle,26-255,1998,19,1527,80,54.7,17.0,18,82,13,1,45,2,1.32,20,23,-3,-0.18,+0.39,20.5,27.7,-7.2,-0.42,+0.48,Matches
+177,Amoah Foah-Sam,nl NED,DF,Almere City,22-218,2002,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+178,Anthony Fontana,us USA,MF,Zwolle,25-203,1999,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+179,Carlos Forbs,pt POR,FW,Ajax,21-047,2004,1,33,33,1.2,0.4,0,,0,1,33,1,3.00,0,0,0,0.00,-1.18,0.4,0.1,+0.3,+0.87,-0.14,Matches
+180,Ryan Fosso,ch SUI,MF,Fortuna Sittard,22-322,2002,28,2371,85,85.0,26.3,28,85,15,0,,0,1.14,25,39,-14,-0.53,+0.33,29.4,37.4,-8.0,-0.30,-0.09,Matches
+181,Oscar Fraulo,dk DEN,MF,Utrecht,21-150,2003,24,1465,61,52.5,16.3,16,82,9,8,20,4,2.04,39,22,+17,+1.04,+0.91,24.2,22.4,+1.9,+0.11,-0.05,Matches
+182,Anton Gaaei,dk DEN,DF,Ajax,22-167,2002,23,1601,70,57.4,17.8,17,86,14,6,24,5,2.26,28,16,+12,+0.67,-1.14,32.4,15.7,+16.7,+0.94,-0.16,Matches
+183,Kevin Gadellaa,nl NED,GK,Utrecht,22-027,2003,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+184,Matt Garbett,nz NZL,"FW,MF",NAC Breda,23-022,2002,12,580,48,20.8,6.4,8,65,0,4,16,4,1.08,5,11,-6,-0.93,-0.36,5.4,9.2,-3.9,-0.60,-0.05,Matches
+185,Anselmo García MacNulty,ie IRL,DF,Zwolle,22-075,2003,31,2790,90,100.0,31.0,31,90,31,0,,0,1.10,38,49,-11,-0.35,,34.3,54.1,-19.8,-0.64,,Matches
+186,Stijn van Gassel,nl NED,GK,NEC Nijmegen,28-199,1996,2,180,90,6.5,2.0,2,90,2,0,,29,0.00,1,4,-3,-1.50,-1.53,1.8,5.0,-3.2,-1.59,-1.74,Matches
+187,Lutsharel Geertruida,nl NED,DF,Feyenoord,24-291,2000,3,270,90,9.7,3.0,3,90,3,0,,0,1.67,7,3,+4,+1.33,+0.08,5.1,1.5,+3.6,+1.20,+0.46,Matches
+188,Liam van Gelderen,nl NED,DF,RKC Waalwijk,24-043,2001,29,2427,84,87.0,27.0,26,89,25,3,34,2,0.66,35,55,-20,-0.74,+2.23,33.6,49.6,-16.0,-0.59,+1.35,Matches
+189,Yannick Gerritsen,nl NED,GK,Twente,19-080,2006,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+190,Djomar Giersthove,nl NED,DF,Feyenoord,20-061,2005,1,9,9,0.3,0.1,0,,0,1,9,5,3.00,0,0,0,0.00,-1.26,0.3,0.5,-0.2,-1.78,-2.57,Matches
+191,Teun Gijselhart,nl NED,MF,Zwolle,20-029,2005,1,23,23,0.8,0.3,0,,0,1,23,14,0.00,1,2,-1,-3.91,-3.59,0.1,1.4,-1.3,-5.05,-4.45,Matches
+192,Santiago Giménez,mx MEX,FW,Feyenoord,24-017,2001,11,765,70,27.4,8.5,10,73,4,1,35,0,1.55,17,10,+7,+0.82,-0.60,15.4,6.8,+8.6,+1.01,+0.31,Matches
+193,Mika Godts,be BEL,FW,Ajax,19-332,2005,26,1510,58,54.1,16.8,19,69,0,7,29,0,2.35,34,13,+21,+1.25,+0.20,33.4,11.7,+21.8,+1.30,+0.63,Matches
+194,Wouter Goes,nl NED,DF,AZ Alkmaar,20-329,2004,24,1872,78,67.1,20.8,21,85,15,3,26,1,1.88,39,19,+20,+0.96,+1.26,34.0,19.2,+14.8,+0.71,+0.58,Matches
+195,Facundo González,uy URU,DF,Feyenoord,21-333,2003,6,85,14,3.0,0.9,0,,0,6,14,17,3.00,3,2,+1,+1.06,-0.21,2.2,1.0,+1.2,+1.27,+0.50,Matches
+196,Roberto González,es ESP,"MF,FW",NEC Nijmegen,24-119,2001,17,985,58,35.3,10.9,12,71,1,5,27,2,1.18,15,14,+1,+0.09,+0.24,15.5,12.9,+2.6,+0.24,+0.31,Matches
+197,Tristan Gooijer,nl NED,DF,Zwolle,20-245,2004,1,25,25,0.9,0.3,1,25,0,0,,0,0.00,0,1,-1,-3.60,-3.27,0.0,0.5,-0.5,-1.95,-1.33,Matches
+198,Jay Gorter,nl NED,GK,Ajax,24-340,2000,0,,,,,0,,0,0,,29,,,,,,,,,,,,Matches
+199,Tom de Graaff,nl NED,GK,Utrecht,20-146,2004,0,,,,,0,,0,0,,29,,,,,,,,,,,,Matches
+200,Marvin da Graça,lu LUX,DF,Almere City,30-077,1995,9,541,60,19.4,6.0,5,90,5,4,23,5,1.00,4,15,-11,-1.83,-0.75,8.7,11.6,-2.9,-0.47,+0.06,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+201,Simon Graves Jensen,dk DEN,DF,Zwolle,25-348,1999,24,2044,85,73.3,22.7,24,85,18,0,,0,1.17,29,30,-1,-0.04,+1.16,26.7,36.2,-9.5,-0.42,+0.83,Matches
+202,Leo Greiml,at AUT,DF,NAC Breda,23-306,2001,27,2406,89,86.2,26.7,27,89,25,0,,0,1.11,30,45,-15,-0.56,+0.61,29.7,43.0,-13.3,-0.50,+0.46,Matches
+203,Dario Grujcic,at AUT,"DF,MF",Fortuna Sittard,25-351,1999,11,257,23,9.2,2.9,2,90,2,9,9,17,1.00,3,13,-10,-3.50,-3.22,1.9,6.2,-4.3,-1.50,-1.34,Matches
+204,Baptiste Guillaume,be BEL,"FW,MF",Almere City,29-323,1995,15,391,26,14.0,4.3,5,55,0,10,11,3,0.60,3,8,-5,-1.15,+0.09,6.5,4.9,+1.6,+0.36,+1.03,Matches
+205,Eser Gürbüz,nl NED,FW,Heerenveen,18-060,2007,9,138,15,4.9,1.5,0,,0,9,15,3,1.44,4,1,+3,+1.96,+2.53,4.1,2.6,+1.5,+0.97,+1.17,Matches
+206,Rodrigo Guth,br BRA,DF,Fortuna Sittard,24-176,2000,28,2474,88,88.7,27.5,28,88,27,0,,0,1.29,33,41,-8,-0.29,+2.56,36.6,40.5,-3.9,-0.14,+1.30,Matches
+207,Jonathan de Guzmán,nl NED,MF,Sparta R'dam,37-234,1987,1,36,36,1.3,0.4,0,,0,1,36,19,1.00,0,0,0,0.00,+0.16,0.2,0.2,-0.1,-0.23,-0.25,Matches
+208,Anis Hadj Moussa,dz ALG,"FW,MF",Feyenoord,23-083,2002,27,1745,65,62.5,19.4,19,78,10,8,32,3,2.04,45,21,+24,+1.24,-0.05,34.6,21.9,+12.7,+0.65,-0.34,Matches
+209,Alen Halilović,hr CRO,"MF,FW",Fortuna Sittard,28-321,1996,27,1770,66,63.4,19.7,23,73,1,4,20,0,1.11,20,34,-14,-0.71,-0.36,25.0,29.7,-4.6,-0.24,+0.15,Matches
+210,Denzel Hall,nl NED,DF,Heerenveen,23-348,2001,17,558,33,20.0,6.2,5,70,1,12,17,11,1.59,4,14,-10,-1.61,-1.45,7.9,10.0,-2.1,-0.33,-0.23,Matches
+211,Sébastien Haller,ci CIV,FW,Utrecht,30-317,1994,14,1101,79,39.5,12.2,13,82,6,1,32,0,1.86,24,14,+10,+0.82,+0.34,18.1,16.3,+1.8,+0.15,+0.02,Matches
+212,Dávid Hancko,sk SVK,DF,Feyenoord,27-143,1997,29,2610,90,93.5,29.0,29,90,29,0,,1,2.10,65,30,+35,+1.21,-0.79,49.9,28.9,+21.0,+0.73,-0.86,Matches
+213,Kornelius Hansen,no NOR,"FW,MF",Almere City,23-364,2001,30,1819,61,65.2,20.2,20,79,7,10,25,1,0.63,15,43,-28,-1.39,-0.46,20.4,35.1,-14.6,-0.72,-0.57,Matches
+214,Sontje Hansen,nl NED,"FW,MF",NEC Nijmegen,22-358,2002,28,1662,59,59.6,18.5,20,74,7,8,24,1,1.00,23,30,-7,-0.38,-0.78,24.2,21.0,+3.2,+0.17,+0.35,Matches
+215,Quilindschy Hartman,nl NED,DF,Feyenoord,23-172,2001,11,557,51,20.0,6.2,7,70,3,4,18,1,2.36,10,5,+5,+0.81,-0.56,9.0,5.9,+3.0,+0.49,-0.36,Matches
+216,Jorrel Hato,nl NED,DF,Ajax,19-059,2006,28,2336,83,83.7,26.0,27,86,22,1,7,2,2.32,54,25,+29,+1.12,-0.27,49.9,25.1,+24.8,+0.96,-0.31,Matches
+217,Mike Hauptmeijer,nl NED,GK,Zwolle,28-048,1997,4,360,90,12.9,4.0,4,90,4,0,,27,1.75,10,6,+4,+1.00,+1.56,4.2,8.2,-3.9,-0.99,-0.40,Matches
+218,Thom Haye,id IDN,MF,Almere City,30-085,1995,26,1770,68,63.4,19.7,22,77,8,4,22,0,0.73,18,31,-13,-0.66,+1.54,23.5,27.4,-3.9,-0.20,+0.90,Matches
+219,Rickson van Hees,nl NED,DF,Utrecht,22-288,2002,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+220,Jordan Henderson,eng ENG,MF,Ajax,34-322,1990,25,1602,64,57.4,17.8,18,83,12,7,16,4,2.56,39,18,+21,+1.18,+0.04,34.5,16.9,+17.6,+0.99,-0.04,Matches
+221,Sjors Hermsen,,FW,Fortuna Sittard,,,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+222,Lucas Vennegoor of Hesselink,nl NED,"FW,MF",Twente,19-052,2006,6,62,10,2.2,0.7,0,,0,6,10,6,1.17,3,1,+2,+2.90,+2.51,1.6,1.1,+0.5,+0.71,+0.32,Matches
+223,Mees Hilgers,id IDN,DF,Twente,23-357,2001,22,1654,75,59.3,18.4,20,81,13,2,22,2,1.50,30,26,+4,+0.22,-0.57,29.0,24.9,+4.1,+0.22,-0.43,Matches
+224,Mees Hoedemakers,nl NED,MF,NEC Nijmegen,27-076,1998,25,1731,69,62.0,19.2,19,81,8,6,33,4,1.24,25,26,-1,-0.05,+0.03,22.8,25.0,-2.2,-0.12,-0.39,Matches
+225,Quincy Hoeve,bq BOE,FW,Sparta R'dam,22-032,2003,0,,,,,0,,0,0,,5,,,,,,,,,,,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+226,Justin Hoogma,nl NED,DF,Heracles Almelo,26-328,1998,9,254,28,9.1,2.8,1,85,0,8,21,17,1.00,2,7,-5,-1.77,-1.31,4.1,6.9,-2.8,-0.99,-0.51,Matches
+227,Sydney van Hooijdonk,nl NED,FW,NAC Breda,25-088,2000,14,883,63,31.6,9.8,10,80,4,4,20,0,0.71,7,18,-11,-1.12,-0.70,10.3,19.1,-8.8,-0.90,-0.49,Matches
+228,Nikolai Hopland,no NOR,DF,Heerenveen,20-285,2004,27,2329,86,83.5,25.9,26,88,23,1,29,1,1.33,32,39,-7,-0.27,+1.10,30.6,31.1,-0.5,-0.02,+0.77,Matches
+229,Siebe Horemans,be BEL,DF,Utrecht,26-337,1998,29,2362,81,84.7,26.2,26,89,24,3,15,2,2.03,51,28,+23,+0.88,+1.72,36.9,35.5,+1.4,+0.05,-0.55,Matches
+230,Jizz Hornkamp,nl NED,"FW,MF",Heracles Almelo,27-059,1998,23,1377,60,49.4,15.3,16,78,5,7,18,0,1.26,20,24,-4,-0.26,+0.63,20.1,26.4,-6.2,-0.41,+0.23,Matches
+231,Jeroen Houwen,nl NED,GK,RKC Waalwijk,29-076,1996,24,2160,90,77.4,24.0,24,90,24,0,,5,0.67,26,48,-22,-0.92,+0.51,27.7,43.2,-15.5,-0.65,+0.54,Matches
+232,Johan Hove,no NOR,MF,Groningen,24-240,2000,20,1748,87,62.7,19.4,20,87,18,0,,1,1.05,16,27,-11,-0.57,-0.83,16.9,28.9,-11.9,-0.61,-1.08,Matches
+233,Joël Ideho,nl NED,FW,Sparta R'dam,21-292,2003,4,168,42,6.0,1.9,1,65,0,3,34,4,2.00,4,2,+2,+1.07,+1.31,3.1,2.7,+0.4,+0.21,+0.22,Matches
+234,Younes Taha El Idrissi,ma MAR,FW,Twente,,,7,140,20,5.0,1.6,0,,0,7,20,3,1.00,2,3,-1,-0.64,-1.15,3.4,1.9,+1.5,+0.97,+0.60,Matches
+235,Mohammed Ihattaren,nl NED,"MF,FW",RKC Waalwijk,23-082,2002,21,1303,62,46.7,14.5,14,85,9,7,16,3,0.71,20,24,-4,-0.28,+1.42,22.8,27.1,-4.4,-0.30,+0.87,Matches
+236,Hwang In-beom,kr KOR,MF,Feyenoord,28-227,1996,19,1461,77,52.4,16.2,18,79,10,1,45,1,2.47,43,17,+26,+1.60,+0.72,29.0,16.4,+12.6,+0.78,-0.01,Matches
+237,Zidane Iqbal,iq IRQ,MF,Utrecht,22-008,2003,18,1449,81,51.9,16.1,18,81,7,0,,5,1.61,22,24,-2,-0.12,-1.53,23.0,22.5,+0.5,+0.03,-0.22,Matches
+238,Luka Ivanušec,hr CRO,"FW,MF",Feyenoord,26-160,1998,13,482,37,17.3,5.4,5,65,0,8,20,17,2.54,11,5,+6,+1.12,-0.17,10.0,5.4,+4.6,+0.86,+0.10,Matches
+239,Joey Jacobs,nl NED,DF,Almere City,25-025,2000,17,1057,62,37.9,11.7,12,84,10,5,11,12,0.53,8,28,-20,-1.70,-0.77,8.8,20.4,-11.7,-0.99,-0.75,Matches
+240,Alireza Jahanbakhsh,ir IRN,"FW,MF",Heerenveen,31-267,1993,19,1451,76,52.0,16.1,16,85,9,3,31,1,1.37,20,24,-4,-0.25,+0.42,20.7,20.6,0.0,0.00,+0.31,Matches
+241,Alexander Jakobsen,eg EGY,"FW,MF",RKC Waalwijk,31-048,1994,5,70,14,2.5,0.8,0,,0,5,14,16,0.00,1,3,-2,-2.57,-1.58,0.2,2.0,-1.8,-2.23,-1.51,Matches
+242,Dean James,id IDN,DF,Go Ahead Eag,25-005,2000,23,1647,72,59.0,18.3,19,82,8,4,23,1,1.52,37,29,+8,+0.44,+0.83,31.1,24.8,+6.3,+0.34,+0.22,Matches
+243,Dominik Janošek,cz CZE,MF,NAC Breda,26-326,1998,27,1096,41,39.3,12.2,10,74,3,17,21,4,1.00,15,23,-8,-0.66,-0.02,12.4,21.5,-9.1,-0.75,-0.30,Matches
+244,Dies Janse,nl NED,DF,Ajax,19-108,2006,3,270,90,9.7,3.0,3,90,3,0,,12,2.00,6,2,+4,+1.33,+0.19,5.4,2.0,+3.5,+1.15,+0.16,Matches
+245,Rijk Janse,nl NED,GK,NEC Nijmegen,23-019,2002,0,,,,,0,,0,0,,31,,,,,,,,,,,,Matches
+246,Kai Jansen,nl NED,MF,Heerenveen,17-341,2007,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+247,Sven Jansen,nl NED,DF,Go Ahead Eag,20-194,2004,0,,,,,0,,0,0,,17,,,,,,,,,,,,Matches
+248,Timo Jansink,nl NED,GK,Heracles Almelo,22-050,2003,0,,,,,0,,0,0,,31,,,,,,,,,,,,Matches
+249,Ali Jasim,iq IRQ,"FW,MF",Almere City,21-105,2004,8,226,28,8.1,2.5,1,84,0,7,20,4,0.38,2,2,0,0.00,+1.33,4.1,3.8,+0.4,+0.15,+0.74,Matches
+250,Victor Jensen,dk DEN,MF,Utrecht,25-086,2000,27,998,37,35.8,11.1,9,68,0,18,22,3,2.00,21,15,+6,+0.54,-0.11,17.4,14.1,+3.3,+0.30,+0.25,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+251,Owen Johnson,nl NED,MF,Fortuna Sittard,19-244,2005,1,3,3,0.1,0.0,0,,0,1,3,0,1.00,1,0,+1,+30.00,+30.61,0.1,0.1,0.0,-1.45,-1.16,Matches
+252,Miliano Jonathans,nl NED,"FW,MF",Utrecht,21-030,2004,7,207,30,7.4,2.3,2,65,0,5,16,4,1.71,1,2,-1,-0.43,-1.13,3.4,3.8,-0.4,-0.17,-0.33,Matches
+253,Luuk de Jong,nl NED,FW,PSV Eindhoven,34-251,1990,28,2182,78,78.2,24.2,26,82,15,2,24,2,2.18,65,28,+37,+1.53,-1.58,56.7,23.1,+33.6,+1.39,-0.08,Matches
+254,Tika de Jonge,nl NED,MF,Groningen,22-055,2003,19,1246,66,44.7,13.8,15,77,5,4,25,1,1.37,22,18,+4,+0.29,+0.99,18.0,13.8,+4.1,+0.30,+0.92,Matches
+255,Patrick Joosten,nl NED,"MF,FW",Willem II,29-021,1996,16,649,41,23.3,7.2,7,68,0,9,19,15,0.75,9,16,-7,-0.97,-0.42,7.3,11.4,-4.1,-0.57,+0.41,Matches
+256,Mauro Júnior,br BRA,"DF,MF",PSV Eindhoven,25-364,1999,22,1741,79,62.4,19.3,20,83,12,2,45,1,2.09,50,25,+25,+1.29,-1.54,45.8,18.9,+26.9,+1.39,-0.04,Matches
+257,Hidde Jurjus,nl NED,GK,Groningen,31-085,1994,1,90,90,3.2,1.0,1,90,1,0,,30,0.00,0,1,-1,-1.00,-0.77,0.7,0.5,+0.2,+0.21,+0.43,Matches
+258,Ismail Ka,nl NED,GK,Feyenoord,19-057,2006,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+259,Daniël van Kaam,nl NED,MF,Heracles Almelo,24-316,2000,25,1041,42,37.3,11.6,12,71,3,13,15,6,1.28,14,22,-8,-0.69,-0.18,16.2,23.7,-7.6,-0.65,-0.21,Matches
+260,Junior Kadile,fr FRA,"FW,MF",Almere City,22-140,2002,27,1995,74,71.5,22.2,26,75,4,1,45,0,0.74,15,38,-23,-1.04,+0.66,23.4,27.4,-4.0,-0.18,+1.22,Matches
+261,Jochem van de Kamp,nl NED,"MF,FW",Almere City,21-184,2003,26,2001,77,71.7,22.2,22,85,14,4,33,1,0.73,18,38,-20,-0.90,+1.15,20.7,29.7,-8.9,-0.40,+0.44,Matches
+262,Ahmetcan Kaplan,tr TUR,DF,Ajax,22-109,2003,8,562,70,20.1,6.2,7,79,5,1,7,19,2.38,8,7,+1,+0.16,-1.25,9.1,6.4,+2.8,+0.44,-0.71,Matches
+263,Daniel Karlsbakk,no NOR,FW,Heerenveen,22-028,2003,7,273,39,9.8,3.0,3,60,0,4,23,7,1.14,3,7,-4,-1.32,-0.96,4.9,5.0,-0.1,-0.03,+0.13,Matches
+264,Souffian El Karouani,ma MAR,DF,Utrecht,24-198,2000,31,2701,87,96.8,30.0,31,87,27,0,,0,2.00,59,41,+18,+0.60,-0.41,42.8,39.7,+3.1,+0.10,-0.97,Matches
+265,Rick Karsdorp,nl NED,DF,PSV Eindhoven,30-083,1995,12,678,57,24.3,7.5,7,80,4,5,23,6,2.17,21,7,+14,+1.86,-0.02,14.9,7.9,+7.1,+0.94,-0.62,Matches
+266,Sam Karssies,nl NED,GK,Twente,22-068,2003,0,,,,,0,,0,0,,19,,,,,,,,,,,,Matches
+267,Neraysho Kasanwirjo,nl NED,DF,Feyenoord,23-076,2002,2,113,57,4.1,1.3,1,90,1,1,23,0,1.00,1,1,0,0.00,-1.31,2.1,0.3,+1.9,+1.49,+0.74,Matches
+268,Denso Kasius,nl NED,DF,AZ Alkmaar,22-211,2002,27,1182,44,42.4,13.1,11,79,4,16,19,4,1.59,24,18,+6,+0.46,-0.16,19.3,16.8,+2.5,+0.19,-0.56,Matches
+269,Adam Kayed,ps PLE,"MF,DF",NAC Breda,23-064,2002,15,459,31,16.5,5.1,5,60,0,10,16,14,0.93,8,8,0,0.00,+0.77,6.8,9.7,-3.0,-0.58,-0.02,Matches
+270,Dennis Kaygin,de GER,"MF,FW",Willem II,21-033,2004,7,133,19,4.8,1.5,0,,0,7,19,4,0.29,3,6,-3,-2.03,-1.45,1.5,3.1,-1.6,-1.09,-0.21,Matches
+271,Emilio Kehrer,de GER,"FW,MF",Willem II,23-046,2002,20,735,37,26.3,8.2,6,80,2,14,18,11,0.65,10,13,-3,-0.37,+0.38,6.1,14.7,-8.5,-1.05,-0.22,Matches
+272,Fabian de Keijzer,nl NED,GK,Heracles Almelo,24-360,2000,31,2790,90,100.0,31.0,31,90,31,0,,0,1.13,38,56,-18,-0.58,,37.3,53.5,-16.2,-0.52,,Matches
+273,Tjalling van Keimpema,nl NED,GK,Heerenveen,18-124,2007,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+274,Stijn Keller,nl NED,GK,Almere City,25-025,2000,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+275,Boy Kemper,nl NED,DF,NAC Breda,25-318,1999,27,2227,82,79.8,24.7,26,85,21,1,9,0,1.15,30,40,-10,-0.40,+1.19,27.4,36.9,-9.5,-0.38,+0.88,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+276,Sam Kersten,nl NED,DF,Heerenveen,27-095,1998,27,2155,80,77.2,23.9,25,85,20,2,17,3,1.22,29,44,-15,-0.63,-0.77,30.5,37.0,-6.6,-0.27,-0.56,Matches
+277,Joey Kesting,nl NED,GK,RKC Waalwijk,24-059,2001,3,270,90,9.7,3.0,3,90,3,0,,28,0.67,4,5,-1,-0.33,+0.77,5.8,6.6,-0.8,-0.26,+0.56,Matches
+278,Joshua Kitolano,no NOR,MF,Sparta R'dam,23-275,2001,24,1408,59,50.5,15.6,16,76,7,8,24,0,1.08,12,21,-9,-0.58,-0.84,20.3,18.4,+2.0,+0.13,+0.23,Matches
+279,Mathias Kjølø,no NOR,MF,Twente,23-312,2001,19,610,32,21.9,6.8,5,66,2,14,20,12,1.58,15,12,+3,+0.44,-0.01,13.2,9.9,+3.3,+0.49,+0.11,Matches
+280,Davy Klaassen,nl NED,MF,Ajax,32-073,1993,28,1962,70,70.3,21.8,22,80,11,6,34,0,2.43,44,18,+26,+1.19,+0.11,40.1,19.1,+21.0,+0.96,-0.14,Matches
+281,Bernt Klaverboer,nl NED,GK,Heerenveen,19-221,2005,0,,,,,0,,0,0,,17,,,,,,,,,,,,Matches
+282,Mike Kleijn,nl NED,DF,Sparta R'dam,20-085,2005,5,99,20,3.5,1.1,1,32,0,4,17,19,0.80,3,5,-2,-1.82,-1.72,3.4,1.8,+1.6,+1.45,+1.49,Matches
+283,Mats Köhlert,de GER,DF,Heerenveen,27-003,1998,25,2209,88,79.2,24.5,25,88,23,0,,0,1.20,33,44,-11,-0.45,+0.02,32.2,35.8,-3.7,-0.15,-0.01,Matches
+284,Don-Angelo Konadu,nl NED,FW,Ajax,19-002,2006,3,62,21,2.2,0.7,1,59,0,2,2,5,2.33,2,1,+1,+1.45,+0.30,1.1,0.6,+0.6,+0.84,-0.17,Matches
+285,Terence Kongolo,nl NED,DF,NAC Breda,31-080,1994,16,706,44,25.3,7.8,6,85,5,10,20,10,1.13,4,16,-12,-1.53,-1.18,7.0,16.7,-9.7,-1.24,-0.90,Matches
+286,Luuk Koopmans,nl NED,GK,Fortuna Sittard,31-168,1993,6,540,90,19.4,6.0,6,90,6,0,,24,0.67,9,15,-6,-1.00,-0.52,5.8,11.5,-5.7,-0.95,-0.83,Matches
+287,Peer Koopmeiners,nl NED,"MF,DF",AZ Alkmaar,25-001,2000,31,2523,81,90.4,28.0,30,84,21,1,18,0,1.61,43,26,+17,+0.61,+0.61,39.6,26.2,+13.4,+0.48,-0.42,Matches
+288,Hasip Korkmazyürek,de GER,MF,Fortuna Sittard,22-004,2003,2,6,3,0.2,0.1,0,,0,2,3,1,0.00,0,0,0,0.00,+0.58,0.2,0.3,-0.1,-1.21,-0.92,Matches
+289,Roy Kortsmit,nl NED,GK,NAC Breda,32-252,1992,1,90,90,3.2,1.0,1,90,1,0,,27,0.00,1,3,-2,-2.00,-1.40,0.7,2.0,-1.3,-1.31,-0.77,Matches
+290,Martin Koscelník,sk SVK,DF,NAC Breda,30-064,1995,3,105,35,3.8,1.2,0,,0,3,35,4,1.00,2,5,-3,-2.57,-2.00,1.6,2.8,-1.3,-1.07,-0.53,Matches
+291,Kacper Kostorz,pl POL,"FW,MF",NAC Breda,25-257,1999,22,532,24,19.1,5.9,2,82,1,20,18,5,0.91,9,19,-10,-1.69,-1.29,7.9,15.2,-7.3,-1.23,-0.83,Matches
+292,Thijs Kraaijeveld,nl NED,MF,Feyenoord,18-002,2007,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+293,Joris Kramer,nl NED,DF,Go Ahead Eag,28-276,1996,31,2776,90,99.5,30.8,31,90,30,0,,0,1.52,52,49,+3,+0.10,+0.10,47.4,39.2,+8.2,+0.27,+2.35,Matches
+294,Michiel Kramer,nl NED,FW,RKC Waalwijk,36-153,1988,19,659,35,23.6,7.3,6,78,4,13,15,3,0.79,10,17,-7,-0.96,+0.10,10.4,16.9,-6.4,-0.88,-0.15,Matches
+295,Filip Krastev,bg BUL,"FW,MF",Zwolle,23-202,2001,28,1934,69,69.3,21.5,23,78,10,5,29,2,1.04,30,34,-4,-0.19,+0.55,24.7,38.4,-13.7,-0.64,+0.01,Matches
+296,Layee Kromah,nl NED,FW,Sparta R'dam,21-332,2003,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+297,Wessel Kuhn,nl NED,DF,PSV Eindhoven,18-231,2006,1,13,13,0.5,0.1,0,,0,1,13,4,1.00,0,1,-1,-6.92,-8.84,0.4,0.2,+0.2,+1.60,+0.19,Matches
+298,Roy Kuijpers,nl NED,"FW,MF",NAC Breda,25-108,2000,9,235,26,8.4,2.6,3,49,1,6,15,17,1.11,3,7,-4,-1.53,-0.97,2.5,7.6,-5.1,-1.94,-1.51,Matches
+299,Tristan Kuijsten,nl NED,GK,AZ Alkmaar,20-109,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+300,Jay Kuiper,nl NED,DF,Almere City,21-103,2004,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+301,Bas Kuipers,nl NED,DF,Twente,30-261,1994,27,1479,55,53.0,16.4,17,75,7,10,20,4,1.52,28,21,+7,+0.43,-0.05,26.1,19.3,+6.7,+0.41,+0.02,Matches
+302,Luka Kulenović,ba BIH,FW,Heracles Almelo,25-218,1999,21,1298,62,46.5,14.4,14,83,8,7,19,1,1.14,20,29,-9,-0.62,-0.08,19.1,25.6,-6.5,-0.45,+0.13,Matches
+303,Harry Kuster,nl NED,"FW,MF",Twente,19-236,2005,2,12,6,0.4,0.1,0,,0,2,6,18,3.00,1,0,+1,+7.50,+7.08,0.6,0.2,+0.5,+3.69,+3.30,Matches
+304,Dave Kwakman,nl NED,"MF,FW",AZ Alkmaar,20-271,2004,5,150,30,5.4,1.7,2,55,0,3,14,7,1.40,2,4,-2,-1.20,-1.85,1.1,1.6,-0.5,-0.30,-0.87,Matches
+305,Dave Kwakman,nl NED,"FW,MF",Groningen,20-271,2004,12,812,68,29.1,9.0,10,79,3,2,14,0,1.67,20,15,+5,+0.55,+1.15,13.7,8.2,+5.5,+0.61,+1.16,Matches
+306,Amine Lachkar,nl NED,MF,Willem II,22-017,2003,21,1597,76,57.2,17.7,19,82,11,2,20,1,1.10,20,22,-2,-0.11,+1.25,13.9,28.5,-14.6,-0.82,+0.15,Matches
+307,Gustaf Lagerbielke,se SWE,DF,Twente,25-025,2000,20,1453,73,52.1,16.1,15,86,13,5,32,9,1.60,31,26,+5,+0.31,-0.30,26.4,21.2,+5.2,+0.32,-0.16,Matches
+308,Mayckel Lahdo,se SWE,FW,AZ Alkmaar,22-126,2002,19,845,44,30.3,9.4,8,72,1,11,24,4,1.32,16,13,+3,+0.32,-0.33,17.4,9.8,+7.6,+0.81,+0.42,Matches
+309,Boris lambert,be BEL,MF,Willem II,25-025,2000,23,1230,53,44.1,13.7,13,78,7,10,22,1,0.87,12,27,-15,-1.10,-0.81,9.2,24.1,-14.9,-1.09,-0.37,Matches
+310,Sam Lammers,nl NED,FW,Twente,28-005,1997,21,1501,71,53.8,16.7,19,76,9,2,25,0,1.95,32,17,+15,+0.90,+0.97,28.8,15.8,+13.0,+0.78,+0.82,Matches
+311,Kostas Lamprou,gr GRE,GK,NAC Breda,33-229,1991,0,,,,,0,,0,0,,13,,,,,,,,,,,,Matches
+312,Tygo Land,nl NED,MF,PSV Eindhoven,19-114,2006,5,32,6,1.1,0.4,0,,0,5,6,16,2.40,1,0,+1,+2.81,+0.95,1.0,0.3,+0.6,+1.80,+0.40,Matches
+313,Noa Lang,nl NED,FW,PSV Eindhoven,25-322,1999,26,1624,62,58.2,18.0,20,72,5,6,30,0,2.19,60,19,+41,+2.27,+0.96,40.5,17.0,+23.5,+1.30,-0.25,Matches
+314,Maurilio de Lannoy,nl NED,FW,Go Ahead Eag,21-179,2003,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+315,Tobias Lauritsen,no NOR,FW,Sparta R'dam,27-248,1997,30,2438,81,87.4,27.1,29,83,20,1,18,0,1.13,28,34,-6,-0.22,-0.48,31.8,33.6,-1.8,-0.07,-0.62,Matches
+316,James Lawrence,wls WAL,DF,Almere City,32-256,1992,23,1516,66,54.3,16.8,18,80,11,5,15,2,0.65,11,37,-26,-1.54,-0.70,19.7,25.8,-6.1,-0.36,+0.36,Matches
+317,Richy Ledezma,us USA,DF,PSV Eindhoven,24-241,2000,23,1684,73,60.4,18.7,20,82,8,3,13,3,2.35,61,20,+41,+2.19,+0.81,49.8,18.2,+31.6,+1.69,+0.71,Matches
+318,Clint Leemans,nl NED,MF,NAC Breda,29-232,1995,25,1530,61,54.8,17.0,19,73,1,6,24,2,1.16,19,22,-3,-0.18,+1.04,20.4,24.6,-4.2,-0.25,+0.70,Matches
+319,Kelvin Leerdam,sr SUR,"DF,MF",Heracles Almelo,34-315,1990,0,,,,,0,,0,0,,29,,,,,,,,,,,,Matches
+320,Roy Leicester,nl NED,DF,Groningen,18-355,2006,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+321,Julian Lelieveld,nl NED,"DF,MF",RKC Waalwijk,27-162,1997,26,1885,73,67.6,20.9,21,81,14,5,38,5,0.58,26,46,-20,-0.95,+0.24,26.9,43.8,-16.8,-0.80,-0.11,Matches
+322,Max de Ligt,nl NED,DF,Sparta R'dam,20-289,2004,0,,,,,0,,0,0,,5,,,,,,,,,,,,Matches
+323,Bryan Limbombe,be BEL,"MF,FW",Heracles Almelo,23-356,2001,14,374,27,13.4,4.2,3,79,2,11,12,5,1.14,5,7,-2,-0.48,+0.11,5.5,6.1,-0.5,-0.13,+0.46,Matches
+324,Marcus Linday,se SWE,MF,Heerenveen,21-337,2003,13,1168,90,41.9,13.0,13,90,12,0,,0,1.46,22,20,+2,+0.15,+1.04,19.4,15.7,+3.7,+0.28,+0.74,Matches
+325,Ondřej Lingr,cz CZE,MF,Feyenoord,26-210,1998,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+326,Bryan Linssen,nl NED,FW,NEC Nijmegen,34-209,1990,12,602,50,21.6,6.7,7,65,0,5,29,1,1.42,10,12,-2,-0.30,-0.30,8.8,10.0,-1.2,-0.18,-0.27,Matches
+327,Evert Linthorst,nl NED,MF,Go Ahead Eag,25-063,2000,30,2261,75,81.0,25.1,28,79,13,2,20,0,1.47,42,42,0,0.00,-0.51,38.8,33.5,+5.3,+0.21,-0.24,Matches
+328,Enric Llansana,nl NED,MF,Go Ahead Eag,24-023,2001,31,2539,82,91.0,28.2,29,86,23,2,19,0,1.52,50,41,+9,+0.32,+2.47,43.6,33.2,+10.3,+0.37,+1.24,Matches
+329,Chris Lokesa,be BEL,"FW,MF",RKC Waalwijk,20-179,2004,16,928,58,33.3,10.3,11,73,5,5,26,15,0.38,6,30,-24,-2.33,-1.94,8.2,23.3,-15.0,-1.46,-1.04,Matches
+330,Tim van de Loo,,MF,RKC Waalwijk,,,24,1597,67,57.2,17.7,20,76,6,4,21,7,0.71,24,37,-13,-0.73,+0.70,21.6,31.8,-10.2,-0.57,+0.45,Matches
+331,Marcos López,pe PER,MF,Feyenoord,25-166,1999,1,90,90,3.2,1.0,1,90,1,0,,0,1.00,1,1,0,0.00,-1.30,1.8,0.2,+1.6,+1.64,+0.89,Matches
+332,Jordan Lotomba,ch SUI,DF,Feyenoord,26-218,1998,6,486,81,17.4,5.4,6,81,4,0,,0,2.00,11,6,+5,+0.93,-0.40,7.6,4.3,+3.3,+0.61,-0.21,Matches
+333,Hirving Lozano,mx MEX,FW,PSV Eindhoven,29-279,1995,9,289,32,10.4,3.2,2,90,2,7,16,0,2.67,15,3,+12,+3.74,+2.08,8.3,2.8,+5.5,+1.72,+0.35,Matches
+334,Sayfallah Ltaief,tn TUN,FW,Twente,25-013,2000,27,1152,43,41.3,12.8,11,66,0,16,27,4,1.52,23,13,+10,+0.78,+0.56,21.1,12.4,+8.8,+0.69,+0.49,Matches
+335,Boyd Lucassen,nl NED,"DF,FW",NAC Breda,26-308,1998,18,1224,68,43.9,13.6,14,80,7,4,25,8,1.22,14,19,-5,-0.37,+0.49,15.8,21.4,-5.6,-0.41,+0.27,Matches
+336,Milos Lukovic,rs SRB,FW,Heerenveen,19-168,2005,10,529,53,19.0,5.9,6,78,3,4,16,2,1.00,10,11,-1,-0.17,+0.35,8.8,7.4,+1.4,+0.23,+0.47,Matches
+337,Thierry Lutonda,be BEL,DF,Zwolle,24-190,2000,11,472,43,16.9,5.2,3,81,2,8,29,18,0.36,3,9,-6,-1.14,-0.95,3.4,9.1,-5.7,-1.09,-0.54,Matches
+338,Leftheris Lyratzis,gr GRE,DF,NEC Nijmegen,25-072,2000,13,663,51,23.8,7.4,7,78,1,6,19,14,1.00,9,11,-2,-0.27,-0.27,9.9,8.4,+1.5,+0.20,+0.22,Matches
+339,Issam El Maach,ma MAR,GK,Twente,25-093,2000,0,,,,,0,,0,0,,17,,,,,,,,,,,,Matches
+340,Enes Mahmutovic,lu LUX,DF,NAC Breda,27-348,1997,8,556,70,19.9,6.2,7,75,4,1,32,22,0.50,5,10,-5,-0.81,-0.21,5.9,11.5,-5.6,-0.90,-0.42,Matches
+341,Seiya Maikuma,jp JPN,DF,AZ Alkmaar,27-201,1997,24,1813,76,65.0,20.1,20,86,14,4,23,2,1.83,37,18,+19,+0.94,+1.13,32.8,17.4,+15.3,+0.76,+0.69,Matches
+342,Tyrell Malacia,nl NED,DF,PSV Eindhoven,25-261,1999,7,340,49,12.2,3.8,3,86,2,4,21,3,1.86,7,4,+3,+0.79,-1.23,6.6,3.4,+3.3,+0.86,-0.63,Matches
+343,Christopher Mamengi,nl NED,DF,Almere City,24-032,2001,7,229,33,8.2,2.5,1,74,0,6,26,8,0.00,2,9,-7,-2.75,-1.66,1.8,6.2,-4.5,-1.75,-1.33,Matches
+344,Sivert Mannsverk,no NOR,MF,Ajax,22-362,2002,2,180,90,6.5,2.0,2,90,2,0,,1,1.50,2,2,0,0.00,-1.24,2.8,1.5,+1.3,+0.65,-0.38,Matches
+345,Robin Mantel,be BEL,GK,Heracles Almelo,24-171,2000,0,,,,,0,,0,0,,22,,,,,,,,,,,,Matches
+346,Braydon Manu,gh GHA,"FW,DF",Zwolle,28-038,1997,2,62,31,2.2,0.7,1,54,0,1,8,10,0.50,0,1,-1,-1.45,-1.12,0.3,1.1,-0.8,-1.15,-0.52,Matches
+347,Elías Már Ómarsson,is ISL,FW,NAC Breda,30-107,1995,30,2160,72,77.4,24.0,27,77,7,3,23,1,1.07,27,36,-9,-0.37,+1.20,28.0,35.5,-7.5,-0.31,+1.11,Matches
+348,Richonell Margaret,sr SUR,FW,RKC Waalwijk,24-240,2000,31,2262,73,81.1,25.1,25,83,13,6,30,0,0.61,29,54,-25,-0.99,+0.20,30.3,48.5,-18.2,-0.72,+0.22,Matches
+349,Maxim Mariani,nl NED,DF,Groningen,20-183,2004,2,17,9,0.6,0.2,0,,0,2,9,17,0.00,0,0,0,0.00,+0.26,0.0,0.3,-0.2,-1.27,-1.07,Matches
+350,Iván Márquez,es ESP,DF,NEC Nijmegen,30-330,1994,25,1940,78,69.5,21.6,21,88,17,4,23,0,1.04,35,27,+8,+0.37,+1.43,29.6,26.8,+2.8,+0.13,+0.32,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+351,Niels Martens,nl NED,GK,Fortuna Sittard,20-363,2004,0,,,,,0,,0,0,,15,,,,,,,,,,,,Matches
+352,Bruno Martins Indi,nl NED,DF,AZ Alkmaar,33-086,1992,10,551,55,19.7,6.1,6,78,3,4,20,11,1.20,8,11,-3,-0.49,-1.29,8.3,7.2,+1.1,+0.17,-0.43,Matches
+353,Enoch Mastoras,nl NED,MF,AZ Alkmaar,18-346,2006,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+354,Malcolm Mateyo,nl NED,GK,Almere City,20-099,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+355,Matheus,br BRA,GK,Ajax,32-290,1992,9,810,90,29.0,9.0,9,90,9,0,,2,2.22,14,9,+5,+0.56,-0.85,17.0,6.8,+10.2,+1.13,+0.18,Matches
+356,Dani Mathieu,nl NED,MF,Willem II,24-085,2001,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+357,Jens Mathijsen,,DF,Willem II,,,4,79,20,2.8,0.9,1,74,0,3,2,22,1.00,1,2,-1,-1.14,-0.51,0.3,3.1,-2.8,-3.14,-2.32,Matches
+358,Faiz Mattoir,km COM,"FW,MF",Almere City,24-297,2000,11,283,26,10.1,3.1,2,68,0,9,16,5,0.36,3,5,-2,-0.64,+0.66,2.8,4.7,-1.9,-0.59,-0.07,Matches
+359,Faissal Al Mazyani,be BEL,DF,RKC Waalwijk,20-107,2005,19,1365,72,48.9,15.2,15,87,13,4,17,1,0.84,18,30,-12,-0.79,+0.47,20.7,29.1,-8.4,-0.55,+0.42,Matches
+360,Dylan Mbayo,be BEL,"FW,MF",Zwolle,23-206,2001,31,1880,61,67.4,20.9,22,76,4,9,24,0,1.10,28,36,-8,-0.38,-0.09,20.6,38.5,-18.0,-0.86,-0.68,Matches
+361,Jakov Medić,hr CRO,"DF,MF",Ajax,26-240,1998,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+362,Mexx Meerdink,nl NED,"FW,MF",AZ Alkmaar,21-285,2003,24,695,29,24.9,7.7,5,77,1,19,16,0,1.58,18,12,+6,+0.78,+0.30,12.8,9.5,+3.4,+0.44,-0.11,Matches
+363,Ringo Meerveld,nl NED,"MF,FW",Willem II,24-135,2000,30,2648,88,94.9,29.4,30,88,23,0,,0,0.83,31,49,-18,-0.61,+0.66,22.5,47.3,-24.9,-0.85,+0.75,Matches
+364,Aaron Meijers,nl NED,DF,RKC Waalwijk,37-189,1987,16,738,46,26.5,8.2,9,64,1,7,23,10,0.56,4,21,-17,-2.07,-1.42,7.6,17.7,-10.2,-1.24,-0.65,Matches
+365,Jasper Meijster,nl NED,GK,Groningen,20-122,2005,0,,,,,0,,0,0,,7,,,,,,,,,,,,Matches
+366,Rick Meissen,nl NED,DF,Sparta R'dam,23-070,2002,19,766,40,27.5,8.5,8,83,6,11,10,12,1.37,9,17,-8,-0.94,-1.07,9.1,14.3,-5.3,-0.62,-0.87,Matches
+367,Rui Mendes,de GER,"MF,FW",Groningen,25-176,1999,14,517,37,18.5,5.7,5,75,1,9,16,17,0.64,8,13,-5,-0.87,-0.75,6.8,12.0,-5.2,-0.90,-0.85,Matches
+368,Julien Mesbahi,ma MAR,FW,Twente,19-094,2006,1,3,3,0.1,0.0,0,,0,1,3,16,3.00,0,0,0,0.00,-0.45,0.0,0.2,-0.2,-7.03,-7.44,Matches
+369,Ivan Mesík,sk SVK,DF,Heracles Almelo,23-338,2001,30,2639,88,94.6,29.3,30,88,28,0,,0,1.17,38,55,-17,-0.58,+0.02,35.9,50.7,-14.8,-0.51,+0.32,Matches
+370,Metinho,br BRA,MF,Sparta R'dam,22-012,2003,12,361,30,12.9,4.0,2,72,1,10,22,7,0.75,4,5,-1,-0.25,-0.10,5.6,5.9,-0.3,-0.07,-0.10,Matches
+371,Edouard Michut,fr FRA,"MF,FW",Fortuna Sittard,22-062,2003,15,859,57,30.8,9.5,10,77,3,5,19,3,1.00,11,15,-4,-0.42,+0.23,9.8,16.9,-7.1,-0.74,-0.66,Matches
+372,Sven Mijnans,nl NED,"MF,FW",AZ Alkmaar,25-057,2000,25,1978,79,70.9,22.0,23,83,14,2,35,0,1.76,38,21,+17,+0.77,+0.77,35.1,19.9,+15.1,+0.69,+0.58,Matches
+373,Antoni Milambo,nl NED,MF,Feyenoord,20-032,2005,26,1808,70,64.8,20.1,23,75,4,3,28,0,2.08,46,20,+26,+1.29,+0.10,33.4,20.7,+12.7,+0.63,-0.42,Matches
+374,Lorenzo Milani,it ITA,DF,Heracles Almelo,23-348,2001,7,275,39,9.9,3.1,3,49,0,4,32,19,1.00,2,4,-2,-0.65,-0.08,3.8,3.8,+0.1,+0.02,+0.60,Matches
+375,Mateja Milovanovic,rs SRB,DF,Heerenveen,21-017,2004,2,16,8,0.6,0.2,0,,0,2,8,18,2.00,0,1,-1,-5.63,-5.20,0.3,0.8,-0.5,-2.62,-2.49,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+376,David Min,nl NED,FW,Utrecht,25-316,1999,25,1180,47,42.3,13.1,15,68,0,10,16,6,2.00,20,13,+7,+0.53,-0.14,19.2,15.9,+3.3,+0.25,+0.21,Matches
+377,Damon Mirani,nl NED,DF,Heracles Almelo,28-357,1996,31,2743,88,98.3,30.5,31,88,28,0,,0,1.13,36,54,-18,-0.59,-0.59,35.7,53.0,-17.3,-0.57,-2.57,Matches
+378,Jeyland Mitchell,cr CRC,DF,Feyenoord,20-218,2004,1,15,15,0.5,0.2,0,,0,1,15,18,0.00,1,0,+1,+6.00,+4.77,1.5,0.2,+1.4,+8.23,+7.49,Matches
+379,Shunsuke Mito,jp JPN,FW,Sparta R'dam,22-219,2002,27,1411,52,50.6,15.7,16,73,4,11,22,2,1.04,18,13,+5,+0.32,+0.97,18.1,19.6,-1.5,-0.09,-0.21,Matches
+380,Josip Mitrović,hr CRO,"DF,MF",Fortuna Sittard,24-328,2000,23,815,35,29.2,9.1,8,72,1,15,16,5,1.26,17,19,-2,-0.22,+0.51,14.2,14.8,-0.6,-0.06,+0.32,Matches
+381,Jakub Moder,pl POL,MF,Feyenoord,26-028,1999,11,927,84,33.2,10.3,11,84,8,0,,0,2.55,26,8,+18,+1.75,+0.73,17.4,12.3,+5.1,+0.49,-0.43,Matches
+382,Jorthy Mokio,be BEL,"MF,DF",Ajax,17-065,2008,8,392,49,14.1,4.4,3,79,2,5,31,5,2.38,6,2,+4,+0.92,-0.28,10.6,2.9,+7.7,+1.78,+0.89,Matches
+383,Lars Mol,nl NED,MF,NAC Breda,20-232,2004,7,232,33,8.3,2.6,2,54,0,5,25,10,1.71,1,4,-3,-1.16,-0.57,2.9,3.1,-0.3,-0.10,+0.50,Matches
+384,Jamiro Monteiro,cv CPV,MF,Zwolle,31-163,1993,25,1909,76,68.4,21.2,23,81,8,2,23,1,1.12,27,37,-10,-0.47,-0.37,21.7,39.4,-17.7,-0.83,-0.62,Matches
+385,Alex Mortensen,se SWE,"FW,MF",Groningen,22-296,2002,2,10,5,0.4,0.1,0,,0,2,5,2,0.00,0,0,0,0.00,+0.26,0.1,0.1,+0.1,+0.73,+0.94,Matches
+386,Joshua Mukeh,nl NED,DF,Utrecht,21-246,2003,0,,,,,0,,0,0,,15,,,,,,,,,,,,Matches
+387,David Møller Wolfe,no NOR,DF,AZ Alkmaar,23-012,2002,28,2230,80,79.9,24.8,27,81,14,1,45,1,1.64,34,22,+12,+0.48,-0.32,36.6,21.5,+15.1,+0.61,+0.45,Matches
+388,Chris Nadje,fr FRA,MF,Feyenoord,23-264,2001,8,195,24,7.0,2.2,1,62,0,7,19,8,1.63,7,1,+6,+2.77,+1.62,4.3,1.8,+2.6,+1.19,+0.44,Matches
+389,Adamo Nagalo,bf BFA,DF,PSV Eindhoven,22-225,2002,6,168,28,6.0,1.9,1,60,0,5,22,8,2.33,2,1,+1,+0.54,-1.42,5.0,2.4,+2.5,+1.36,-0.05,Matches
+390,Adi Nalic,ba BIH,"MF,FW",Almere City,27-155,1997,22,695,32,24.9,7.7,7,74,1,15,12,9,0.59,3,16,-13,-1.68,-0.61,4.6,13.7,-9.1,-1.18,-0.87,Matches
+391,Younes Namli,dk DEN,"FW,MF",Zwolle,30-319,1994,15,863,58,30.9,9.6,10,75,2,5,23,0,1.33,12,14,-2,-0.21,+0.21,13.0,13.3,-0.4,-0.04,+0.87,Matches
+392,Mohamed Nassoh,nl NED,FW,Sparta R'dam,22-099,2003,27,1424,53,51.0,15.8,13,81,5,14,27,4,1.00,14,27,-13,-0.82,-1.35,20.5,20.1,+0.4,+0.03,+0.03,Matches
+393,Gerrit Nauber,de GER,DF,Go Ahead Eag,33-022,1992,29,2407,83,86.3,26.7,27,89,25,2,8,0,1.52,46,38,+8,+0.30,+1.47,41.8,33.2,+8.6,+0.32,+0.48,Matches
+394,Camiel Neghli,nl NED,FW,Sparta R'dam,23-180,2001,20,1382,69,49.5,15.4,15,83,5,5,28,0,0.85,16,23,-7,-0.46,-0.58,19.9,19.1,+0.8,+0.05,+0.08,Matches
+395,Ion Nicolaescu,md MDA,FW,Heerenveen,26-240,1998,22,1187,54,42.5,13.2,12,74,1,10,30,2,1.36,20,22,-2,-0.15,+0.52,16.3,20.0,-3.8,-0.29,-0.24,Matches
+396,Reuven Niemeijer,nl NED,"MF,DF",RKC Waalwijk,30-039,1995,9,228,25,8.2,2.5,2,59,0,7,16,11,0.22,2,5,-3,-1.18,-0.17,2.7,5.0,-2.3,-0.90,-0.15,Matches
+397,Luc Nieuwenhuijs,nl NED,FW,NEC Nijmegen,18-065,2007,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+398,Bart Nieuwkoop,nl NED,"DF,MF",Feyenoord,29-059,1996,10,465,47,16.7,5.2,6,60,0,4,27,4,1.70,9,6,+3,+0.58,-0.81,9.1,6.1,+3.0,+0.58,-0.24,Matches
+399,Olivier de Nijs,nl NED,"MF,FW",Almere City,20-177,2004,2,31,16,1.1,0.3,0,,0,2,16,0,0.00,0,0,0,0.00,+1.24,0.3,0.4,-0.1,-0.19,+0.34,Matches
+400,Ruud Nijstad,nl NED,DF,Twente,17-108,2008,0,,,,,0,,0,0,,5,,,,,,,,,,,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+401,Rob Nizet,be BEL,DF,Willem II,23-021,2002,18,685,38,24.6,7.6,6,84,3,12,15,10,0.56,6,10,-4,-0.53,+0.16,6.0,14.0,-8.0,-1.06,-0.23,Matches
+402,Kristian Nökkvi Hlynsson,is ISL,MF,Sparta R'dam,21-102,2004,11,946,86,33.9,10.5,11,86,7,0,,0,1.64,16,8,+8,+0.76,+1.40,13.8,12.4,+1.4,+0.13,+0.18,Matches
+403,Kristian Nökkvi Hlynsson,is ISL,"MF,FW",Ajax,21-102,2004,4,186,47,6.7,2.1,3,60,0,1,6,4,2.25,2,1,+1,+0.48,-0.73,2.6,2.6,0.0,+0.02,-1.06,Matches
+404,Andries Noppert,nl NED,GK,Heerenveen,31-028,1994,13,1170,90,41.9,13.0,13,90,13,0,,17,1.46,15,20,-5,-0.38,+0.12,13.0,17.7,-4.7,-0.36,-0.37,Matches
+405,Ché Nunnely,nl NED,"FW,MF",Heerenveen,26-090,1999,16,258,16,9.2,2.9,1,45,0,15,14,11,1.44,6,11,-5,-1.74,-1.42,5.5,7.1,-1.6,-0.56,-0.45,Matches
+406,Bram Nuytinck,nl NED,DF,NEC Nijmegen,35-001,1990,26,1689,65,60.5,18.8,20,80,16,6,14,1,1.12,23,29,-6,-0.32,-0.65,22.6,24.9,-2.3,-0.12,-0.40,Matches
+407,Armando Obispo,nl NED,DF,PSV Eindhoven,26-061,1999,11,390,35,14.0,4.3,4,71,2,7,15,13,2.18,12,9,+3,+0.69,-1.37,9.8,5.3,+4.5,+1.04,-0.42,Matches
+408,Julian Oerip,nl NED,MF,AZ Alkmaar,18-191,2006,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+409,Koki Ogawa,jp JPN,FW,NEC Nijmegen,27-270,1997,24,1598,67,57.3,17.8,20,75,8,4,25,1,1.08,24,23,+1,+0.06,+0.28,23.9,20.2,+3.8,+0.21,+0.42,Matches
+410,Noah Ohio,nl NED,FW,Utrecht,22-109,2003,21,622,30,22.3,6.9,4,63,0,17,22,5,2.19,18,13,+5,+0.72,+0.14,11.4,10.7,+0.7,+0.10,-0.05,Matches
+411,Lars Olden Larsen,no NOR,"MF,FW",NEC Nijmegen,26-230,1998,7,267,38,9.6,3.0,3,65,0,4,18,8,1.29,2,6,-4,-1.35,-1.42,3.5,2.5,+1.1,+0.37,+0.37,Matches
+412,Fredrik Oldrup Jensen,no NOR,MF,NAC Breda,31-352,1993,21,1171,56,42.0,13.0,14,77,3,7,14,5,1.00,15,20,-5,-0.38,+0.45,14.4,21.7,-7.3,-0.56,0.00,Matches
+413,Nick Olij,nl NED,GK,Sparta R'dam,29-277,1995,31,2790,90,100.0,31.0,31,90,31,0,,0,1.13,34,39,-5,-0.16,,38.8,38.4,+0.4,+0.01,,Matches
+414,Lucas Oliveira Rosa,br BRA,DF,Ajax,25-032,2000,4,192,48,6.9,2.1,2,90,2,2,6,7,2.50,6,2,+4,+1.87,+0.77,3.8,2.1,+1.7,+0.81,-0.21,Matches
+415,Simon Olsson,se SWE,MF,Heerenveen,27-233,1997,12,787,66,28.2,8.7,9,82,5,3,17,6,1.42,14,17,-3,-0.34,+0.15,13.3,15.6,-2.3,-0.27,-0.17,Matches
+416,Basar Onal,tr TUR,"FW,MF",NEC Nijmegen,20-303,2004,30,1298,43,46.5,14.4,11,72,1,19,27,1,1.03,23,22,+1,+0.07,+0.25,21.5,20.8,+0.8,+0.05,+0.03,Matches
+417,Diego van Oorschot,nl NED,"MF,FW",Heracles Almelo,19-215,2005,3,24,8,0.9,0.3,0,,0,3,8,13,2.00,0,0,0,0.00,+0.59,0.0,0.0,0.0,+0.15,+0.67,Matches
+418,Thijs Oosting,nl NED,"FW,MF",Groningen,25-003,2000,22,784,36,28.1,8.7,8,73,2,14,14,9,0.95,6,14,-8,-0.92,-0.92,7.2,11.9,-4.8,-0.55,-0.47,Matches
+419,Ties Oostra,nl NED,MF,Heerenveen,21-096,2004,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+420,Fredrik Oppegard,no NOR,DF,PSV Eindhoven,22-271,2002,6,276,46,9.9,3.1,3,76,1,3,16,4,3.00,12,4,+8,+2.61,+0.82,9.0,3.6,+5.4,+1.76,+0.39,Matches
+421,Yanick van Osch,nl NED,GK,RKC Waalwijk,28-042,1997,3,270,90,9.7,3.0,3,90,3,0,,7,0.33,5,9,-4,-1.33,-0.33,2.1,7.0,-4.9,-1.63,-0.96,Matches
+422,Ibrahim Osman,gh GHA,"FW,MF",Feyenoord,20-157,2004,21,780,37,28.0,8.7,6,72,2,15,23,3,2.19,23,11,+12,+1.38,+0.18,15.5,8.3,+7.2,+0.83,+0.07,Matches
+423,Sami Ouaissa,nl NED,"MF,FW",NEC Nijmegen,20-215,2004,30,1578,53,56.6,17.5,17,71,2,13,28,0,1.03,20,24,-4,-0.23,-0.38,21.1,24.3,-3.2,-0.18,-0.50,Matches
+424,Ayoub Oufkir,nl NED,"FW,DF",Sparta R'dam,19-121,2006,6,48,8,1.7,0.5,0,,0,6,8,13,0.33,2,2,0,0.00,+0.16,2.1,1.1,+1.0,+1.79,+1.81,Matches
+425,Mohamed Oukhattou,nl NED,MF,Zwolle,20-103,2005,0,,,,,0,,0,0,,15,,,,,,,,,,,,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+426,Yassin Oukili,nl NED,MF,RKC Waalwijk,24-122,2001,29,1942,67,69.6,21.6,23,79,13,6,22,1,0.55,27,49,-22,-1.02,+0.04,28.8,44.2,-15.4,-0.71,+0.17,Matches
+427,Thomas Ouwejan,nl NED,"DF,MF",NEC Nijmegen,28-217,1996,26,1610,62,57.7,17.9,16,84,11,10,27,1,1.15,22,22,0,0.00,+0.15,21.9,22.6,-0.7,-0.04,-0.17,Matches
+428,Rome-Jayden Owusu-Oduro,nl NED,GK,AZ Alkmaar,20-307,2004,25,2250,90,80.6,25.0,25,90,25,0,,0,1.40,43,31,+12,+0.48,-0.35,39.3,28.1,+11.2,+0.45,-0.36,Matches
+429,Igor Paixão,br BRA,"FW,MF",Feyenoord,24-311,2000,31,2612,84,93.6,29.0,31,84,22,0,,0,2.10,62,29,+33,+1.14,-1.90,47.4,27.6,+19.7,+0.68,-1.59,Matches
+430,Owen Panneflek,nl NED,FW,Twente,18-213,2006,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+431,Troy Parrott,ie IRL,FW,AZ Alkmaar,23-090,2002,28,2176,78,78.0,24.2,27,80,9,1,17,0,1.64,39,26,+13,+0.54,-0.05,37.7,22.6,+15.1,+0.62,+0.48,Matches
+432,Remko Pasveer,nl NED,GK,Ajax,41-178,1983,21,1890,90,67.7,21.0,21,90,21,0,,4,2.43,48,18,+30,+1.43,+0.83,40.3,20.7,+19.6,+0.93,-0.23,Matches
+433,Raul Paula,de GER,"FW,MF",NAC Breda,21-100,2004,15,649,43,23.3,7.2,8,65,1,7,19,3,1.07,13,14,-1,-0.14,+0.66,10.3,10.3,0.0,+0.01,+0.74,Matches
+434,Marcus Pedersen,no NOR,MF,Feyenoord,24-293,2000,1,12,12,0.4,0.1,0,,0,1,12,1,1.00,0,1,-1,-7.50,-8.80,0.5,0.0,+0.5,+3.61,+2.85,Matches
+435,Marvin Peersman,be BEL,DF,Groningen,34-084,1991,23,1708,74,61.2,19.0,19,84,14,4,26,0,1.35,26,27,-1,-0.05,+0.53,20.6,20.5,+0.1,+0.01,+0.56,Matches
+436,Joey Pelupessy,id IDN,"MF,DF",Groningen,31-355,1993,13,298,23,10.7,3.3,1,78,0,12,18,5,1.00,3,8,-5,-1.51,-1.40,2.8,6.8,-4.1,-1.22,-1.14,Matches
+437,Alexandre Penetra,pt POR,DF,AZ Alkmaar,23-238,2001,28,2324,83,83.3,25.8,28,83,21,0,,2,1.64,42,25,+17,+0.66,+0.66,40.0,26.5,+13.4,+0.52,+0.01,Matches
+438,Ricardo Pepi,us USA,FW,PSV Eindhoven,22-116,2003,18,693,39,24.8,7.7,5,86,4,13,20,2,2.39,31,7,+24,+3.12,+1.66,19.8,6.8,+12.9,+1.67,+0.35,Matches
+439,Brayann Pereira,fr FRA,DF,NEC Nijmegen,21-349,2003,28,1849,66,66.3,20.5,22,81,14,6,10,3,1.11,32,28,+4,+0.19,+0.77,26.9,26.3,+0.6,+0.03,-0.02,Matches
+440,Lucas Pérez,es ESP,"FW,MF",PSV Eindhoven,36-237,1988,2,18,9,0.6,0.2,0,,0,2,9,1,1.50,0,1,-1,-5.00,-6.92,0.1,0.3,-0.2,-0.75,-2.17,Matches
+441,Ivan Perišić,hr CRO,FW,PSV Eindhoven,36-092,1989,24,1578,66,56.6,17.5,18,79,7,6,25,2,2.04,45,27,+18,+1.03,-1.94,39.6,19.9,+19.7,+1.13,-0.65,Matches
+442,Kristoffer Peterson,se SWE,"FW,MF",Fortuna Sittard,30-158,1994,27,1645,61,59.0,18.3,20,72,5,7,29,0,1.19,20,31,-11,-0.60,-0.05,24.3,23.8,+0.5,+0.03,+0.77,Matches
+443,Hristiyan Petrov,bg BUL,DF,Heerenveen,22-315,2002,3,100,33,3.6,1.1,1,63,0,2,19,11,3.00,2,1,+1,+0.90,+1.40,1.7,1.1,+0.6,+0.58,+0.76,Matches
+444,Oscar Pettersson,se SWE,"FW,MF",Go Ahead Eag,25-093,2000,6,131,22,4.7,1.5,0,,0,6,22,3,1.83,3,1,+2,+1.37,+1.34,2.2,1.5,+0.7,+0.47,+0.22,Matches
+445,Jaden Pinas,nl NED,DF,Almere City,21-128,2003,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+446,Ivo Pinto,pt POR,DF,Fortuna Sittard,35-118,1990,28,2296,82,82.3,25.5,27,84,17,1,22,0,1.21,25,40,-15,-0.59,-0.04,29.1,36.2,-7.1,-0.28,+0.05,Matches
+447,Miodrag Pivas,rs SRB,"DF,MF",Willem II,19-353,2005,4,28,7,1.0,0.3,0,,0,4,7,18,0.00,0,1,-1,-3.21,-2.60,0.2,0.7,-0.5,-1.62,-0.74,Matches
+448,Luca Plogmann,de GER,GK,Go Ahead Eag,25-056,2000,17,1530,90,54.8,17.0,17,90,17,0,,14,1.47,30,27,+3,+0.18,+0.18,29.4,20.3,+9.2,+0.54,+0.63,Matches
+449,Jan Plug,nl NED,DF,Feyenoord,20-033,2005,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+450,Suf Podgoreanu,il ISR,"FW,MF",Heracles Almelo,23-105,2002,29,2067,71,74.1,23.0,25,77,10,4,33,0,1.17,29,39,-10,-0.44,+0.56,28.5,40.0,-11.6,-0.50,+0.07,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+451,Emanuel Poku,nl NED,FW,Almere City,19-290,2005,3,123,41,4.4,1.4,0,,0,3,41,2,0.00,0,8,-8,-5.85,-4.84,0.8,5.0,-4.3,-3.11,-2.71,Matches
+452,Ernest Poku,nl NED,FW,AZ Alkmaar,21-097,2004,20,1290,65,46.2,14.3,14,80,4,6,29,8,1.50,20,18,+2,+0.14,-0.76,19.6,14.0,+5.6,+0.39,-0.24,Matches
+453,Romano Postema,nl NED,"FW,MF",Groningen,23-087,2002,26,1092,42,39.1,12.1,12,72,2,14,17,3,1.00,5,19,-14,-1.15,-1.47,9.5,19.6,-10.0,-0.83,-1.01,Matches
+454,Wouter Prins,nl NED,DF,Groningen,21-088,2004,23,1490,65,53.4,16.6,17,79,7,6,23,5,1.04,14,26,-12,-0.72,-1.00,16.7,25.3,-8.6,-0.52,-0.66,Matches
+455,Dirk Proper,nl NED,MF,NEC Nijmegen,23-070,2002,26,2159,83,77.4,24.0,25,85,21,1,28,0,0.96,29,39,-10,-0.42,-1.56,27.3,33.4,-6.1,-0.25,-1.27,Matches
+456,Ruben Providence,ht HAI,"FW,MF",Almere City,23-302,2001,20,499,25,17.9,5.5,3,72,0,17,17,8,0.55,2,11,-9,-1.62,-0.48,4.7,9.6,-4.9,-0.89,-0.44,Matches
+457,Jeffry Puriel,bq BOE,FW,Almere City,22-170,2002,1,25,25,0.9,0.3,0,,0,1,25,4,0.00,0,4,-4,-14.40,-13.29,0.1,1.6,-1.5,-5.44,-4.96,Matches
+458,Teo Quintero,ve VEN,DF,Sparta R'dam,26-064,1999,12,573,48,20.5,6.4,6,74,3,6,22,10,1.17,5,9,-4,-0.63,-0.59,7.8,9.2,-1.4,-0.22,-0.29,Matches
+459,Bojan Radulovic,rs SRB,FW,Fortuna Sittard,25-127,1999,8,310,39,11.1,3.4,2,64,0,6,31,1,1.25,5,6,-1,-0.29,+0.33,5.5,5.9,-0.3,-0.10,+0.21,Matches
+460,Dimitris Rallis,nl NED,FW,Heerenveen,20-040,2005,22,863,39,30.9,9.6,12,60,1,10,15,8,1.23,10,17,-7,-0.73,-0.40,11.8,10.8,+1.0,+0.11,+0.37,Matches
+461,Diant Ramaj,de GER,GK,Ajax,23-228,2001,1,90,90,3.2,1.0,1,90,1,0,,18,3.00,1,0,+1,+1.00,-0.17,1.9,0.5,+1.4,+1.40,+0.41,Matches
+462,Christian Rasmussen,dk DEN,FW,Ajax,22-106,2003,10,219,22,7.8,2.4,1,55,0,9,18,13,2.50,8,2,+6,+2.47,+1.42,7.7,1.6,+6.1,+2.51,+1.64,Matches
+463,Khaled Razak,nl NED,FW,Willem II,19-143,2005,1,5,5,0.2,0.1,0,,0,1,5,12,0.00,0,0,0,0.00,+0.65,0.0,0.0,0.0,+0.13,+1.02,Matches
+464,Givairo Read,nl NED,DF,Feyenoord,18-337,2006,23,1710,74,61.3,19.0,19,84,13,4,31,7,2.22,46,18,+28,+1.47,+0.56,33.2,18.5,+14.7,+0.78,-0.01,Matches
+465,Tim Receveur,nl NED,MF,Almere City,33-279,1991,2,86,43,3.1,1.0,1,74,0,1,12,16,0.50,0,5,-5,-5.23,-4.13,1.2,4.5,-3.3,-3.45,-3.02,Matches
+466,Zepiqueno Redmond,nl NED,FW,Feyenoord,18-317,2006,4,158,40,5.7,1.8,2,61,0,2,18,12,2.50,3,2,+1,+0.57,-0.73,3.7,1.9,+1.9,+1.07,+0.30,Matches
+467,Daan van Reeuwijk,,DF,NAC Breda,,,0,,,,,0,,0,0,,8,,,,,,,,,,,,Matches
+468,Youri Regeer,nl NED,MF,Ajax,21-260,2003,2,25,13,0.9,0.3,0,,0,2,13,1,2.00,2,1,+1,+3.60,+2.46,2.3,0.3,+2.0,+7.24,+6.29,Matches
+469,Youri Regeer,nl NED,MF,Twente,21-260,2003,19,1342,71,48.1,14.9,16,79,9,3,25,0,1.79,32,21,+11,+0.74,+0.55,28.2,17.4,+10.8,+0.73,+0.63,Matches
+470,Eliano Reijnders,id IDN,DF,Zwolle,24-194,2000,18,937,52,33.6,10.4,8,89,7,10,23,13,1.06,12,19,-7,-0.67,-0.48,11.4,17.3,-5.8,-0.56,+0.12,Matches
+471,Boyd Reith,nl NED,DF,Sparta R'dam,25-334,1999,13,870,67,31.2,9.7,9,84,8,4,30,18,0.92,9,13,-4,-0.41,-0.37,12.3,12.3,0.0,0.00,-0.02,Matches
+472,Kaylen Reitmeier,de GER,GK,Sparta R'dam,,,0,,,,,0,,0,0,,20,,,,,,,,,,,,Matches
+473,Gabriel Reiziger,nl NED,MF,Zwolle,19-207,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+474,Devyne Rensch,nl NED,DF,Ajax,22-107,2003,14,1113,80,39.9,12.4,13,85,11,1,11,3,2.71,33,11,+22,+1.78,+1.03,26.0,11.6,+14.3,+1.16,+0.25,Matches
+475,Marco Rente,de GER,DF,Groningen,28-069,1997,27,2341,87,83.9,26.0,27,87,24,0,,0,1.37,31,39,-8,-0.31,-0.31,30.0,33.6,-3.6,-0.14,+0.45,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+476,Stije Resink,nl NED,MF,Almere City,21-342,2003,3,238,79,8.5,2.6,3,79,2,0,,0,0.00,1,11,-10,-3.78,-2.79,1.3,6.8,-5.5,-2.08,-1.70,Matches
+477,Stije Resink,nl NED,MF,Groningen,21-342,2003,23,1861,81,66.7,20.7,22,83,16,1,45,2,1.13,23,32,-9,-0.44,-0.53,23.8,26.8,-3.0,-0.15,+0.19,Matches
+478,Paul Reverson,nl NED,GK,Ajax,19-319,2005,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+479,Julian Rijkhoff,nl NED,FW,Ajax,20-100,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+480,Milan Robberechts,be BEL,MF,Fortuna Sittard,21-062,2004,2,10,5,0.4,0.1,0,,0,2,5,1,1.50,0,1,-1,-9.00,-8.45,0.1,0.2,-0.1,-0.93,-0.65,Matches
+481,Thomas Robinet,fr FRA,"MF,FW",Almere City,28-260,1996,29,2440,84,87.5,27.1,29,84,25,0,,0,0.69,19,44,-25,-0.92,+2.42,28.9,37.6,-8.7,-0.32,+1.65,Matches
+482,Miguel Rodríguez,es ESP,"FW,MF",Utrecht,22-006,2003,20,1085,54,38.9,12.1,13,71,2,7,23,3,2.10,30,14,+16,+1.33,+1.17,19.4,13.5,+5.8,+0.49,+0.57,Matches
+483,Robin Roefs,nl NED,GK,NEC Nijmegen,22-108,2003,29,2610,90,93.5,29.0,29,90,29,0,,0,1.17,42,41,+1,+0.03,+1.53,38.7,34.4,+4.2,+0.15,+1.74,Matches
+484,Godfried Roemeratoe,cw CUW,MF,RKC Waalwijk,25-259,1999,22,1467,67,52.6,16.3,17,80,8,5,21,7,0.55,16,41,-25,-1.53,-1.06,15.4,33.0,-17.7,-1.09,-0.67,Matches
+485,Ole Romeny,id IDN,FW,Utrecht,24-319,2000,13,726,56,26.0,8.1,8,78,0,5,20,4,2.62,19,11,+8,+0.99,+0.51,10.4,11.2,-0.8,-0.10,-0.32,Matches
+486,Bart van Rooij,nl NED,DF,Twente,23-344,2001,29,2582,89,92.5,28.7,29,89,27,0,,0,1.62,53,42,+11,+0.38,-0.91,45.5,36.7,+8.8,+0.31,-1.22,Matches
+487,Bart van Rooij,nl NED,DF,NEC Nijmegen,23-344,2001,2,177,89,6.3,2.0,2,89,1,0,,0,0.00,1,3,-2,-1.02,-1.02,1.3,3.2,-1.9,-0.99,-1.09,Matches
+488,Kaj de Rooij,nl NED,"FW,MF",Zwolle,24-161,2000,18,284,16,10.2,3.2,0,,0,18,16,12,0.94,4,6,-2,-0.63,-0.31,4.0,8.3,-4.3,-1.36,-0.80,Matches
+489,Ruben Roosken,nl NED,DF,Heracles Almelo,25-064,2000,16,1222,76,43.8,13.6,15,81,11,1,1,0,0.88,17,30,-13,-0.96,-0.67,15.8,28.7,-12.8,-0.95,-0.75,Matches
+490,Rayvien Rosario,cw CUW,MF,Sparta R'dam,21-024,2004,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+491,Loreintz Rosier,fr FRA,"MF,DF",Fortuna Sittard,26-264,1998,28,1974,71,70.8,21.9,22,81,15,6,33,1,1.11,27,37,-10,-0.46,+0.43,27.1,30.7,-3.6,-0.17,+0.42,Matches
+492,Daan Rots,nl NED,FW,Twente,23-284,2001,29,2014,69,72.2,22.4,25,76,6,4,29,0,1.62,41,31,+10,+0.45,-0.02,36.6,28.5,+8.1,+0.36,-0.13,Matches
+493,Mats Rots,nl NED,DF,Twente,19-055,2006,0,,,,,0,,0,0,,16,,,,,,,,,,,,Matches
+494,Mats Rots,nl NED,DF,Heracles Almelo,19-055,2006,12,1047,87,37.5,11.6,12,87,11,0,,0,1.33,16,19,-3,-0.26,+0.52,14.0,17.3,-3.3,-0.28,+0.39,Matches
+495,Manu Royo,es ESP,DF,NAC Breda,31-066,1994,3,106,35,3.8,1.2,1,90,1,2,8,11,2.00,2,4,-2,-1.70,-1.09,1.5,2.3,-0.9,-0.74,-0.19,Matches
+496,Daniele Rugani,it ITA,DF,Ajax,30-280,1994,14,652,47,23.4,7.2,6,86,5,8,17,12,2.86,17,2,+15,+2.07,+1.19,15.9,4.6,+11.3,+1.56,+0.72,Matches
+497,Dylan Ruward,nl NED,DF,Zwolle,20-104,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+498,Pim Saathof,nl NED,DF,Go Ahead Eag,21-128,2003,1,77,77,2.8,0.9,1,77,0,0,,11,0.00,1,3,-2,-2.34,-2.50,0.9,2.2,-1.2,-1.44,-1.74,Matches
+499,Michal Sadílek,cz CZE,"MF,DF",Twente,25-339,1999,18,1356,75,48.6,15.1,15,86,10,3,23,2,1.61,27,23,+4,+0.27,-0.36,20.4,19.7,+0.7,+0.05,-0.69,Matches
+500,Ibrahim Sadiq,gh GHA,FW,AZ Alkmaar,24-363,2000,16,917,57,32.9,10.2,12,71,2,4,16,1,1.63,18,8,+10,+0.98,+0.65,15.0,10.3,+4.7,+0.46,-0.08,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+501,Danilo Al Saed,iq IRQ,"MF,FW",Heerenveen,26-070,1999,6,202,34,7.2,2.2,2,62,0,4,20,9,0.83,2,5,-3,-1.34,-0.95,2.1,4.6,-2.5,-1.10,-1.03,Matches
+502,Ismael Saibari,ma MAR,MF,PSV Eindhoven,24-097,2001,26,1593,61,57.1,17.7,18,76,6,8,29,0,2.12,51,20,+31,+1.75,-0.28,38.4,17.0,+21.4,+1.21,-0.47,Matches
+503,Anass Salah-Eddine,nl NED,DF,Twente,23-107,2002,18,1280,71,45.9,14.2,15,79,6,3,34,0,1.72,28,18,+10,+0.70,+0.46,25.2,16.3,+8.9,+0.63,+0.42,Matches
+504,Giandro Sambo,cw CUW,"FW,DF",Heracles Almelo,18-250,2006,2,14,7,0.5,0.2,0,,0,2,7,3,0.50,0,1,-1,-6.43,-5.88,0.0,0.4,-0.4,-2.73,-2.22,Matches
+505,Philippe Sandler,nl NED,DF,NEC Nijmegen,28-084,1997,16,1147,72,41.1,12.7,16,72,4,0,,0,1.38,19,21,-2,-0.16,-0.16,16.1,15.6,+0.5,+0.04,+0.01,Matches
+506,Cisse Sandra,be BEL,"FW,MF",Willem II,21-140,2003,26,1873,72,67.1,20.8,22,81,11,4,22,0,0.69,18,34,-16,-0.77,-0.38,14.2,33.4,-19.2,-0.92,-0.12,Matches
+507,Kodai Sano,jp JPN,"MF,FW",NEC Nijmegen,21-222,2003,22,1700,77,60.9,18.9,20,82,13,2,31,0,1.23,31,23,+8,+0.42,+1.25,27.1,18.1,+9.0,+0.48,+1.13,Matches
+508,Mikki van Sas,nl NED,GK,Feyenoord,21-065,2004,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+509,Antonio Satriano,it ITA,FW,Heracles Almelo,21-187,2003,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+510,Leo Sauer,sk SVK,"MF,FW",NAC Breda,19-140,2005,28,2286,82,81.9,25.4,27,82,11,1,61,0,1.04,25,42,-17,-0.67,-0.13,28.3,41.1,-12.8,-0.50,+0.32,Matches
+511,Yousri Sbai,nl NED,MF,NEC Nijmegen,20-270,2004,0,,,,,0,,0,0,,10,,,,,,,,,,,,Matches
+512,Jasper Schendelaar,nl NED,GK,Zwolle,24-245,2000,27,2430,90,87.1,27.0,27,90,27,0,,0,1.00,28,43,-15,-0.56,-1.56,30.1,46.0,-15.9,-0.59,+0.40,Matches
+513,Tristan Schenkhuizen,nl NED,"MF,FW",Fortuna Sittard,20-297,2004,2,6,3,0.2,0.1,0,,0,2,3,12,0.00,0,0,0,0.00,+0.58,0.2,0.0,+0.2,+2.27,+2.57,Matches
+514,Sem Scheperman,nl NED,MF,Heracles Almelo,22-315,2002,22,1549,70,55.5,17.2,16,86,11,6,28,1,1.09,20,30,-10,-0.58,0.00,20.3,26.8,-6.5,-0.38,+0.33,Matches
+515,Niek Schiks,nl NED,GK,PSV Eindhoven,21-091,2004,0,,,,,0,,0,0,,27,,,,,,,,,,,,Matches
+516,Lasse Schöne,dk DEN,MF,NEC Nijmegen,38-343,1986,15,279,19,10.0,3.1,2,55,0,13,13,15,0.80,2,4,-2,-0.65,-0.65,3.8,6.8,-3.0,-0.98,-1.12,Matches
+517,Youri Schoonderwaldt,nl NED,GK,Sparta R'dam,25-053,2000,0,,,,,0,,0,0,,31,,,,,,,,,,,,Matches
+518,Erik Schouten,nl NED,DF,Willem II,33-262,1991,15,1315,88,47.1,14.6,15,88,11,0,,4,0.60,14,30,-16,-1.10,-0.85,10.3,27.2,-16.9,-1.16,-0.52,Matches
+519,Jerdy Schouten,nl NED,MF,PSV Eindhoven,28-113,1997,18,1295,72,46.4,14.4,15,81,10,3,26,1,2.06,35,19,+16,+1.11,-1.42,34.2,17.1,+17.2,+1.19,-0.40,Matches
+520,Lewis Schouten,nl NED,MF,AZ Alkmaar,21-090,2004,1,1,1,0.0,0.0,0,,0,1,1,1,3.00,0,0,0,0.00,-0.55,0.2,0.0,+0.2,+17.95,+17.44,Matches
+521,Jorg Schreuders,nl NED,"MF,FW",Groningen,20-238,2004,29,1681,58,60.3,18.7,20,78,7,9,15,0,1.28,24,22,+2,+0.11,+0.92,20.5,24.3,-3.8,-0.20,+0.02,Matches
+522,Maarten Schut,nl NED,GK,Willem II,21-204,2003,0,,,,,0,,0,0,,28,,,,,,,,,,,,Matches
+523,Ilias Sebaoui,be BEL,"FW,MF",Heerenveen,23-213,2001,29,1874,65,67.2,20.8,21,76,3,8,36,2,1.31,23,29,-6,-0.29,+0.50,25.3,28.6,-3.2,-0.15,-0.02,Matches
+524,Charlie Setford,eng ENG,GK,Ajax,20-359,2004,0,,,,,0,,0,0,,5,,,,,,,,,,,,Matches
+525,Mats Seuntjens,nl NED,"FW,MF",Groningen,33-018,1992,12,653,54,23.4,7.3,9,67,0,3,17,1,1.25,12,11,+1,+0.14,+0.52,10.7,6.7,+3.9,+0.54,+0.98,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+526,Kento Shiogai,jp JPN,FW,NEC Nijmegen,20-040,2005,22,493,22,17.7,5.5,2,75,1,20,17,5,1.05,13,7,+6,+1.10,+1.41,11.3,7.1,+4.3,+0.78,+0.91,Matches
+527,Kaj Sierhuis,nl NED,FW,Fortuna Sittard,27-008,1998,8,398,50,14.3,4.4,5,68,0,3,19,0,1.25,2,11,-9,-2.04,-1.70,3.4,8.3,-4.9,-1.11,-0.96,Matches
+528,Oskar Siira Sivertsen,no NOR,FW,Go Ahead Eag,21-079,2004,5,55,11,2.0,0.6,0,,0,5,11,6,1.40,1,3,-2,-3.27,-3.44,0.4,1.3,-1.0,-1.56,-1.85,Matches
+529,Daley Sinkgraven,nl NED,"MF,FW",Fortuna Sittard,29-305,1995,2,77,39,2.8,0.9,1,63,0,1,14,0,0.00,0,2,-2,-2.34,-1.81,0.5,2.1,-1.6,-1.82,-1.58,Matches
+530,Aymen Sliti,nl NED,"FW,MF",Feyenoord,19-042,2006,3,44,15,1.6,0.5,0,,0,3,15,6,3.00,2,0,+2,+4.09,+2.88,0.9,0.7,+0.2,+0.42,-0.37,Matches
+531,Gijs Smal,nl NED,"DF,MF",Feyenoord,27-247,1997,22,1170,53,41.9,13.0,12,80,6,10,21,7,2.32,30,15,+15,+1.15,-0.18,23.4,10.8,+12.6,+0.97,+0.32,Matches
+532,Levi Smans,nl NED,"MF,FW",Heerenveen,21-041,2004,30,2028,68,72.7,22.5,22,84,13,8,22,1,1.23,26,41,-15,-0.67,-0.78,26.8,30.1,-3.3,-0.15,0.00,Matches
+533,Kees Smit,nl NED,"MF,FW",AZ Alkmaar,19-105,2006,15,793,53,28.4,8.8,7,81,4,8,28,8,1.80,10,9,+1,+0.11,-0.61,12.2,7.5,+4.7,+0.54,+0.03,Matches
+534,Milan Smit,nl NED,"FW,MF",Go Ahead Eag,22-081,2003,21,768,37,27.5,8.5,8,81,5,13,9,7,1.52,17,15,+2,+0.23,+0.19,12.8,9.9,+2.9,+0.34,+0.12,Matches
+535,Joshua Smits,nl NED,GK,Willem II,32-180,1992,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+536,Tijn Smolenaars,nl NED,GK,PSV Eindhoven,20-071,2005,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+537,Kamal Sowah,gh GHA,"MF,FW",NAC Breda,25-116,2000,9,614,68,22.0,6.8,7,82,4,2,20,1,0.67,5,8,-3,-0.44,+0.26,7.7,8.7,-1.0,-0.15,+0.53,Matches
+538,Marco Speelman,nl NED,DF,Groningen,18-294,2006,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+539,Mark Spenkelink,nl NED,GK,RKC Waalwijk,28-098,1997,1,90,90,3.2,1.0,1,90,1,0,,9,0.00,1,6,-5,-5.00,-4.10,1.0,3.6,-2.6,-2.58,-1.87,Matches
+540,Tommy St. Jago,nl NED,DF,Willem II,25-122,2000,30,2700,90,96.8,30.0,30,90,30,0,,0,0.83,31,47,-16,-0.53,+3.47,22.8,48.1,-25.2,-0.84,+1.32,Matches
+541,Finn Stam,nl NED,DF,Groningen,22-022,2003,18,811,45,29.1,9.0,9,75,4,9,16,11,1.11,10,13,-3,-0.33,-0.11,9.2,14.1,-4.8,-0.54,-0.46,Matches
+542,Casper Staring,nl NED,MF,NAC Breda,24-093,2001,14,538,38,19.3,6.0,4,81,1,10,21,17,1.14,6,14,-8,-1.34,-0.86,8.3,13.8,-5.5,-0.93,-0.45,Matches
+543,Sem Steijn,nl NED,MF,Twente,23-169,2001,30,2492,83,89.3,27.7,29,85,18,1,30,0,1.60,54,41,+13,+0.47,+0.17,46.0,33.3,+12.7,+0.46,+0.56,Matches
+544,Calvin Stengs,nl NED,"MF,FW",Feyenoord,26-138,1998,9,530,59,19.0,5.9,5,81,3,4,31,0,1.67,15,6,+9,+1.53,+0.33,12.1,5.3,+6.8,+1.16,+0.46,Matches
+545,Sean Steur,nl NED,MF,Ajax,17-114,2008,1,8,8,0.3,0.1,0,,0,1,8,2,3.00,0,0,0,0.00,-1.16,0.0,0.0,0.0,+0.06,-0.95,Matches
+546,Finn Stokkers,nl NED,FW,Go Ahead Eag,29-017,1996,16,349,22,12.5,3.9,2,63,0,14,16,2,1.19,6,5,+1,+0.26,+0.18,8.0,5.1,+2.9,+0.76,+0.57,Matches
+547,Mathis Suray,be BEL,"FW,MF",Go Ahead Eag,23-283,2001,27,1188,44,42.6,13.2,12,78,1,15,17,4,1.44,15,25,-10,-0.76,-1.49,16.3,19.7,-3.4,-0.26,-0.90,Matches
+548,Josip Šutalo,hr CRO,DF,Ajax,25-066,2000,26,2225,86,79.7,24.7,25,88,23,1,27,0,2.27,47,26,+21,+0.85,-1.54,46.7,25.1,+21.6,+0.88,-0.65,Matches
+549,Youssuf Sylla,be BEL,"FW,MF",Willem II,22-137,2002,10,162,16,5.8,1.8,0,,0,10,16,3,0.10,0,4,-4,-2.22,-1.67,1.5,4.0,-2.5,-1.37,-0.52,Matches
+550,Anas Tahiri,be BEL,MF,Almere City,29-355,1995,23,1545,67,55.4,17.2,20,74,3,3,21,4,0.61,8,33,-25,-1.46,-0.52,15.5,24.7,-9.2,-0.54,-0.02,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+551,Benjamin Tahirovic,ba BIH,MF,Ajax,22-063,2003,1,76,76,2.7,0.8,1,76,0,0,,4,3.00,1,0,+1,+1.18,+0.02,1.9,0.5,+1.4,+1.64,+0.65,Matches
+552,Ilias Takidine,be BEL,FW,RKC Waalwijk,24-089,2001,0,,,,,0,,0,0,,8,,,,,,,,,,,,Matches
+553,Juho Talvitie,fi FIN,"FW,MF",Heracles Almelo,20-046,2005,28,1297,46,46.5,14.4,14,72,3,14,21,2,1.21,17,27,-10,-0.69,-0.21,16.8,21.6,-4.8,-0.33,+0.36,Matches
+554,Oussama Targhalline,ma MAR,MF,Feyenoord,22-350,2002,4,184,46,6.6,2.0,1,90,1,3,31,1,2.00,4,1,+3,+1.47,+0.22,3.5,0.5,+3.0,+1.45,+0.72,Matches
+555,Kenneth Taylor,nl NED,"MF,FW",Ajax,22-354,2002,30,2195,73,78.7,24.4,26,80,9,4,29,0,2.37,47,20,+27,+1.11,-0.25,46.2,21.7,+24.6,+1.01,0.00,Matches
+556,Jonah te Fruchte,nl NED,GK,Heracles Almelo,19-041,2006,0,,,,,0,,0,0,,8,,,,,,,,,,,,Matches
+557,Søren Tengstedt,dk DEN,"MF,FW",Go Ahead Eag,24-309,2000,12,422,35,15.1,4.7,4,73,1,8,16,2,1.83,5,6,-1,-0.21,-0.37,6.3,5.0,+1.3,+0.28,+0.03,Matches
+558,Dylan Tevreden,nl NED,GK,Sparta R'dam,19-292,2005,0,,,,,0,,0,0,,11,,,,,,,,,,,,Matches
+559,Jordan Teze,nl NED,DF,PSV Eindhoven,25-217,1999,2,40,20,1.4,0.4,0,,0,2,20,0,3.00,3,1,+2,+4.50,+2.67,1.6,0.3,+1.3,+2.98,+1.59,Matches
+560,Ryan Thomas,nz NZL,MF,Zwolle,30-136,1994,15,724,48,25.9,8.0,7,82,4,8,19,12,1.00,10,12,-2,-0.25,+0.14,10.5,11.7,-1.2,-0.15,+0.66,Matches
+561,Jop Tijink,nl NED,DF,Heracles Almelo,20-095,2005,0,,,,,0,,0,0,,8,,,,,,,,,,,,Matches
+562,Guus Til,nl NED,MF,PSV Eindhoven,27-134,1997,29,1912,66,68.5,21.2,22,79,10,7,24,2,2.21,65,24,+41,+1.93,+0.19,50.3,17.5,+32.8,+1.55,+0.44,Matches
+563,Malik Tillman,us USA,"MF,FW",PSV Eindhoven,22-342,2002,23,1645,72,59.0,18.3,19,80,10,4,31,0,2.52,60,17,+43,+2.35,+1.17,42.1,17.2,+24.8,+1.36,-0.12,Matches
+564,Quinten Timber,nl NED,MF,Feyenoord,23-322,2001,18,1391,77,49.9,15.5,16,83,11,2,31,0,1.94,34,21,+13,+0.84,-0.83,27.4,14.9,+12.5,+0.81,+0.06,Matches
+565,Mickaël Tirpan,be BEL,DF,Willem II,31-194,1993,23,1928,84,69.1,21.4,22,87,17,1,11,0,0.78,19,33,-14,-0.65,-0.03,15.6,32.5,-16.9,-0.79,+0.31,Matches
+566,Jens Toornstra,nl NED,MF,Utrecht,36-031,1989,28,1285,46,46.1,14.3,16,65,0,12,21,3,1.96,22,19,+3,+0.21,-0.75,18.1,18.3,-0.2,-0.01,-0.28,Matches
+567,Bertrand Traoré,bf BFA,FW,Ajax,29-241,1995,29,1581,55,56.7,17.6,18,66,1,11,35,2,2.34,36,14,+22,+1.25,+0.21,35.0,15.6,+19.4,+1.11,+0.23,Matches
+568,Gernot Trauner,at AUT,DF,Feyenoord,33-041,1992,16,1143,71,41.0,12.7,13,81,8,3,31,4,1.88,28,17,+11,+0.87,-0.66,20.5,15.0,+5.5,+0.43,-0.59,Matches
+569,Jacob Trenskow,dk DEN,"FW,MF",Heerenveen,24-160,2000,22,1497,68,53.7,16.6,17,80,9,5,28,0,1.23,21,33,-12,-0.72,-0.58,20.6,25.2,-4.7,-0.28,-0.29,Matches
+570,Tein Troost,nl NED,GK,NAC Breda,23-110,2002,0,,,,,0,,0,0,,11,,,,,,,,,,,,Matches
+571,Luka Tunjić,de GER,"FW,MF",Fortuna Sittard,19-167,2005,10,298,30,10.7,3.3,1,53,0,9,27,18,0.80,8,5,+3,+0.91,+1.66,4.7,7.0,-2.4,-0.71,-0.47,Matches
+572,Fofin Turay,nl NED,MF,Groningen,20-332,2004,1,1,1,0.0,0.0,0,,0,1,1,5,0.00,0,1,-1,-90.00,-89.77,0.0,0.6,-0.6,-51.50,-51.31,Matches
+573,Calvin Twigt,nl NED,MF,Go Ahead Eag,22-095,2003,13,446,34,16.0,5.0,4,72,0,9,18,13,1.77,6,6,0,0.00,-0.12,8.1,5.7,+2.4,+0.48,+0.27,Matches
+574,Przemysław Tytoń,pl POL,GK,Twente,38-121,1987,2,180,90,6.5,2.0,2,90,2,0,,25,1.50,4,8,-4,-2.00,-2.62,3.2,3.9,-0.7,-0.37,-0.82,Matches
+575,Ayase Ueda,jp JPN,FW,Feyenoord,26-237,1998,18,957,53,34.3,10.6,10,78,3,8,23,0,2.11,32,12,+20,+1.88,+0.95,17.9,11.6,+6.3,+0.59,-0.29,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+576,Precious Ugwu,nl NED,DF,Ajax,19-086,2006,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+577,Jesper Uneken,nl NED,FW,PSV Eindhoven,20-269,2004,0,,,,,0,,0,0,,4,,,,,,,,,,,,Matches
+578,Lars Unnerstall,de GER,GK,Twente,34-289,1990,29,2610,90,93.5,29.0,29,90,29,0,,0,1.66,54,36,+18,+0.62,+2.62,47.7,34.6,+13.1,+0.45,+0.82,Matches
+579,Naci Ünüvar,nl NED,FW,Twente,21-326,2003,11,390,35,14.0,4.3,3,69,0,8,23,2,1.18,8,6,+2,+0.46,+0.01,6.7,6.5,+0.2,+0.04,-0.41,Matches
+580,Kyan Vaesen,be BEL,FW,Willem II,24-022,2001,24,1655,69,59.3,18.4,21,75,5,3,25,0,0.75,18,26,-8,-0.44,+0.52,12.1,29.2,-17.1,-0.93,-0.11,Matches
+581,Etienne Vaessen,sr SUR,GK,Groningen,29-283,1995,30,2700,90,96.8,30.0,30,90,30,0,,0,1.23,38,46,-8,-0.27,-0.27,33.8,40.5,-6.7,-0.22,-0.43,Matches
+582,Luciano Valente,it ITA,"MF,FW",Groningen,21-213,2003,30,2428,81,87.0,27.0,29,82,8,1,45,0,1.27,34,37,-3,-0.11,+1.13,29.2,35.0,-5.8,-0.21,-0.03,Matches
+583,Cherrion Valerius,cw CUW,DF,NAC Breda,19-225,2005,12,936,78,33.5,10.4,12,78,5,0,,1,1.00,7,14,-7,-0.67,-0.04,9.4,14.8,-5.4,-0.52,+0.07,Matches
+584,Dave Van Den Berg,nl NED,MF,Zwolle,25-090,2000,29,2039,70,73.1,22.7,24,81,13,5,19,1,1.07,30,40,-10,-0.44,-0.32,22.9,40.2,-17.3,-0.76,-0.46,Matches
+585,Jan Van den Bergh,be BEL,DF,NAC Breda,30-215,1994,29,2610,90,93.5,29.0,29,90,29,0,,0,1.07,32,50,-18,-0.62,+0.38,33.1,49.3,-16.2,-0.56,+0.07,Matches
+586,Dario Van den Buijs,be BEL,DF,RKC Waalwijk,29-235,1995,14,1110,79,39.8,12.3,13,84,9,1,22,1,0.36,8,30,-22,-1.78,-1.25,10.2,22.4,-12.3,-1.00,-0.38,Matches
+587,Tobias Elshout Van Den,nl NED,MF,Feyenoord,18-092,2007,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+588,Alec Van Hoorenbeeck,be BEL,DF,Twente,26-126,1998,17,891,52,31.9,9.9,9,88,8,8,13,14,1.65,20,14,+6,+0.61,+0.23,16.1,11.9,+4.2,+0.42,+0.03,Matches
+589,Per Van Loon,,FW,Willem II,,,0,,,,,0,,0,0,,20,,,,,,,,,,,,Matches
+590,Syb Van Ottele,nl NED,"DF,MF",Fortuna Sittard,23-092,2002,28,1604,57,57.5,17.8,15,89,14,13,21,2,1.25,21,36,-15,-0.84,-0.61,20.7,31.3,-10.6,-0.60,-0.73,Matches
+591,Joey Veerman,nl NED,MF,PSV Eindhoven,26-167,1998,24,1587,66,56.9,17.6,19,77,10,5,23,1,2.17,54,21,+33,+1.87,0.00,44.1,15.8,+28.3,+1.61,+0.46,Matches
+592,Odysseus Velanas,nl NED,"FW,MF",Zwolle,26-334,1998,26,1095,42,39.2,12.2,9,87,5,17,18,3,1.12,13,16,-3,-0.25,+0.18,14.0,20.6,-6.6,-0.54,+0.17,Matches
+593,Apostolos Vellios,gr GRE,FW,Zwolle,33-117,1992,1,9,9,0.3,0.1,0,,0,1,9,1,0.00,0,0,0,0.00,+0.36,0.0,0.0,0.0,+0.36,+1.00,Matches
+594,Dylan Vente,nl NED,FW,Zwolle,25-361,1999,30,2518,84,90.3,28.0,29,86,22,1,34,0,1.13,33,42,-9,-0.32,+0.34,31.2,49.3,-18.1,-0.65,-0.08,Matches
+595,Nando Verdoni,nl NED,GK,Go Ahead Eag,20-220,2004,0,,,,,0,,0,0,,17,,,,,,,,,,,,Matches
+596,Calvin Verdonk,id IDN,DF,NEC Nijmegen,28-009,1997,30,2583,86,92.6,28.7,28,90,28,2,32,0,1.13,38,42,-4,-0.14,-1.01,38.5,36.0,+2.4,+0.09,+0.69,Matches
+597,Duke Verduin,nl NED,GK,Zwolle,21-187,2003,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+598,Hobie Verhulst,nl NED,GK,AZ Alkmaar,32-033,1993,0,,,,,0,,0,0,,31,,,,,,,,,,,,Matches
+599,Kenneth Vermeer,nl NED,GK,Zwolle,39-115,1986,0,,,,,0,,0,0,,31,,,,,,,,,,,,Matches
+600,Valentino Vermeulen,nl NED,DF,Willem II,23-289,2001,3,24,8,0.9,0.3,0,,0,3,8,7,1.67,1,0,+1,+3.75,+4.43,0.1,0.7,-0.6,-2.06,-1.19,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+601,Arno Verschueren,be BEL,MF,Sparta R'dam,28-027,1997,20,1658,83,59.4,18.4,20,83,11,0,,0,0.85,15,25,-10,-0.54,-0.94,21.7,23.8,-2.1,-0.11,-0.31,Matches
+602,Arno Verschueren,be BEL,"MF,FW",Twente,28-027,1997,11,303,28,10.9,3.4,1,73,0,10,23,0,1.45,7,5,+2,+0.59,+0.16,5.9,5.7,+0.2,+0.06,-0.38,Matches
+603,Nick Verschuren,nl NED,DF,Ajax,20-112,2005,0,,,,,0,,0,0,,6,,,,,,,,,,,,Matches
+604,Dion Versluis,nl NED,FW,NAC Breda,22-077,2003,1,18,18,0.6,0.2,0,,0,1,18,2,0.00,0,0,0,0.00,+0.65,0.8,0.3,+0.5,+2.26,+2.84,Matches
+605,Niklas Vesterlund,dk DEN,DF,Utrecht,25-333,1999,5,434,87,15.6,4.8,5,87,3,0,,7,1.60,10,12,-2,-0.41,-1.22,8.6,6.0,+2.6,+0.54,+0.48,Matches
+606,Nick Viergever,nl NED,DF,Utrecht,35-275,1989,30,2690,90,96.4,29.9,30,90,28,0,,0,1.97,58,40,+18,+0.60,-0.30,43.3,37.6,+5.7,+0.19,+1.50,Matches
+607,Ricardo Visus,es ESP,DF,Almere City,24-011,2001,22,1782,81,63.9,19.8,21,82,14,1,63,2,0.73,12,30,-18,-0.91,+0.88,21.8,23.2,-1.4,-0.07,+1.26,Matches
+608,Michel Vlap,nl NED,"MF,FW",Twente,27-337,1997,31,2230,72,79.9,24.8,28,76,8,3,37,0,1.65,47,37,+10,+0.40,-0.24,37.5,28.9,+8.6,+0.35,-0.26,Matches
+609,Luuk Vogels,nl NED,GK,RKC Waalwijk,21-303,2003,0,,,,,0,,0,0,,11,,,,,,,,,,,,Matches
+610,Patrick Vroegh,nl NED,"DF,MF",RKC Waalwijk,25-157,1999,3,36,12,1.3,0.4,0,,0,3,12,24,1.00,0,0,0,0.00,+1.05,0.2,0.3,-0.2,-0.41,+0.36,Matches
+611,Max de Waal,nl NED,"FW,MF",Willem II,23-115,2002,0,,,,,0,,0,0,,3,,,,,,,,,,,,Matches
+612,Wout Weghorst,nl NED,FW,Ajax,32-271,1992,21,924,44,33.1,10.3,8,69,0,13,28,1,2.33,27,11,+16,+1.56,+0.59,20.9,11.0,+9.8,+0.96,-0.07,Matches
+613,Daouda Weidmann,ci CIV,MF,RKC Waalwijk,22-001,2003,12,788,66,28.2,8.8,8,81,4,4,36,0,0.33,10,18,-8,-0.91,+0.17,6.7,14.3,-7.6,-0.87,-0.14,Matches
+614,Robbin Weijenberg,nl NED,"MF,FW",Go Ahead Eag,20-178,2004,16,178,11,6.4,2.0,1,64,0,15,8,8,1.69,3,7,-4,-2.02,-2.26,3.9,4.3,-0.5,-0.23,-0.52,Matches
+615,Timon Wellenreuther,de GER,GK,Feyenoord,29-153,1995,27,2430,90,87.1,27.0,27,90,27,0,,4,2.26,67,25,+42,+1.56,+2.31,47.5,25.0,+22.4,+0.83,+0.39,Matches
+616,Jonas Wendlinger,at AUT,GK,Almere City,24-292,2000,0,,,,,0,,0,0,,31,,,,,,,,,,,,Matches
+617,Jannes Wieckhoff,de GER,DF,Heracles Almelo,24-276,2000,18,1228,68,44.0,13.6,13,83,7,5,29,12,1.17,19,21,-2,-0.15,+0.78,15.9,20.8,-5.0,-0.36,+0.28,Matches
+618,Owen Wijndal,nl NED,DF,Ajax,25-158,1999,7,262,37,9.4,2.9,2,73,0,5,23,13,2.29,5,3,+2,+0.69,-0.52,4.4,2.2,+2.1,+0.73,-0.31,Matches
+619,Jordy de Wijs,nl NED,DF,Heerenveen,30-117,1995,3,70,23,2.5,0.8,0,,0,3,23,6,2.00,2,2,0,0.00,+0.46,2.0,1.9,0.0,+0.06,+0.21,Matches
+620,Kas de Wit,nl NED,MF,NEC Nijmegen,21-283,2003,0,,,,,0,,0,0,,7,,,,,,,,,,,,Matches
+621,Mees de Wit,nl NED,"DF,FW",AZ Alkmaar,27-018,1998,13,465,36,16.7,5.2,5,74,3,8,12,11,1.00,9,9,0,0.00,-0.66,6.8,6.4,+0.4,+0.08,-0.53,Matches
+622,Melle Witteveen,nl NED,MF,Heerenveen,21-315,2003,0,,,,,0,,0,0,,2,,,,,,,,,,,,Matches
+623,Ricky van Wolfswinkel,nl NED,FW,Twente,36-098,1989,23,1362,59,48.8,15.1,13,86,8,10,25,2,1.78,27,21,+6,+0.40,-0.11,24.0,18.3,+5.6,+0.37,-0.05,Matches
+624,Xavi Woudstra,nl NED,MF,Heerenveen,20-121,2005,0,,,,,0,,0,0,,1,,,,,,,,,,,,Matches
+625,Luuk Wouters,nl NED,DF,RKC Waalwijk,25-331,1999,11,809,74,29.0,9.0,8,82,6,3,50,5,0.73,13,19,-6,-0.67,+0.51,13.6,17.3,-3.7,-0.41,+0.50,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Min,Mn/MP,Min%,90s,Starts,Mn/Start,Compl,Subs,Mn/Sub,unSub,PPM,onG,onGA,+/-,+/-90,On-Off,onxG,onxGA,xG+/-,xG+/-90,On-Off,Matches
+626,Redouan El Yaakoubi,nl NED,DF,RKC Waalwijk,29-100,1996,7,403,58,14.4,4.5,4,84,3,3,22,3,0.57,4,9,-5,-1.12,-0.10,3.8,9.6,-5.8,-1.30,-0.62,Matches
+627,Marvin Young,nl NED,DF,Sparta R'dam,19-215,2005,23,1901,83,68.1,21.1,21,88,16,2,30,7,1.17,23,22,+1,+0.05,+0.65,27.5,21.9,+5.6,+0.26,+0.79,Matches
+628,Vasilios Zagaritis,gr GRE,DF,Almere City,24-001,2001,31,2777,90,99.5,30.9,31,90,28,0,,0,0.65,21,58,-37,-1.20,+5.72,31.2,47.4,-16.2,-0.52,+0.30,Matches
+629,Jan Žambůrek,cz CZE,MF,Heracles Almelo,24-081,2001,18,855,48,30.6,9.5,9,76,2,9,19,3,1.00,9,14,-5,-0.53,+0.08,9.1,14.1,-5.0,-0.53,-0.01,Matches
+630,Oskar Zawada,pl POL,FW,RKC Waalwijk,29-093,1996,24,1860,78,66.7,20.7,22,81,11,2,42,0,0.75,25,40,-15,-0.73,+0.92,26.5,37.1,-10.6,-0.51,+0.76,Matches
+631,Gjivai Zechiël,nl NED,MF,Sparta R'dam,20-338,2004,10,762,76,27.3,8.5,9,82,3,1,27,0,1.50,13,7,+6,+0.71,+1.20,11.6,8.3,+3.3,+0.39,+0.51,Matches
+632,Gjivai Zechiël,nl NED,MF,Feyenoord,20-338,2004,9,258,29,9.2,2.9,2,61,0,7,19,8,1.67,8,4,+4,+1.40,+0.15,5.1,2.3,+2.8,+0.97,+0.21,Matches
+633,Lequincio Zeefuik,nl NED,"FW,DF",AZ Alkmaar,20-160,2004,3,32,11,1.1,0.4,0,,0,3,11,5,1.00,0,0,0,0.00,-0.55,0.8,0.1,+0.7,+2.08,+1.58,Matches
+634,Ramiz Zerrouki,dz ALG,MF,Feyenoord,26-344,1998,20,1076,54,38.6,12.0,12,75,6,8,22,4,2.30,25,17,+8,+0.67,-0.96,23.1,11.2,+11.9,+0.99,+0.34,Matches
+635,Jeroen Zoet,nl NED,GK,AZ Alkmaar,34-119,1991,6,540,90,19.4,6.0,6,90,6,0,,20,2.50,8,3,+5,+0.83,+0.35,7.9,3.0,+4.8,+0.81,+0.36,Matches
+636,Rúnar Þór Sigurgeirsson,is ISL,"DF,FW",Willem II,25-128,1999,26,1930,74,69.2,21.4,23,82,10,3,13,3,0.77,23,37,-14,-0.65,-0.02,15.5,33.2,-17.8,-0.83,+0.18,Matches
+637,Nökkvi Þórisson,is ISL,"FW,MF",Sparta R'dam,25-265,1999,10,130,13,4.7,1.4,0,,0,10,13,3,1.70,3,2,+1,+0.69,+0.90,2.5,2.0,+0.4,+0.31,+0.32,Matches
+638,Shiloh ’t Zand,nl NED,"FW,MF",Heracles Almelo,21-356,2003,17,1010,59,36.2,11.2,12,76,5,5,21,4,0.94,11,23,-12,-1.07,-0.77,13.9,23.4,-9.5,-0.85,-0.51,Matches
+639,Shiloh ’t Zand,nl NED,MF,Feyenoord,21-356,2003,2,42,21,1.5,0.5,0,,0,2,21,6,2.00,1,0,+1,+2.14,+0.90,0.3,0.1,+0.2,+0.40,-0.39,Matches

@@ -1,0 +1,213 @@
+Unnamed: 0_level_0,Unnamed: 1_level_0,Unnamed: 2_level_0,Unnamed: 3_level_0,Unnamed: 4_level_0,Unnamed: 5_level_0,Unnamed: 6_level_0,Unnamed: 7_level_0,Playing Time,Playing Time,Playing Time,Unnamed: 11_level_0,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Penalty Kicks,Unnamed: 27_level_0
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+1,Adrián,es ESP,GK,Betis,es La Liga,38-121,1987,14,14,1260,14.0,18,1.29,47,29,63.8,9,2,3,3,21.4,1,1,0,0,0.0,Matches
+2,Julen Agirrezabala,es ESP,GK,Athletic Club,es La Liga,24-129,2000,14,14,1206,13.4,9,0.67,34,24,76.5,9,4,1,5,35.7,2,1,1,0,50.0,Matches
+3,Ben Alexander Voll,de GER,"GK,MF",St. Pauli,de Bundesliga,24-146,2000,1,0,1,0.0,0,0.00,0,0,,0,0,0,0,,0,0,0,0,,Matches
+4,Alisson,br BRA,GK,Liverpool,eng Premier League,32-214,1992,24,24,2148,23.9,20,0.84,71,52,71.8,18,5,1,9,37.5,0,0,0,0,,Matches
+5,Alphonse Areola,fr FRA,GK,West Ham,eng Premier League,32-066,1993,23,22,1990,22.1,38,1.72,103,68,63.1,4,6,12,4,18.2,0,0,0,0,,Matches
+6,Kepa Arrizabalaga,es ESP,GK,Bournemouth,eng Premier League,30-213,1994,28,28,2520,28.0,35,1.25,126,91,75.4,12,7,9,7,25.0,4,4,0,0,0.0,Matches
+7,Noah Atubolu,de GER,GK,Freiburg,de Bundesliga,22-344,2002,24,24,2127,23.6,33,1.40,111,76,70.3,11,6,7,10,41.7,2,0,2,0,100.0,Matches
+8,Emil Audero,id IDN,GK,Como,it Serie A,28-106,1997,8,8,720,8.0,18,2.25,34,16,58.8,2,2,4,0,0.0,4,4,0,0,0.0,Matches
+9,Brandon Austin,eng ENG,GK,Tottenham,eng Premier League,26-116,1999,1,1,90,1.0,2,2.00,4,2,50.0,0,0,1,0,0.0,0,0,0,0,,Matches
+10,Augusto Batalla,ar ARG,GK,Rayo Vallecano,es La Liga,29-004,1996,28,28,2520,28.0,36,1.29,120,83,73.3,8,10,10,6,21.4,6,4,2,0,33.3,Matches
+11,Oliver Baumann,de GER,GK,Hoffenheim,de Bundesliga,34-336,1990,26,26,2340,26.0,47,1.81,128,79,64.8,6,7,13,4,15.4,5,2,3,0,60.0,Matches
+12,Altay Bayındır,tr TUR,GK,Manchester Utd,eng Premier League,27-020,1998,1,1,90,1.0,4,4.00,6,2,33.3,0,0,1,0,0.0,0,0,0,0,,Matches
+13,Daniel Bentley,eng ENG,GK,Wolves,eng Premier League,31-295,1993,1,1,90,1.0,0,0.00,2,2,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+14,Dimitry Bertaud,cd COD,GK,Montpellier,fr Ligue 1,26-332,1998,3,3,270,3.0,8,2.67,16,8,56.3,1,0,2,0,0.0,1,1,0,0,0.0,Matches
+15,Marco Bizot,nl NED,GK,Brest,fr Ligue 1,34-055,1991,29,29,2610,29.0,48,1.66,116,68,64.7,12,5,12,8,27.6,9,7,1,1,12.5,Matches
+16,Jean Butez,fr FRA,GK,Como,it Serie A,29-330,1995,17,17,1530,17.0,18,1.06,62,44,74.2,8,3,6,5,29.4,2,2,0,0,0.0,Matches
+17,Marcin Bułka,pl POL,GK,Nice,fr Ligue 1,25-212,1999,32,32,2880,32.0,39,1.22,156,117,76.3,16,9,7,7,21.9,3,2,1,0,33.3,Matches
+18,Elia Caprile,it ITA,GK,Cagliari,it Serie A,23-252,2001,16,16,1440,16.0,19,1.19,60,41,70.0,4,4,8,4,25.0,1,1,0,0,0.0,Matches
+19,Elia Caprile,it ITA,GK,Napoli,it Serie A,23-252,2001,4,3,325,3.6,1,0.28,8,7,87.5,3,0,0,3,100.0,0,0,0,0,,Matches
+20,Cárdenas,es ESP,GK,Rayo Vallecano,es La Liga,28-037,1997,6,6,540,6.0,6,1.00,20,14,70.0,3,1,2,2,33.3,0,0,0,0,,Matches
+21,Tiago Cardoso,lu LUX,GK,Gladbach,de Bundesliga,19-027,2006,5,4,380,4.2,3,0.71,23,20,87.0,2,1,1,2,50.0,0,0,0,0,,Matches
+22,Patrik Carlgren,se SWE,GK,Nantes,fr Ligue 1,33-116,1992,5,4,417,4.6,7,1.51,28,21,75.0,1,2,1,1,25.0,0,0,0,0,,Matches
+23,Marco Carnesecchi,it ITA,GK,Atalanta,it Serie A,24-307,2000,31,31,2790,31.0,30,0.97,109,81,74.3,17,7,7,12,38.7,2,2,0,0,0.0,Matches
+24,Lucas Chevalier,fr FRA,GK,Lille,fr Ligue 1,23-179,2001,31,31,2790,31.0,32,1.03,114,83,75.4,16,8,7,11,35.5,4,4,0,0,0.0,Matches
+25,Leandro Chichizola,ar ARG,GK,Parma,it Serie A,35-038,1990,1,1,90,1.0,3,3.00,6,3,50.0,0,0,1,0,0.0,0,0,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+26,Jasper Cillessen,nl NED,GK,Las Palmas,es La Liga,36-012,1989,27,27,2335,25.9,42,1.62,128,85,70.3,6,8,13,3,11.1,8,4,3,1,42.9,Matches
+27,Diego Conde,es ESP,GK,Villarreal,es La Liga,26-188,1998,21,21,1872,20.8,31,1.49,88,58,68.2,10,6,5,2,9.5,4,3,0,1,0.0,Matches
+28,Grégoire Coudert,fr FRA,GK,Brest,fr Ligue 1,26-031,1999,2,2,180,2.0,5,2.50,13,9,61.5,1,0,1,0,0.0,0,0,0,0,,Matches
+29,Thibaut Courtois,be BEL,GK,Real Madrid,es La Liga,32-358,1992,27,27,2430,27.0,22,0.81,87,66,78.2,18,6,3,11,40.7,3,3,0,0,0.0,Matches
+30,Finn Dahmen,de GER,GK,Augsburg,de Bundesliga,27-038,1998,16,16,1440,16.0,10,0.62,64,56,85.9,7,6,3,9,56.3,1,1,0,0,0.0,Matches
+31,Thomas Dähne,de GER,GK,Holstein Kiel,de Bundesliga,31-120,1994,6,6,540,6.0,13,2.17,36,23,66.7,1,2,3,0,0.0,2,1,1,0,50.0,Matches
+32,Théo De Percin,mq MTQ,GK,Auxerre,fr Ligue 1,24-091,2001,2,2,180,2.0,3,1.50,9,5,77.8,0,1,1,1,50.0,2,1,1,0,50.0,Matches
+33,Rémy Descamps,fr FRA,GK,Lyon,fr Ligue 1,28-313,1996,1,1,90,1.0,2,2.00,6,4,66.7,0,0,1,0,0.0,0,0,0,0,,Matches
+34,Arthur Desmas,fr FRA,GK,Le Havre,fr Ligue 1,31-027,1994,18,18,1620,18.0,38,2.11,93,54,61.3,5,0,13,3,16.7,3,2,1,0,33.3,Matches
+35,Michele Di Gregorio,it ITA,GK,Juventus,it Serie A,27-281,1997,29,29,2610,29.0,28,0.97,88,60,73.9,14,11,4,13,44.8,5,5,0,0,0.0,Matches
+36,Stole Dimitrievski,mk MKD,GK,Valencia,es La Liga,31-130,1993,4,4,360,4.0,6,1.50,12,6,58.3,0,2,2,0,0.0,2,1,0,1,0.0,Matches
+37,Yehvann Diouf,fr FRA,GK,Reims,fr Ligue 1,25-169,1999,32,32,2880,32.0,43,1.34,170,126,76.5,8,9,15,7,21.9,4,3,1,0,25.0,Matches
+38,Marko Dmitrović,rs SRB,GK,Leganés,es La Liga,33-100,1992,27,27,2430,27.0,42,1.56,125,85,72.0,5,10,12,8,29.6,8,7,0,1,0.0,Matches
+39,Álex Domínguez,es ESP,GK,Toulouse,fr Ligue 1,26-278,1998,1,0,19,0.2,0,0.00,0,0,,0,0,0,1,,0,0,0,0,,Matches
+40,Gianluigi Donnarumma,it ITA,GK,Paris S-G,fr Ligue 1,26-068,1999,23,23,2001,22.2,24,1.08,72,48,68.1,17,5,1,4,17.4,1,1,0,0,0.0,Matches
+41,Patrick Drewes,de GER,GK,Bochum,de Bundesliga,32-089,1993,21,21,1890,21.0,46,2.19,99,51,56.6,2,5,14,2,9.5,5,3,2,0,40.0,Matches
+42,Martin Dúbravka,sk SVK,GK,Newcastle Utd,eng Premier League,36-109,1989,10,10,900,10.0,12,1.20,41,29,70.7,7,0,3,5,50.0,0,0,0,0,,Matches
+43,Ederson,br BRA,GK,Manchester City,eng Premier League,31-260,1993,23,23,2050,22.8,25,1.10,73,49,68.5,14,3,6,8,34.8,2,2,0,0,0.0,Matches
+44,Łukasz Fabiański,pl POL,GK,West Ham,eng Premier League,40-016,1985,13,12,1070,11.9,20,1.68,67,47,74.6,5,3,4,2,16.7,3,3,0,0,0.0,Matches
+45,Wladimiro Falcone,it ITA,GK,Lecce,it Serie A,30-022,1995,35,35,3150,35.0,57,1.63,168,113,70.8,6,9,20,7,20.0,10,8,1,1,11.1,Matches
+46,Frank Feller,de GER,GK,Heidenheim,de Bundesliga,21-117,2004,1,0,31,0.3,0,0.00,1,1,100.0,0,0,0,1,,0,0,0,0,,Matches
+47,Aitor Fernández,es ESP,GK,Osasuna,es La Liga,34-001,1991,1,1,90,1.0,0,0.00,5,5,100.0,0,1,0,1,100.0,0,0,0,0,,Matches
+48,Álvaro Fernández,es ESP,GK,Sevilla,es La Liga,27-021,1998,8,7,657,7.3,12,1.64,29,17,65.5,2,1,4,3,42.9,2,2,0,0,0.0,Matches
+49,André Ferreira,pt POR,GK,Valladolid,es La Liga,28-340,1996,5,5,450,5.0,18,3.60,35,17,57.1,0,0,5,0,0.0,3,3,0,0,0.0,Matches
+50,Mark Flekken,nl NED,GK,Brentford,eng Premier League,31-325,1993,33,33,2915,32.4,48,1.48,181,135,74.0,14,7,12,6,18.2,1,1,0,0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+51,Yahia Fofana,ci CIV,GK,Angers,fr Ligue 1,24-256,2000,31,31,2790,31.0,50,1.61,180,130,73.9,8,6,17,6,19.4,4,3,0,1,0.0,Matches
+52,Fraser Forster,eng ENG,GK,Tottenham,eng Premier League,37-048,1988,7,7,630,7.0,15,2.14,42,27,69.0,1,2,4,1,14.3,2,2,0,0,0.0,Matches
+53,Fran,es ESP,GK,Real Madrid,es La Liga,19-314,2005,1,1,90,1.0,2,2.00,2,0,0.0,0,0,1,0,0.0,0,0,0,0,,Matches
+54,Gauthier Gallon,fr FRA,GK,Rennes,fr Ligue 1,32-011,1993,1,0,45,0.5,0,0.00,0,0,,0,0,0,0,,0,0,0,0,,Matches
+55,Joan García,es ESP,GK,Espanyol,es La Liga,24-000,2001,33,33,2970,33.0,42,1.27,166,122,77.1,10,9,14,7,21.2,6,4,2,0,33.3,Matches
+56,Paulo Gazzaniga,ar ARG,GK,Girona,es La Liga,33-122,1992,33,33,2925,32.5,50,1.54,133,81,63.9,9,8,16,6,18.2,5,2,3,0,60.0,Matches
+57,David de Gea,es ESP,GK,Fiorentina,it Serie A,34-178,1990,31,31,2790,31.0,31,1.00,121,89,75.2,17,5,9,11,35.5,3,1,2,0,66.7,Matches
+58,Pierluigi Gollini,it ITA,GK,Genoa,it Serie A,30-047,1995,7,7,630,7.0,15,2.14,32,16,62.5,1,2,4,1,14.3,4,3,1,0,25.0,Matches
+59,Mathieu Gorgelin,fr FRA,GK,Le Havre,fr Ligue 1,34-272,1990,13,13,1170,13.0,27,2.08,72,46,66.7,3,4,6,1,7.7,3,3,0,0,0.0,Matches
+60,Kamil Grabara,pl POL,GK,Wolfsburg,de Bundesliga,26-116,1999,27,27,2405,26.7,47,1.76,127,80,64.6,8,6,13,4,14.8,3,2,1,0,33.3,Matches
+61,Dominik Greif,sk SVK,GK,Mallorca,es La Liga,28-028,1997,27,27,2430,27.0,30,1.11,91,62,69.2,10,7,10,6,22.2,2,2,0,0,0.0,Matches
+62,Vicente Guaita,es ESP,GK,Celta Vigo,es La Liga,38-114,1987,29,29,2610,29.0,40,1.38,104,64,63.5,11,7,11,7,24.1,2,2,0,0,0.0,Matches
+63,Péter Gulácsi,hu HUN,GK,RB Leipzig,de Bundesliga,34-363,1990,28,28,2451,27.2,36,1.32,125,88,72.8,12,10,6,13,46.4,3,2,1,0,33.3,Matches
+64,Kjetil Haug,no NOR,GK,Toulouse,fr Ligue 1,26-326,1998,6,5,498,5.5,7,1.27,16,9,56.3,2,2,1,1,20.0,0,0,0,0,,Matches
+65,Dean Henderson,eng ENG,GK,Crystal Palace,eng Premier League,28-053,1997,34,34,3060,34.0,47,1.38,139,94,66.9,11,12,11,10,29.4,2,1,1,0,50.0,Matches
+66,Mads Hermansen,dk DEN,GK,Leicester City,eng Premier League,24-297,2000,27,27,2385,26.5,58,2.19,155,99,64.5,3,6,18,1,3.7,4,3,1,0,25.0,Matches
+67,Sergio Herrera,es ESP,GK,Osasuna,es La Liga,31-333,1993,33,33,2970,33.0,50,1.52,161,112,72.7,10,13,10,6,18.2,6,6,0,0,0.0,Matches
+68,Dinko Horkaš,hr CRO,GK,Las Palmas,es La Liga,26-055,1999,9,7,725,8.1,14,1.74,39,25,64.1,2,0,5,1,14.3,1,0,1,0,100.0,Matches
+69,Timo Horn,de GER,GK,Bochum,de Bundesliga,31-357,1993,11,11,990,11.0,18,1.64,45,27,60.0,2,3,6,2,18.2,1,0,0,1,,Matches
+70,Lukáš Hrádecký,fi FIN,GK,Leverkusen,de Bundesliga,35-161,1989,27,27,2430,27.0,32,1.19,107,78,72.9,16,10,1,6,22.2,3,3,0,0,0.0,Matches
+71,Karl Jakob Hein,ee EST,GK,Valladolid,es La Liga,23-021,2002,28,28,2520,28.0,63,2.25,148,86,59.5,4,4,20,5,17.9,3,3,0,0,0.0,Matches
+72,Vitezslav Jaros,cz CZE,GK,Liverpool,eng Premier League,23-285,2001,1,0,12,0.1,0,0.00,1,1,100.0,0,0,0,1,,0,0,0,0,,Matches
+73,Karl-Johan Johnsson,se SWE,GK,Strasbourg,fr Ligue 1,35-096,1990,3,3,270,3.0,6,2.00,22,16,77.3,1,1,1,0,0.0,1,1,0,0,0.0,Matches
+74,Sam Johnstone,eng ENG,GK,Wolves,eng Premier League,32-040,1993,7,7,630,7.0,17,2.43,39,23,61.5,0,1,6,0,0.0,2,2,0,0,0.0,Matches
+75,Jesse Joronen,fi FIN,GK,Venezia,it Serie A,32-044,1993,8,7,703,7.8,15,1.92,40,27,70.0,1,1,5,2,28.6,3,3,0,0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+76,Luiz Lúcio Reis Júnior,br BRA,GK,Villarreal,es La Liga,24-110,2001,14,13,1188,13.2,16,1.21,51,35,76.5,6,4,3,3,23.1,4,4,0,0,0.0,Matches
+77,Filip Jørgensen,dk DEN,GK,Chelsea,eng Premier League,23-018,2002,6,6,540,6.0,9,1.50,28,19,71.4,3,0,3,1,16.7,1,1,0,0,0.0,Matches
+78,Caoimhín Kelleher,ie IRL,GK,Liverpool,eng Premier League,26-162,1998,10,10,900,10.0,12,1.20,37,24,67.6,7,2,1,4,40.0,1,0,1,0,100.0,Matches
+79,Antonín Kinský,cz CZE,GK,Tottenham,eng Premier League,22-052,2003,4,4,360,4.0,7,1.75,16,11,56.3,1,0,3,1,25.0,0,0,0,0,,Matches
+80,Gregor Kobel,ch SUI,GK,Dortmund,de Bundesliga,27-149,1997,30,30,2700,30.0,45,1.50,117,72,65.0,14,6,10,6,20.0,4,4,0,0,0.0,Matches
+81,Hervé Koffi,bf BFA,GK,Lens,fr Ligue 1,28-200,1996,5,5,450,5.0,8,1.60,26,18,76.9,1,0,4,0,0.0,2,2,0,0,0.0,Matches
+82,Philipp Köhn,ch SUI,GK,Monaco,fr Ligue 1,27-032,1998,17,17,1530,17.0,15,0.88,54,39,74.1,10,5,2,7,41.2,1,1,0,0,0.0,Matches
+83,Matej Kovar,cz CZE,GK,Leverkusen,de Bundesliga,24-352,2000,4,4,360,4.0,3,0.75,13,10,76.9,3,0,1,3,75.0,0,0,0,0,,Matches
+84,Nediljko Labrović,hr CRO,GK,Augsburg,de Bundesliga,25-206,1999,15,15,1350,15.0,32,2.13,74,42,60.8,4,4,7,2,13.3,3,3,0,0,0.0,Matches
+85,Alban Lafont,fr FRA,GK,Nantes,fr Ligue 1,26-101,1999,12,12,1080,12.0,19,1.58,49,32,67.3,2,4,6,2,16.7,3,3,0,0,0.0,Matches
+86,Gautier Larsonneur,fr FRA,GK,Saint-Étienne,fr Ligue 1,28-070,1997,31,31,2790,31.0,74,2.39,195,121,68.7,6,6,19,3,9.7,15,13,2,0,13.3,Matches
+87,Nicola Leali,it ITA,GK,Genoa,it Serie A,32-076,1993,27,27,2430,27.0,26,0.96,100,75,77.0,8,10,9,10,37.0,4,3,1,0,25.0,Matches
+88,Benjamin Lecomte,fr FRA,GK,Montpellier,fr Ligue 1,34-008,1991,27,27,2430,27.0,61,2.26,154,95,63.6,3,4,20,1,3.7,6,5,1,0,16.7,Matches
+89,Bernd Leno,de GER,GK,Fulham,eng Premier League,33-061,1992,35,35,3150,35.0,47,1.34,142,97,68.3,14,9,12,5,14.3,2,2,0,0,0.0,Matches
+90,Donovan Léon,gf GUF,GK,Auxerre,fr Ligue 1,32-182,1992,29,29,2610,29.0,42,1.45,148,108,75.0,11,7,11,9,31.0,5,5,0,0,0.0,Matches
+91,Anthony Lopes,pt POR,GK,Nantes,fr Ligue 1,34-215,1990,15,15,1293,14.4,24,1.67,66,43,69.7,4,5,6,2,13.3,5,4,0,1,0.0,Matches
+92,Pau López,es ESP,GK,Girona,es La Liga,30-142,1994,1,0,45,0.5,2,4.00,3,1,33.3,0,0,0,0,,0,0,0,0,,Matches
+93,Joe Lumley,eng ENG,GK,Southampton,eng Premier League,30-078,1995,3,3,270,3.0,7,2.33,20,13,65.0,0,1,2,0,0.0,0,0,0,0,,Matches
+94,Andriy Lunin,ua UKR,GK,Real Madrid,es La Liga,26-082,1999,5,5,450,5.0,7,1.40,18,11,61.1,4,0,1,2,40.0,0,0,0,0,,Matches
+95,Mike Maignan,fr FRA,GK,Milan,it Serie A,29-305,1995,33,33,2934,32.6,36,1.10,120,86,70.8,14,9,10,11,33.3,2,1,1,0,50.0,Matches
+96,Radosław Majecki,pl POL,GK,Monaco,fr Ligue 1,25-169,1999,15,15,1350,15.0,22,1.47,65,43,69.2,7,2,6,3,20.0,2,2,0,0,0.0,Matches
+97,Giorgi Mamardashvili,ge GEO,GK,Valencia,es La Liga,24-217,2000,30,30,2700,30.0,45,1.50,120,76,65.8,10,10,10,7,23.3,6,4,2,0,33.3,Matches
+98,Steve Mandanda,fr FRA,GK,Rennes,fr Ligue 1,40-037,1985,17,17,1485,16.5,23,1.39,51,29,58.8,6,2,9,6,35.3,3,2,1,0,33.3,Matches
+99,Christos Mandas,gr GRE,GK,Lazio,it Serie A,23-229,2001,5,5,450,5.0,3,0.60,17,14,82.4,2,3,0,3,60.0,0,0,0,0,,Matches
+100,Unai Marrero,es ESP,GK,Real Sociedad,es La Liga,23-207,2001,1,1,90,1.0,1,1.00,4,3,75.0,0,0,1,0,0.0,0,0,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+101,Emiliano Martínez,ar ARG,GK,Aston Villa,eng Premier League,32-244,1992,34,34,2970,33.0,45,1.36,132,86,66.7,16,9,9,6,17.6,2,1,1,0,50.0,Matches
+102,Josep Martinez,es ESP,GK,Inter,it Serie A,26-342,1998,4,4,360,4.0,3,0.75,11,8,72.7,3,1,0,2,50.0,0,0,0,0,,Matches
+103,Alex McCarthy,eng ENG,GK,Southampton,eng Premier League,35-152,1989,5,5,450,5.0,13,2.60,37,24,70.3,0,0,5,0,0.0,2,2,0,0,0.0,Matches
+104,Alex Meret,it ITA,GK,Napoli,it Serie A,28-043,1997,31,31,2735,30.4,23,0.76,77,53,71.4,20,7,4,14,45.2,4,1,2,1,66.7,Matches
+105,Alexander Meyer,de GER,GK,Dortmund,de Bundesliga,34-021,1991,2,2,180,2.0,4,2.00,11,7,63.6,1,0,1,0,0.0,0,0,0,0,,Matches
+106,Vanja Milinković-Savić,rs SRB,GK,Torino,it Serie A,28-073,1997,34,34,3060,34.0,37,1.09,157,118,77.1,10,14,10,10,29.4,5,1,4,0,80.0,Matches
+107,Lorenzo Montipò,it ITA,GK,Hellas Verona,it Serie A,29-073,1996,34,34,3060,34.0,62,1.82,153,91,60.8,9,5,20,8,23.5,4,2,1,1,33.3,Matches
+108,Florian Müller,de GER,GK,Freiburg,de Bundesliga,27-172,1997,8,7,663,7.4,14,1.90,28,15,57.1,4,0,3,1,14.3,2,2,0,0,0.0,Matches
+109,Kevin Müller,de GER,GK,Heidenheim,de Bundesliga,34-050,1991,32,32,2849,31.7,60,1.90,163,103,66.3,7,5,20,7,21.9,5,5,0,0,0.0,Matches
+110,Marius Müller,de GER,GK,Wolfsburg,de Bundesliga,31-296,1993,6,5,475,5.3,5,0.95,23,18,78.3,2,3,0,1,20.0,0,0,0,0,,Matches
+111,Arijanet Muric,xk KVX,GK,Ipswich Town,eng Premier League,26-178,1998,18,18,1620,18.0,33,1.83,100,67,70.0,2,6,10,1,5.6,3,3,0,0,0.0,Matches
+112,Juan Musso,ar ARG,GK,Atalanta,it Serie A,30-363,1994,1,1,90,1.0,0,0.00,4,4,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+113,Juan Musso,ar ARG,GK,Atlético Madrid,es La Liga,30-363,1994,1,1,90,1.0,0,0.00,1,1,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+114,Neto,br BRA,GK,Bournemouth,eng Premier League,35-289,1989,2,2,180,2.0,2,1.00,13,11,84.6,0,2,0,0,0.0,0,0,0,0,,Matches
+115,Manuel Neuer,de GER,GK,Bayern Munich,de Bundesliga,39-038,1986,20,20,1800,20.0,15,0.75,37,22,62.2,16,4,0,11,55.0,2,1,0,1,0.0,Matches
+116,Moritz Nicolas,de GER,GK,Gladbach,de Bundesliga,27-195,1997,19,19,1639,18.2,25,1.37,92,69,78.3,9,4,6,4,21.1,5,5,0,0,0.0,Matches
+117,Alexander Nübel,de GER,GK,Stuttgart,de Bundesliga,28-216,1996,32,32,2880,32.0,51,1.59,131,80,62.6,12,8,12,6,18.8,3,2,1,0,33.3,Matches
+118,Ørjan Nyland,no NOR,GK,Sevilla,es La Liga,34-236,1990,26,26,2313,25.7,32,1.25,96,64,69.8,7,9,10,6,23.1,4,3,1,0,25.0,Matches
+119,Jan Oblak,si SVN,GK,Atlético Madrid,es La Liga,32-117,1993,33,33,2970,33.0,27,0.82,103,78,78.6,18,10,5,14,42.4,5,5,0,0,0.0,Matches
+120,Maduka Okoye,ng NGA,GK,Udinese,it Serie A,25-249,1999,22,22,1980,22.0,33,1.50,90,60,67.8,6,4,12,4,18.2,5,4,0,1,0.0,Matches
+121,Robin Olsen,se SWE,GK,Aston Villa,eng Premier League,35-116,1990,3,1,180,2.0,4,2.00,9,5,55.6,1,0,0,1,100.0,0,0,0,0,,Matches
+122,Jonas Omlin,ch SUI,GK,Gladbach,de Bundesliga,31-114,1994,10,9,798,8.9,23,2.59,57,33,63.2,2,1,6,1,11.1,3,2,1,0,33.3,Matches
+123,André Onana,cm CMR,GK,Manchester Utd,eng Premier League,29-032,1996,33,33,2970,33.0,43,1.30,129,86,69.0,10,9,14,9,27.3,4,3,1,0,25.0,Matches
+124,Stefan Ortega,de GER,GK,Manchester City,eng Premier League,32-179,1992,13,12,1100,12.2,18,1.47,50,33,68.0,5,4,3,3,25.0,2,2,0,0,0.0,Matches
+125,Jesús Owono,gq EQG,GK,Alavés,es La Liga,24-064,2001,6,5,487,5.4,7,1.29,14,7,57.1,1,1,3,0,0.0,1,1,0,0,0.0,Matches
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+126,Daniele Padelli,it ITA,GK,Udinese,it Serie A,39-191,1985,1,1,90,1.0,0,0.00,3,3,100.0,1,0,0,1,100.0,0,0,0,0,,Matches
+127,Alex Padilla,es ESP,GK,Athletic Club,es La Liga,21-245,2003,5,3,321,3.6,6,1.68,17,12,70.6,0,1,2,0,0.0,1,1,0,0,0.0,Matches
+128,Alberto Paleari,it ITA,GK,Torino,it Serie A,32-248,1992,1,1,90,1.0,3,3.00,7,4,57.1,0,0,1,0,0.0,0,0,0,0,,Matches
+129,Alex Palmer,eng ENG,GK,Ipswich Town,eng Premier League,28-267,1996,11,11,990,11.0,27,2.45,63,38,58.7,1,3,7,0,0.0,1,1,0,0,0.0,Matches
+130,Rui Patrício,pt POR,GK,Atalanta,it Serie A,37-078,1988,2,2,180,2.0,1,0.50,9,8,88.9,1,1,0,1,50.0,0,0,0,0,,Matches
+131,Iñaki Peña,es ESP,GK,Barcelona,es La Liga,26-063,1999,15,14,1306,14.5,18,1.24,52,34,69.2,6,3,5,3,21.4,2,2,0,0,0.0,Matches
+132,Daniel Peretz,il ISR,GK,Bayern Munich,de Bundesliga,24-298,2000,3,3,270,3.0,5,1.67,7,2,28.6,2,0,1,0,0.0,0,0,0,0,,Matches
+133,Simone Perilli,it ITA,GK,Hellas Verona,it Serie A,30-117,1995,1,1,90,1.0,1,1.00,6,5,83.3,0,0,1,0,0.0,0,0,0,0,,Matches
+134,Mattia Perin,it ITA,GK,Juventus,it Serie A,32-175,1992,5,5,450,5.0,3,0.60,16,13,81.3,2,3,0,3,60.0,0,0,0,0,,Matches
+135,Lucas Perri,br BRA,GK,Lyon,fr Ligue 1,27-145,1997,30,30,2700,30.0,40,1.33,149,109,75.2,16,6,8,9,30.0,3,3,0,0,0.0,Matches
+136,Đorđe Petrović,rs SRB,GK,Strasbourg,fr Ligue 1,25-208,1999,29,29,2610,29.0,33,1.14,140,108,80.0,15,8,6,10,34.5,6,5,1,0,16.7,Matches
+137,Luca Philipp,de GER,GK,Hoffenheim,de Bundesliga,24-157,2000,6,6,540,6.0,15,2.50,35,21,60.0,1,3,2,0,0.0,1,1,0,0,0.0,Matches
+138,Jordan Pickford,eng ENG,GK,Everton,eng Premier League,31-058,1994,35,35,3150,35.0,43,1.23,149,104,71.1,8,15,12,10,28.6,2,0,2,0,100.0,Matches
+139,Semuel Pizzignacco,it ITA,GK,Monza,it Serie A,23-245,2001,5,4,384,4.3,7,1.64,18,11,61.1,0,2,2,1,25.0,0,0,0,0,,Matches
+140,Nick Pope,eng ENG,GK,Newcastle Utd,eng Premier League,33-015,1992,24,24,2160,24.0,32,1.33,105,74,70.5,12,5,7,7,29.2,2,1,1,0,50.0,Matches
+141,Ivan Provedel,it ITA,GK,Lazio,it Serie A,31-048,1994,29,29,2610,29.0,42,1.45,92,52,58.7,15,6,8,5,17.2,4,4,0,0,0.0,Matches
+142,Ionuț Radu,ro ROU,GK,Venezia,it Serie A,27-341,1997,12,12,1080,12.0,11,0.92,50,39,82.0,1,7,4,4,33.3,2,2,0,0,0.0,Matches
+143,Hákon Rafn Valdimarsson,is ISL,GK,Brentford,eng Premier League,23-203,2001,2,1,145,1.6,2,1.24,4,3,50.0,0,0,1,1,100.0,0,0,0,0,,Matches
+144,Arnau Rafús,es ESP,GK,Valladolid,es La Liga,22-007,2003,1,1,90,1.0,2,2.00,2,0,0.0,0,0,1,0,0.0,0,0,0,0,,Matches
+145,Aaron Ramsdale,eng ENG,GK,Southampton,eng Premier League,26-355,1998,27,27,2430,27.0,62,2.30,173,109,67.1,2,4,21,2,7.4,7,5,2,0,28.6,Matches
+146,Federico Ravaglia,it ITA,GK,Bologna,it Serie A,25-174,1999,11,10,966,10.7,11,1.02,21,10,52.4,5,2,3,4,40.0,1,1,0,0,0.0,Matches
+147,David Raya,es ESP,GK,Arsenal,eng Premier League,29-231,1995,35,35,3150,35.0,31,0.89,108,77,74.1,18,13,4,12,34.3,3,3,0,0,0.0,Matches
+148,Pepe Reina,es ESP,GK,Como,it Serie A,42-246,1982,10,10,900,10.0,12,1.20,35,23,68.6,2,4,4,2,20.0,1,1,0,0,0.0,Matches
+149,Álex Remiro,es ESP,GK,Real Sociedad,es La Liga,30-041,1995,32,32,2880,32.0,36,1.13,115,78,73.0,12,6,14,12,37.5,6,5,1,0,16.7,Matches
+150,Guillaume Restes,fr FRA,GK,Toulouse,fr Ligue 1,20-054,2005,27,27,2363,26.3,33,1.26,84,53,61.9,8,6,13,8,29.6,2,1,1,0,50.0,Matches
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+151,Adrian Rodriguez,es ESP,GK,Alavés,es La Liga,24-143,2000,2,1,122,1.4,2,1.48,6,4,83.3,0,1,0,1,100.0,1,1,0,0,0.0,Matches
+152,Leo Román,es ESP,GK,Mallorca,es La Liga,24-302,2000,6,6,540,6.0,8,1.33,37,29,81.1,2,1,3,2,33.3,1,1,0,0,0.0,Matches
+153,Gerónimo Rulli,ar ARG,GK,Marseille,fr Ligue 1,32-349,1992,31,31,2790,31.0,43,1.39,128,84,68.8,18,4,9,5,16.1,6,3,3,0,50.0,Matches
+154,Mathew Ryan,au AUS,GK,Lens,fr Ligue 1,33-026,1992,11,11,990,11.0,15,1.36,48,32,72.9,6,0,5,5,45.5,3,2,1,0,33.3,Matches
+155,Frederik Rønnow,dk DEN,GK,Union Berlin,de Bundesliga,32-273,1992,27,27,2430,27.0,34,1.26,107,70,69.2,8,11,8,8,29.6,5,1,4,0,80.0,Matches
+156,José Sá,pt POR,GK,Wolves,eng Premier League,32-107,1993,27,27,2430,27.0,45,1.67,108,63,62.0,11,4,12,7,25.9,6,4,2,0,33.3,Matches
+157,Matvei Safonov,ru RUS,GK,Paris S-G,fr Ligue 1,26-068,1999,10,9,879,9.8,9,0.92,25,17,72.0,7,1,1,3,33.3,2,2,0,0,0.0,Matches
+158,Brice Samba,fr FRA,GK,Rennes,fr Ligue 1,31-009,1994,15,15,1350,15.0,23,1.53,71,47,67.6,6,0,9,4,26.7,1,0,1,0,100.0,Matches
+159,Brice Samba,fr FRA,GK,Lens,fr Ligue 1,31-009,1994,15,15,1350,15.0,14,0.93,54,40,81.5,6,6,3,7,46.7,4,4,0,0,0.0,Matches
+160,Robert Sánchez,es ESP,GK,Chelsea,eng Premier League,27-167,1997,28,28,2520,28.0,31,1.11,116,84,76.7,14,9,5,8,28.6,5,4,1,0,20.0,Matches
+161,Kauã Santos,br BRA,GK,Eint Frankfurt,de Bundesliga,22-023,2003,9,8,765,8.5,12,1.41,46,35,76.1,5,1,2,3,37.5,1,1,0,0,0.0,Matches
+162,Razvan Sava,ro ROU,GK,Udinese,it Serie A,22-317,2002,12,12,1080,12.0,16,1.33,51,37,74.5,5,4,3,4,33.3,3,3,0,0,0.0,Matches
+163,Alexander Schwolow,de GER,GK,Union Berlin,de Bundesliga,32-336,1992,5,5,450,5.0,12,2.40,24,12,54.2,1,0,4,0,0.0,1,1,0,0,0.0,Matches
+164,Simone Scuffet,it ITA,GK,Cagliari,it Serie A,28-338,1996,13,13,1170,13.0,23,1.77,56,33,67.9,3,3,7,1,7.7,5,5,0,0,0.0,Matches
+165,Simone Scuffet,it ITA,GK,Napoli,it Serie A,28-338,1996,1,1,90,1.0,1,1.00,4,3,75.0,0,1,0,0,0.0,0,0,0,0,,Matches
+166,Jacopo Seghetti,it ITA,GK,Empoli,it Serie A,20-076,2005,1,1,90,1.0,3,3.00,6,3,50.0,0,0,1,0,0.0,0,0,0,0,,Matches
+167,Matz Sels,be BEL,GK,Nott'ham Forest,eng Premier League,33-067,1992,34,34,3060,34.0,41,1.21,149,108,73.8,18,6,10,13,38.2,2,2,0,0,0.0,Matches
+168,Alen Sherri,al ALB,GK,Cagliari,it Serie A,27-140,1997,6,6,540,6.0,9,1.50,25,16,64.0,1,2,3,1,16.7,0,0,0,0,,Matches
+169,Rui Silva,pt POR,GK,Betis,es La Liga,31-086,1994,15,15,1350,15.0,18,1.20,54,37,72.2,5,5,5,4,26.7,3,3,0,0,0.0,Matches
+170,Marco Silvestri,it ITA,GK,Empoli,it Serie A,34-063,1991,5,5,450,5.0,11,2.20,27,17,59.3,0,1,4,0,0.0,0,0,0,0,,Matches
+171,Unai Simón,es ESP,GK,Athletic Club,es La Liga,27-327,1997,16,16,1440,16.0,11,0.69,51,39,78.4,7,7,2,6,37.5,1,0,1,0,100.0,Matches
+172,Tobias Sippel,de GER,GK,Gladbach,de Bundesliga,37-043,1988,1,0,59,0.7,3,4.58,4,1,25.0,0,0,0,0,,0,0,0,0,,Matches
+173,Antonio Sivera,es ESP,GK,Alavés,es La Liga,28-266,1996,28,28,2450,27.2,37,1.36,100,64,72.0,7,9,12,6,21.4,9,9,0,0,0.0,Matches
+174,Łukasz Skorupski,pl POL,GK,Bologna,it Serie A,33-364,1991,24,24,2094,23.3,26,1.12,70,45,64.3,11,11,2,8,33.3,2,1,1,0,50.0,Matches
+175,Yann Sommer,ch SUI,GK,Inter,it Serie A,36-138,1988,31,31,2790,31.0,30,0.97,108,78,74.1,19,7,5,12,38.7,3,2,1,0,33.3,Matches
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+176,David Soria,es ESP,GK,Getafe,es La Liga,32-030,1993,34,34,3060,34.0,31,0.91,109,77,77.1,10,9,15,9,26.5,7,6,1,0,14.3,Matches
+177,Juan Soriano,es ESP,GK,Leganés,es La Liga,27-254,1997,6,6,540,6.0,7,1.17,25,19,72.0,1,2,3,1,16.7,0,0,0,0,,Matches
+178,Marco Sportiello,it ITA,GK,Milan,it Serie A,32-359,1992,2,1,126,1.4,2,1.43,6,4,66.7,1,0,0,1,100.0,0,0,0,0,,Matches
+179,Filip Stankovic,rs SRB,GK,Venezia,it Serie A,23-068,2002,16,16,1367,15.2,23,1.51,83,60,77.1,2,6,8,0,0.0,5,4,1,0,20.0,Matches
+180,Jason Steele,eng ENG,GK,Brighton,eng Premier League,34-259,1990,2,2,180,2.0,1,0.50,4,3,75.0,2,0,0,1,50.0,0,0,0,0,,Matches
+181,Jakub Stolarczyk,pl POL,GK,Leicester City,eng Premier League,24-136,2000,7,7,630,7.0,12,1.71,31,19,61.3,2,0,5,1,14.3,0,0,0,0,,Matches
+182,Zion Suzuki,jp JPN,GK,Parma,it Serie A,22-256,2002,33,33,2970,33.8,49,1.48,140,93,68.6,6,14,14,6,18.2,5,5,0,0,0.0,Matches
+183,Mile Svilar,rs SRB,GK,Roma,it Serie A,25-250,1999,34,34,3060,34.0,32,0.94,136,105,79.4,17,9,8,14,41.2,4,4,0,0,0.0,Matches
+184,Wojciech Szczęsny,pl POL,GK,Barcelona,es La Liga,35-016,1990,13,13,1170,13.0,9,0.69,27,18,66.7,12,1,0,7,53.8,0,0,0,0,,Matches
+185,Marc-André ter Stegen,de GER,GK,Barcelona,es La Liga,33-004,1992,7,7,584,6.5,6,0.92,19,13,73.7,7,0,0,1,14.3,1,1,0,0,0.0,Matches
+186,Pietro Terracciano,it ITA,GK,Fiorentina,it Serie A,35-057,1990,3,3,270,3.0,3,1.00,13,10,76.9,0,3,0,1,33.3,0,0,0,0,,Matches
+187,Kevin Trapp,de GER,GK,Eint Frankfurt,de Bundesliga,34-300,1990,23,23,2025,22.5,30,1.33,111,80,73.0,11,6,6,6,26.1,2,0,2,0,100.0,Matches
+188,Mark Travers,ie IRL,GK,Bournemouth,eng Premier League,25-351,1999,5,5,450,5.0,5,1.00,25,20,80.0,2,2,1,1,20.0,0,0,0,0,,Matches
+189,Stefano Turati,it ITA,GK,Monza,it Serie A,23-241,2001,30,30,2676,29.7,52,1.75,145,93,65.5,2,7,21,2,6.7,4,2,2,0,50.0,Matches
+190,Sven Ulreich,de GER,GK,Bayern Munich,de Bundesliga,36-274,1988,1,1,90,1.0,0,0.00,0,0,,1,0,0,1,100.0,0,0,0,0,,Matches
+191,Jonas Urbig,de GER,GK,Bayern Munich,de Bundesliga,21-269,2003,8,8,720,8.0,12,1.50,28,16,57.1,4,3,1,2,25.0,0,0,0,0,,Matches
+192,Maarten Vandevoordt,be BEL,GK,RB Leipzig,de Bundesliga,23-067,2002,6,4,429,4.8,9,1.89,21,12,57.1,1,1,2,0,0.0,0,0,0,0,,Matches
+193,Nikola Vasilj,ba BIH,GK,St. Pauli,de Bundesliga,29-153,1995,32,32,2879,32.0,37,1.16,129,89,72.1,8,7,17,9,28.1,5,1,4,0,80.0,Matches
+194,Devis Vásquez,co COL,GK,Empoli,it Serie A,26-357,1998,28,28,2520,28.0,40,1.43,115,74,66.1,4,12,12,6,21.4,3,1,1,1,50.0,Matches
+195,Bart Verbruggen,nl NED,GK,Brighton,eng Premier League,22-259,2002,32,32,2880,32.0,54,1.69,128,76,63.3,11,12,9,6,18.8,7,7,0,0,0.0,Matches
+196,Guglielmo Vicario,it ITA,GK,Tottenham,eng Premier League,28-209,1996,22,22,1980,22.0,32,1.45,92,62,65.2,9,2,11,4,18.2,0,0,0,0,,Matches
+197,Fran Vieites,es ESP,GK,Betis,es La Liga,25-362,1999,4,4,360,4.0,5,1.25,11,6,54.5,1,2,1,0,0.0,0,0,0,0,,Matches
+198,Iván Villar,es ESP,GK,Celta Vigo,es La Liga,27-299,1997,4,4,360,4.0,9,2.25,18,10,50.0,2,0,2,0,0.0,1,0,1,0,100.0,Matches
+199,Christian Walton,eng ENG,GK,Ipswich Town,eng Premier League,29-176,1995,6,6,540,6.0,16,2.67,33,17,57.6,1,1,4,1,16.7,2,2,0,0,0.0,Matches
+200,Danny Ward,wls WAL,GK,Leicester City,eng Premier League,31-316,1993,2,1,135,1.5,6,4.00,10,4,40.0,0,0,1,0,0.0,0,0,0,0,,Matches
+Rk,Player,Nation,Pos,Squad,Comp,Age,Born,MP,Starts,Min,90s,GA,GA90,SoTA,Saves,Save%,W,D,L,CS,CS%,PKatt,PKA,PKsv,PKm,Save%,Matches
+201,Timon Weiner,de GER,GK,Holstein Kiel,de Bundesliga,26-106,1999,25,25,2250,25.0,61,2.44,140,81,59.3,4,5,16,2,8.0,4,4,0,0,0.0,Matches
+202,Robin Zentner,de GER,GK,Mainz 05,de Bundesliga,30-188,1994,31,31,2790,31.0,39,1.26,138,98,73.9,13,8,10,9,29.0,4,3,1,0,25.0,Matches
+203,Michael Zetterer,de GER,GK,Werder Bremen,de Bundesliga,29-296,1995,32,32,2880,32.0,56,1.75,144,91,63.2,13,8,11,9,28.1,3,3,0,0,0.0,Matches
