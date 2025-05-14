@@ -147,14 +147,36 @@ Smart depth signing. United need legitimate GK competition.
 ---
 
 ### 1. [Forward] – **Liam Delap**
-*(Same as above)*  
-Still an excellent value at £30M. **(via BBC)**
+- **Club:** Ipswich Town  
+- **Age:** 22  
+- **Nationality:** English  
+- **Estimated Fee:** £30M  
+- **Note:** Delap reportedly has a £30M release clause triggered by Ipswich's relegation. **(via BBC)**
+
+#### 🔢 Key Stats:
+- **Gls - xG:** +2.7 — One of the top U24 finishers globally.  
+- **Shots/90:** 3.4 — Compared to Højlund’s 1.29 and Zirkzee’s 1.8.  
+- **Touches in Attacking Third:** 9.46 — More than Højlund’s 6.7.  
+- **Key Passes:** 21 — Højlund has just 14.
+
+#### ✅ Verdict:
+At £30M, Delap presents great value — a no-brainer move.
 
 ---
 
 ### 2. [Attacking Midfielder] – **Finn Azaz**
-**(via Transfermarkt.us)**  
-A must-buy at current price even without UCL money.
+- **Club:** Middlesbrough  
+- **Age:** 24  
+- **Nationality:** Irish  
+- **Estimated Fee:** £10–15M  **(via Transfermarkt.us)**
+
+#### 🔢 Key Stats:
+- **Passes into Penalty Area:** 81  
+- **Passes into Final Third:** 127  
+- **GCA/90 & SCA/90:** 0.5 & 4.57  
+
+#### ✅ Verdict:
+Like Delap, Azaz is too good to pass up at his current price.
 
 ---
 
@@ -177,28 +199,39 @@ One of the best fullbacks in Holland. Would be a great addition.
 
 ---
 
-### 4. [Attacking Midfielder] – **Nico Paz**
-- **Club:** Como  
-- **Age:** 20  
-- **Nationality:** Argentine  
-- **Estimated Fee:** ~£50M  **(via Transfermarkt.us)**
+### 4. [Attacking Midfielder] – **Matheus Cunha**
+- **Club:** Wolves  
+- **Age:** 26  
+- **Nationality:** Brazilian  
+- **Estimated Fee:** ~£60M  **(via BBC)**
 
 #### 🔢 Key Stats:
-- **SCA:** 130  
-- **Take Ons leading to Shot-Creating Opportunities:** 19  
-- **GCA:** 0.48  
+- **Goals:** 16  
+- **Take-ons Leading to Shot-Creating Opportunities:** 17  
+- **GCA:** 0.59  
 
 #### 🧠 Fit in Amorim’s 3-4-2-1:
-Elite creativity. A cheaper, younger alternative to Trincão.
+Elite creativity. A more attainable alternative to Francisco Trincão, especially if Manchester United lose the Europa League final.
 
 #### ✅ Verdict:
-One of the world’s best young midfielders. Expensive, but a huge talent.
+One of the Premier League’s best midfielders. Expensive, but a huge talent who is Premier League-proven.
 
 ---
 
 ### 5. [Goalkeeper] – **Raúl Rangel**
-**(via Transfermarkt.us)**
-- Great value and fills backup goalkeeper need. 
+- **Club:** Chivas Guadalajara  
+- **Age:** 25  
+- **Nationality:** Mexican  
+- **Estimated Fee:** £5M  **(via Transfermarkt.us)**
+
+#### 🔢 Key Stats:
+- **Cross Stop %:** 8.4%  
+- **GA/90:** 1  
+
+
+#### ✅ Verdict:
+Backup goalie remains a position of need, and Rangel would be the perfect profile to push Onana.
+
 
 ---
 
@@ -221,16 +254,23 @@ Consistent goalscorer. Adds reliable depth.
 
 ---
 
+
 ## 🧾 Final Thoughts
 
-Regardless of budget:
-- **United must improve** at:
-  - Center-forward
-  - **United Must Add Goals**
-  - Creative midfield
-  - **Increasing the overall quality of the midfield is crucial**
-  - Wing-back
-  **Someone Who Can Attack and Defend is Crucial to Amorim's System**
-  - Backup goalkeeper
-- **Competition** for Onana is non-negotiable.
-- Production + Value = Smart squad building.
+Regardless of budget, **Manchester United must improve in several key areas**:
+
+- **Center-forward**  
+  *United must add goals.*
+
+- **Creative Midfield**  
+  *Increasing the overall quality of the midfield is crucial.*
+
+- **Wing-back**  
+  *Someone who can attack and defend is essential to Amorim's system.*
+
+- **Backup Goalkeeper**  
+  *Competition for Onana is non-negotiable.*
+
+- **Squad Depth**  
+  *The squad lacks quality rotation players. With a potential 60+ game season ahead, United desperately need to boost their ranks.*
+
