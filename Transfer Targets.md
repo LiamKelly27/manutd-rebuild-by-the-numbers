@@ -11,7 +11,7 @@
 - **Age:** 22  
 - **Nationality:** English  
 - **Estimated Fee:** £30M  
-- **Note:** Delap reportedly has a £30M release clause triggered by Ipswich's relegation. *(via BBC)*  
+- **Note:** Delap reportedly has a £30M release clause triggered by Ipswich's relegation. **(via BBC)** 
 
 #### 🔢 Key Stats:
 - **Gls - xG:** +2.7 — One of the top U24 finishers globally.  
@@ -32,7 +32,7 @@ Finding a Premier League-proven, physically dominant, young striker for £30M is
 - **Age:** 24  
 - **Nationality:** Italian  
 - **Estimated Fee:** £30–35M  
-- **Note:** Moved from Torino for ~£18M; Atalanta would demand a premium. **(via ([Transfermarkt)https://www.transfermarkt.us])*
+- **Note:** Moved from Torino for ~£18M; Atalanta would demand a premium. **(via Transfermarkt.us)**
  *  
 
 #### 🔢 Key Stats:
@@ -52,7 +52,7 @@ A bit costly, but Bellanova’s unique blend of traits and age profile make him 
 - **Club:** Sporting CP  
 - **Age:** 25  
 - **Nationality:** Portuguese  
-- **Estimated Fee:** £60–70M  
+- **Estimated Fee:** £60–70M  **(via Transfermarkt.us)**
 - **Note:** Barcelona holds a 50% sell-on clause.  
 
 #### 🔢 Key Stats:
@@ -71,7 +71,7 @@ Expensive, but a proven performer under Amorim. A realistic target if Champions 
 - **Club:** Bayer Leverkusen  
 - **Age:** 29  
 - **Nationality:** Czech  
-- **Estimated Fee:** £25–30M  
+- **Estimated Fee:** £25–30M  **(via Transfermarkt.us)**
 
 #### 🔢 Key Stats:
 - **Goals per Shot:** 0.29  
@@ -90,7 +90,7 @@ Not a world-class name, but a clinical finisher for a reasonable price. Smart sq
 - **Club:** Middlesbrough  
 - **Age:** 24  
 - **Nationality:** Irish  
-- **Estimated Fee:** £10–15M  
+- **Estimated Fee:** £10–15M  **(via Transfermarkt.us)**
 
 #### 🔢 Key Stats:
 - **Passes into Penalty Area:** 81  
@@ -109,7 +109,7 @@ A low-risk, high-upside signing. Already looks a cut above the Championship.
 - **Club:** Leicester City  
 - **Age:** 27  
 - **Nationality:** Belgian  
-- **Estimated Fee:** £15–20M  
+- **Estimated Fee:** £15–20M  **(via Transfermarkt.us)**
 
 #### 🔢 Key Stats:
 - **Passing Accuracy (Short/Medium):** 93.8% / 95%  
@@ -128,7 +128,7 @@ Underrated. Quality depth at a discount due to Leicester’s relegation.
 - **Club:** Chivas Guadalajara  
 - **Age:** 25  
 - **Nationality:** Mexican  
-- **Estimated Fee:** £5M  
+- **Estimated Fee:** £5M  **(via Transfermarkt.us)**
 
 #### 🔢 Key Stats:
 - **Cross Stop %:** 8.4%  
@@ -148,12 +148,12 @@ Smart depth signing. United need legitimate GK competition.
 
 ### 1. [Forward] – **Liam Delap**
 *(Same as above)*  
-Still an excellent value at £30M.
+Still an excellent value at £30M. **(via BBC)**
 
 ---
 
 ### 2. [Attacking Midfielder] – **Finn Azaz**
-*(Same as above)*  
+**(via Transfermarkt.us)**  
 A must-buy at current price even without UCL money.
 
 ---
@@ -162,7 +162,7 @@ A must-buy at current price even without UCL money.
 - **Club:** FC Utrecht  
 - **Age:** 24  
 - **Nationality:** Moroccan  
-- **Estimated Fee:** ~£10M  
+- **Estimated Fee:** ~£10M  **(via Transfermarkt.us)**
 
 #### 🔢 Key Stats:
 - **GCA/90:** 0.60  
@@ -181,7 +181,7 @@ One of the best fullbacks in Holland. Would be a great addition.
 - **Club:** Como  
 - **Age:** 20  
 - **Nationality:** Argentine  
-- **Estimated Fee:** ~£50M  
+- **Estimated Fee:** ~£50M  **(via Transfermarkt.us)**
 
 #### 🔢 Key Stats:
 - **SCA:** 130  
@@ -197,7 +197,7 @@ One of the world’s best young midfielders. Expensive, but a huge talent.
 ---
 
 ### 5. [Goalkeeper] – **Raúl Rangel**
-*(Same as above)*
+**(via Transfermarkt.us)**
 
 ---
 
