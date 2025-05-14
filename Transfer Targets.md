@@ -117,7 +117,7 @@ A low-risk, high-upside signing. Already looks a cut above the Championship.
 - **Tackles vs Dribblers:** 23  
 
 #### 🧠 Fit in Amorim’s 3-4-2-1:
-Ball-playing CB with solid defensive numbers. Quality depth behind Martínez and Varane.
+Ball-playing CB with solid defensive numbers. Quality depth behind De Ligt and Yoro.
 
 #### ✅ Verdict:
 Underrated. Quality depth at a discount due to Leicester’s relegation.
@@ -198,6 +198,7 @@ One of the world’s best young midfielders. Expensive, but a huge talent.
 
 ### 5. [Goalkeeper] – **Raúl Rangel**
 **(via Transfermarkt.us)**
+- Great value and fills backup goalkeeper need. 
 
 ---
 
