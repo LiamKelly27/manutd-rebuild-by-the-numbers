@@ -239,7 +239,7 @@ Backup goalie remains a position of need, and Rangel would be the perfect profil
 - **Club:** Borussia Mönchengladbach  
 - **Age:** 29  
 - **Nationality:** German  
-- **Estimated Fee:** £15–20M  
+- **Estimated Fee:** £15–20M  **(via Transfermarkt.us)**
 
 #### 🔢 Key Stats:
 - **Goals per Shot:** 0.21  
