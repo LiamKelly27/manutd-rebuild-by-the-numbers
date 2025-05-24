@@ -9,7 +9,7 @@ This document outlines the key variables across the cleaned datasets used in thi
 | Column Name            | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
 | `player`               | Full name of the player                                                     |
-| `age`                  | Player's age at season start                                                |
+| `age`                  | Player's exact age divided by 365, eg (25-132 = 25.36) as of the 5th of May 2025                                              |
 | `pos`                  | Primary position (e.g., ST, CM, CB, GK)                                     |
 | `squad`                | Club the player played for                                                  |
 | `MP`                   | Total minutes played                                                        |
