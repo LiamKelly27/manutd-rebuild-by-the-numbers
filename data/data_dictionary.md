@@ -8,14 +8,12 @@ This document outlines the key variables across the cleaned datasets used in thi
 
 | Column Name            | Description                                                                 |
 |------------------------|-----------------------------------------------------------------------------|
-| `player_name`          | Full name of the player                                                     |
+| `player`               | Full name of the player                                                     |
 | `age`                  | Player's age at season start                                                |
-| `position`             | Primary position (e.g., ST, CM, CB, GK)                                     |
-| `squad`                 | Club the player played for                                                  |
-| `league`               | League name                                                                 |
-| `nationality`          | Nationality                                                                 |
-| `minutes_played`       | Total minutes played                                                        |
-| `goals`                | Goals scored                                                                |
+| `pos`                  | Primary position (e.g., ST, CM, CB, GK)                                     |
+| `squad`                | Club the player played for                                                  |
+| `MP`                   | Total minutes played                                                        |
+| `Gls`                  | Goals scored                                                                |
 | `assists`              | Assists made                                                                |
 | `xG`                   | Expected Goals                                                              |
 | `xA`                   | Expected Assists                                                            |
@@ -42,8 +40,9 @@ This document outlines the key variables across the cleaned datasets used in thi
 | `red_cards`            | Red cards received                                                          |
 | `GCA`                  | Goal-Creating Actions                                                       |
 | `SCA`                  | Shot-Creating Actions                                                       |
-| `PPDA`                 | Passes Allowed Per Defensive Action (opponent metric, lower is better)      |
-| `xT`                   | Expected Threat – measures danger created by passes/carries (if used)       |
+| `ProP`                 | Progressive Pass                                                            |
+| `ProC`                 | Progressive Carries                                                         |
+| `ProR`                 | Progressive Passes Received                                                 |
 
 ---
 
@@ -51,7 +50,7 @@ This document outlines the key variables across the cleaned datasets used in thi
 
 | Column Name              | Description                                                             |
 |--------------------------|-------------------------------------------------------------------------|
-| `team`                   | Team name                                                               |
+| `squad`                   | Team name                                                               |
 | `matches_played`         | Games played                                                            |
 | `goals_for`              | Total goals scored                                                      |
 | `goals_against`          | Goals conceded                                                          |
