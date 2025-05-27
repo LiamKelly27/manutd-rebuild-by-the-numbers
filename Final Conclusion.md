@@ -37,5 +37,6 @@ By focusing on **underlying numbers** instead of name recognition, the club can 
 ✍️ Author
 Liam Kelly
 🧠 Data Analyst in training | ⚽ Football obsessive | 🇮🇪 🇺🇸
+
 [LinkedIn](https://www.linkedin.com/in/liam-kelly-030584225/) | [GitHub](https://github.com/LiamKelly27)
 
