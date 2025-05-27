@@ -34,9 +34,4 @@ Manchester United’s rebuild **won’t be fixed by spending alone**. Smarter re
 By focusing on **underlying numbers** instead of name recognition, the club can lower risk in the transfer market, build a better-balanced squad, and climb back into Europe’s elite —
 **where Manchester United truly belongs.**
 
-✍️ Author
-Liam Kelly
-🧠 Data Analyst in training | ⚽ Football obsessive | 🇮🇪 🇺🇸
-
-[LinkedIn](https://www.linkedin.com/in/liam-kelly-030584225/) | [GitHub](https://github.com/LiamKelly27)
 
