@@ -17,7 +17,7 @@ This project took a **data-driven look** at how the club can rebuild more effect
 
 ## 🎯 Transfer Market Opportunities
 
-Using player data from the **top ten leagues in Europe**, this project identified several **forwards and midfielders** who represent strong value and address clear weaknesses:
+Using player data from the **top leagues around the world**, this project identified several **forwards and midfielders** who represent strong value and address clear weaknesses:
 
 * **Amad Diallo** and **Bruno Fernandes** are the **only attackers** in the current squad who consistently create goal-scoring opportunities. This is a major concern and must be addressed heading into next season.
 
