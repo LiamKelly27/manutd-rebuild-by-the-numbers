@@ -36,7 +36,7 @@ To use player and team performance metrics (including xG, xA, defensive contribu
 
 
 #### Squad Progressive Carries Heatmap
-![Squad Heatmap](Visuals/Man Utd Progressive Carries Production By Position.png)
+![Squad Heatmap](Visuals/Man%20Utd%20Progressive%20Carries%20Production%20By%20Position.png)
 
 
 | File/Folder           | Description                                     |
