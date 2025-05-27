@@ -29,7 +29,7 @@ To use player and team performance metrics (including xG, xA, defensive contribu
 - Which midfielders create the most chances by GCA and SCA?
 - Who are the most likely breakout stars in undervalued leagues?
 
-📷 Visual Examples
+## 📷 Visual Examples
 
 - #### xG vs. Goals for Top 3 Transfer Targets.png
 ![xG vs Goals Chart](Visuals/xG%20vs.%20Goals%20for%20Top%203%20Transfer%20Targets.png)
@@ -39,7 +39,7 @@ To use player and team performance metrics (including xG, xA, defensive contribu
 ![Squad Heatmap](Visuals/Man%20Utd%20Progressive%20Carries%20Production%20By%20Position.png)
 
 
-| File/Folder           | Description                                     |
+## | File/Folder           | Description                                     |
 | --------------------- | ----------------------------------------------- |
 | `data/`               | Raw CSVs & cleaned datasets                     |
 | `python_code/`        | All Python scripts for scraping & visualization |
