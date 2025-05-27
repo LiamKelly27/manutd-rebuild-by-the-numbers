@@ -50,3 +50,8 @@ To use player and team performance metrics (including xG, xA, defensive contribu
 | `Transfer Targets.md` | Data-backed transfer recommendations            |
 | `Final_Conclusion.md` | Final rebuild summary & vision                  |
 
+✍️ Author
+Liam Kelly
+🧠 Data Analyst in training | ⚽ Football obsessive | 🇮🇪 🇺🇸
+
+[LinkedIn](https://www.linkedin.com/in/liam-kelly-030584225/) | [GitHub](https://github.com/LiamKelly27)
