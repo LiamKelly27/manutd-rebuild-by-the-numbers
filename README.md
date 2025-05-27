@@ -31,7 +31,7 @@ To use player and team performance metrics (including xG, xA, defensive contribu
 
 ## 📷 Visual Examples
 
-- #### xG vs. Goals for Top 3 Transfer Targets.png
+ #### xG vs. Goals for Top 3 Transfer Targets.png
 ![xG vs Goals Chart](Visuals/xG%20vs.%20Goals%20for%20Top%203%20Transfer%20Targets.png)
 
 
