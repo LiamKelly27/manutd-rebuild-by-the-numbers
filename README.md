@@ -10,44 +10,42 @@ To use player and team performance metrics (including xG, xA, defensive contribu
 - Python (Selenium, Pandas)
 - SQL (Google BigQuery)
 - Google Sheets
-- Tableau (for data visualization)
+- Tableau and Plotly (for data visualizations)
+- Markdown (for documentation)
 - Git/GitHub
 
 ## 📊 Data Sources
-- FBref (Top 5 European Leagues)
+- FBref (Top 5 European Leagues, Liga MX, MLS, EFL Championship, Liga Brasileña, Liga Argentina, Eredivise, and Primera Liga (Portugal) )
 - Transfermarkt (for estimated market value and contracts)
 
 ## ✅ Key Features
 - Cleaned and structured player performance data into SQL
 - Identified underperforming players based on metrics such as xG vs goals SoT_per90 vs goals
-- Created visual dashboards to explore transfer targets
+- Created visual dashboards to explore transfer targets and evaluate current strengths and weaknesses
 - Built realistic transfer targets within a set budget (~£200M with Champions League,~£120 without Champions League)
 
 ## 📈 Sample Questions Explored
 - Who are the best value-for-money attackers under age 24?
-- Which defenders outperform their xGA or tackle rates?
+- Which midfielders create the most chances by GCA and SCA?
 - Who are the most likely breakout stars in undervalued leagues?
 
-## 📁 Folder Structure
-manutd-rebuild-by-the-numbers/
-│
-├── README.md                # Project overview and documentation
-│
-├── data/
-│   ├── raw/                 # Raw CSVs and scraped files (FBref exports)
-│   └── cleaned/             # Cleaned data ready for analysis or SQL import
-│
-├── sql/
-│   ├── schema.sql           # Table creation and structure
-│   └── queries/             # Individual SQL queries used in analysis
-│
-├── analysis/
-│   ├── notebooks/           # Jupyter or Colab notebooks 
-│   └── scripts/             # Python files for scraping, cleaning, etc.
-│
-├── visuals/
-│   ├── charts/              # Static visualizations (PNGs from Tableau)
-│   └── dashboards/          # Screenshots and links to Tableau dashboards
-│
-└── reports/
-    └── final_report.md      # Written analysis and conclusions
+📷 Visual Examples
+
+- #### xG%20vs.%20Goals%20for%20Top%203%20Transfer%20Targets.png
+![xG vs Goals Chart](Visuals/xG vs. Goals for Top 3 Transfer Targets.png)
+
+#### Squad Progressive Carries Heatmap
+![Squad Heatmap](Visuals/Man Utd Progressive Carries Production By Position.png)
+
+
+| File/Folder           | Description                                     |
+| --------------------- | ----------------------------------------------- |
+| `data/`               | Raw CSVs & cleaned datasets                     |
+| `python_code/`        | All Python scripts for scraping & visualization |
+| `Visuals`             | All Tableau graphs and visualzations             |
+| `player_analysis_sql` | All SQL codes used to sort players              |
+| `INTRO.md`            | Context on United's historical decline and where they are now          |
+| `Squad Analysis.md`   | Assessing what the squad needs                   |
+| `Transfer Targets.md` | Data-backed transfer recommendations            |
+| `Final_Conclusion.md` | Final rebuild summary & vision                  |
+
